@@ -1,0 +1,50 @@
+101,0,'Burlington Go',1
+100,0,'Hamilton',1
+200,0,'Burlington',2
+201,0,'Cavendish',2
+300,0,'Burlington Go',3
+301,0,'Cavendish',3
+401,0,'Appleby Go',4
+400,0,'Downtown',4
+501,0,'Burlington Go',5
+500,0,'King Road',5
+601,0,'407 Carpool',6
+600,0,'Burlington Go',6
+1001,0,'Appleby Go',10
+1000,0,'Burlington Go',10
+1101,0,'407 Carpool',11
+1100,0,'Appleby Go',11
+1201,0,'Burlington Go',12
+1200,0,'Sutton',12
+2100,0,'Appleby Go',21
+2101,0,'Burlington Go',21
+2500,0,'407 Carpool',25
+2501,0,'Burlington Go',25
+4800,0,'Sutton',48
+4801,0,'Tim Dobbie',48
+5000,0,'South',50
+5100,0,'Northeast',51
+5200,0,'Northwest',52
+8000,0,'Appleby Go',80
+8001,0,'Burlington Go',80
+8100,0,'Appleby Go',81
+8101,0,'Burlington Go',81
+8300,0,'Appleby Go',83
+8700,0,'Aldershot Go',87
+8701,0,'Burlington Go',87
+10100,0,'Burlington Go',101
+10101,0,'Hamilton',101
+30000,0,'Joseph Brant / Tansley Woods / Downtown',300
+101500,0,'Appleby Go',1015
+102000,0,'Appleby Go',1020
+104000,0,'Appleby Go',1040
+201500,0,'Appleby Go',2015
+202000,0,'Appleby Go',2020
+204000,0,'Appleby Go',2040
+2400101,0,'Burlington Go',24001
+2400100,0,'Hamilton',24001
+2400201,0,'407 Carpool',24002
+2400200,0,'Burlington',24002
+2400300,0,'Burlington Go',24003
+2401201,0,'Burlington Go',24012
+2401200,0,'Sutton',24012
