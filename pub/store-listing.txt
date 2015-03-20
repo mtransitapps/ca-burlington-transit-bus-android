@@ -2,17 +2,18 @@ Title: Burlington Transit Bus - Mont…
 ----------
 Short description:
 Burlington Transit buses for MonTransit BETA
-Schedule…
+Schedule. News from burlington.ca
 ----------
 What's new in this version?:
 Schedule from January 4, 2015 to December 31, 2015.
+News from www.burlington.ca
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
 This application adds Burlington Transit buses information to MonTransit BETA.
 
-This app contains the buses schedule (available offline).
+This app contains the buses schedule (available offline) and news from www.burlington.ca.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -31,6 +32,9 @@ This application is free and open-source:
 https://github.com/mtransitapps/ca-burlington-transit-bus-android
 
 This app is not related with the City of Burlington and Burlington Transit.
+
+Permissions:
+- Other: required to read news from www.burlington.ca
 ----------
 Application type: Applications
 ----------
