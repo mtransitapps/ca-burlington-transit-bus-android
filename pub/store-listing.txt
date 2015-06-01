@@ -2,7 +2,7 @@ Title: Burlington Transit Bus - Mont…
 ----------
 Short description:
 Burlington Transit buses for MonTransit.
-Schedule. News from burlington.ca
+Schedule. News.
 ----------
 What's new in this version?:
 Schedule from January 4, 2015 to December 31, 2015.
