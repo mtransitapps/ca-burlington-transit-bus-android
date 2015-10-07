@@ -1,807 +1,807 @@
-2,'','Lakeshore Rd / E Of Old Lakeshore',43.327041,-79.79048
-3,'','Lakeshore Rd / Torrance St',43.327341,-79.790276
-4,'','Brant St / Caroline St',43.327648,-79.800858
-5,'','James St / Pearl St',43.327775,-79.796112
-6,'','Brant St / Caroline St',43.327602,-79.800491
-7,'','James St / 2082 James St',43.328072,-79.795459
-8,'','Maple Ave / S Of Fairview',43.328334,-79.819999
-10,'','Brant St / 541 Brant St',43.329,-79.802503
-11,'PRMA','Maple Ave / Plains Rd',43.329684,-79.820504
-12,'','Lakeshore Rd / Smith Ave',43.328472,-79.788317
-13,'','Lakeshore Rd / E Of Smith Ave',43.328487,-79.788003
-15,'','Lakeshore Rd / E Of Stratheden',43.329062,-79.787063
-17,'','New St / Martha St',43.329239,-79.795377
-18,'','New St / Holtby Ave Nearside',43.329385,-79.794955
-19,'','Brant St / Victoria Ave',43.329949,-79.804238
-20,'FSMA','Maple Ave / Fairview St',43.329791,-79.820908
-22,'WLNR','North Service Rd / Walkers Line',43.367862,-79.790639
-23,'','Lakeshore Rd / E Of Seneca Ave',43.330521,-79.78367
-24,'','Lakeshore Rd / Delaware Ave',43.330795,-79.783388
-25,'WLFS','Fairview St / Walkers Line',43.359562,-79.779605
-26,'','Lakeshore Rd / Green St',43.33141,-79.781791
-27,'','Lakeshore Rd / Green St',43.331527,-79.781817
-28,'','New St / Lorne St',43.331538,-79.792851
-30,'','New St / 2228 New St',43.332303,-79.791782
-31,'','Lakeshore Rd / E Of Market St',43.332403,-79.779958
-32,'','Lakeshore Rd / St Paul St',43.332429,-79.779601
-33,'','Brant St / Ghent Ave',43.332838,-79.808527
-34,'','Brant St / Ghent Ave',43.333061,-79.80837
-35,'','New St / Drury Ln',43.333278,-79.791003
-36,'','Guelph Line / Lakeshore Rd',43.333324,-79.778627
-37,'','Guelph Line / N Of Lakeshore Rd',43.333602,-79.778708
-39,'','Brant St / Prospect St',43.333991,-79.809738
-40,'','Brant St / Prospect St',43.334123,-79.810343
-41,'','New St / Teen Tour Way Farside',43.333982,-79.790186
-42,'','New St / Seneca Ave',43.333974,-79.789969
-43,'','Drury Lane / Teen Tour Way',43.334783,-79.793498
-44,'','Brant St / Maplewood Dr',43.335019,-79.811242
-45,'','Teen Tour Way / Drury Lane',43.334825,-79.793147
-47,'','Brant St / Maplewood Dr',43.335171,-79.811861
-49,'','Fairview St / Brant St Nearside',43.335336,-79.813056
-50,'','Guelph Line / 2nd St',43.335002,-79.780883
-51,'','Guelph Line / Princess Blvd',43.335057,-79.780676
-52,'','New St / Delaware Ave',43.335159,-79.788662
-53,'','New St / Public Library',43.335266,-79.78878
-56,'','Fairview St / E Of Brant St',43.336527,-79.812271
-57,'','Brant St / S Of De Pauls Lane',43.336599,-79.813449
-58,'','Fairview St / E Of Brant Street',43.336643,-79.811729
-59,'','New St / Across From Beverly Ave',43.336523,-79.787093
-60,'','Drury Lane / Courtland Dr',43.336657,-79.795584
-61,'','New St / Beverly Dr',43.336615,-79.787322
-62,'','Guelph Line / Woodland Park Dr',43.336653,-79.782848
-63,'','Drury Lane / Courtland Dr',43.336772,-79.795872
-64,'','Guelph Line / Woodland Park Dr',43.336668,-79.783143
-67,'','Guelph Line / S Of New St',43.337551,-79.784402
-68,'','Drury Lane / Woodward Ave',43.337767,-79.796871
-69,'','Fairview St / Walmart',43.337925,-79.810861
-71,'','Brant St / Plains Rd E',43.338165,-79.816583
-72,'','Drury Lane / Woodward Ave',43.337996,-79.797367
+2,'','Lakeshore Rd @ E Of Old Lakeshore',43.327041,-79.79048
+3,'','Lakeshore Rd @ Torrance St',43.327341,-79.790276
+4,'','Brant St @ Caroline St',43.327648,-79.800858
+5,'','James St @ Pearl St',43.327775,-79.796112
+6,'','Brant St @ Caroline St',43.327602,-79.800491
+7,'','James St @ 2082 James St',43.328072,-79.795459
+8,'','Maple Ave @ S Of Fairview',43.328334,-79.819999
+10,'','Brant St @ 541 Brant St',43.329,-79.802503
+11,'PRMA','Maple Ave @ Plains Rd',43.329684,-79.820504
+12,'','Lakeshore Rd @ Smith Ave',43.328472,-79.788317
+13,'','Lakeshore Rd @ E Of Smith Ave',43.328487,-79.788003
+15,'','Lakeshore Rd @ E Of Stratheden',43.329062,-79.787063
+17,'','New St @ Martha St',43.329239,-79.795377
+18,'','New St @ Holtby Ave Nearside',43.329385,-79.794955
+19,'','Brant St @ Victoria Ave',43.329949,-79.804238
+20,'FSMA','Maple Ave @ Fairview St',43.329791,-79.820908
+22,'WLNR','North Service Rd @ Walkers Line',43.367862,-79.790639
+23,'','Lakeshore Rd @ E Of Seneca Ave',43.330521,-79.78367
+24,'','Lakeshore Rd @ Delaware Ave',43.330795,-79.783388
+25,'WLFS','Fairview St @ Walkers Line',43.359562,-79.779605
+26,'','Lakeshore Rd @ Green St',43.33141,-79.781791
+27,'','Lakeshore Rd @ Green St',43.331527,-79.781817
+28,'','New St @ Lorne St',43.331538,-79.792851
+30,'','New St @ 2228 New St',43.332303,-79.791782
+31,'','Lakeshore Rd @ E Of Market St',43.332403,-79.779958
+32,'','Lakeshore Rd @ St Paul St',43.332429,-79.779601
+33,'','Brant St @ Ghent Ave',43.332838,-79.808527
+34,'','Brant St @ Ghent Ave',43.333061,-79.80837
+35,'','New St @ Drury Ln',43.333278,-79.791003
+36,'','Guelph Line @ Lakeshore Rd',43.333324,-79.778627
+37,'','Guelph Line @ N Of Lakeshore Rd',43.333602,-79.778708
+39,'','Brant St @ Prospect St',43.333991,-79.809738
+40,'','Brant St @ Prospect St',43.334123,-79.810343
+41,'','New St @ Teen Tour Way Farside',43.333982,-79.790186
+42,'','New St @ Seneca Ave',43.333974,-79.789969
+43,'','Drury Lane @ Teen Tour Way',43.334783,-79.793498
+44,'','Brant St @ Maplewood Dr',43.335019,-79.811242
+45,'','Teen Tour Way @ Drury Lane',43.334825,-79.793147
+47,'','Brant St @ Maplewood Dr',43.335171,-79.811861
+49,'','Fairview St @ Brant St Nearside',43.335336,-79.813056
+50,'','Guelph Line @ 2nd St',43.335002,-79.780883
+51,'','Guelph Line @ Princess Blvd',43.335057,-79.780676
+52,'','New St @ Delaware Ave',43.335159,-79.788662
+53,'','New St @ Public Library',43.335266,-79.78878
+56,'','Fairview St @ E Of Brant St',43.336527,-79.812271
+57,'','Brant St @ S Of De Pauls Lane',43.336599,-79.813449
+58,'','Fairview St @ E Of Brant Street',43.336643,-79.811729
+59,'','New St @ Across From Beverly Ave',43.336523,-79.787093
+60,'','Drury Lane @ Courtland Dr',43.336657,-79.795584
+61,'','New St @ Beverly Dr',43.336615,-79.787322
+62,'','Guelph Line @ Woodland Park Dr',43.336653,-79.782848
+63,'','Drury Lane @ Courtland Dr',43.336772,-79.795872
+64,'','Guelph Line @ Woodland Park Dr',43.336668,-79.783143
+67,'','Guelph Line @ S Of New St',43.337551,-79.784402
+68,'','Drury Lane @ Woodward Ave',43.337767,-79.796871
+69,'','Fairview St @ Walmart',43.337925,-79.810861
+71,'','Brant St @ Plains Rd E',43.338165,-79.816583
+72,'','Drury Lane @ Woodward Ave',43.337996,-79.797367
 73,'','Fairview St Opposite Walmart',43.33818,-79.810041
-79,'','Brant Street / Leighland Ave',43.339135,-79.818846
-81,'','New St / E Of Guelph Line',43.338806,-79.784583
-83,'','Guelph Line / N Of New St',43.338901,-79.785881
-87,'','Drury Lane / 736 Drury Lane',43.340081,-79.800233
-90,'','Drury Lane / Prospect St',43.340451,-79.800524
-91,'','Guelph Line / Glencrest Rd',43.34037,-79.78791
-92,'','Guelph Line / Glencrest Rd',43.340367,-79.788367
-97,'','New St / Clairidge Rd',43.340945,-79.782598
-98,'','Fairview St / 2200 Fairview St',43.341222,-79.805202
-99,'','New St / Rossmore Blvd',43.341176,-79.782057
-100,'','Fairview St / E Of Argon Crt',43.341673,-79.804936
-101,'','Prospect St / Parker Cr',43.34189,-79.798911
-102,'','Prospect St / 2346 Prospect St',43.342252,-79.798389
-103,'','New St / 3131 New St',43.34209,-79.781345
-104,'','Fairview St / Drury Ln Nearside',43.342331,-79.8037
-105,'','Guelph Line / Woodward Ave',43.342496,-79.790794
-107,'','Guelph Line / Woodward Ave',43.342551,-79.791267
-109,'','Fairview St / Drury Ln Nearside',43.342906,-79.803296
-113,'','Brant St / Power Centre',43.343498,-79.824912
-114,'','New St / 3180 New St',43.34313,-79.779925
-115,'','New St / Dynes Rd',43.343202,-79.780145
-116,'','Prospect St / Wesley St',43.343451,-79.796802
-117,'','Fairview St / Value Village',43.343761,-79.801762
-119,'','Fairview St / 2321 Fairview St',43.343947,-79.801898
-120,'','Brant St / North Service Farside',43.344608,-79.825919
-122,'','Brant St / North Service Rd',43.3448,-79.826697
+79,'','Brant Street @ Leighland Ave',43.339135,-79.818846
+81,'','New St @ E Of Guelph Line',43.338806,-79.784583
+83,'','Guelph Line @ N Of New St',43.338901,-79.785881
+87,'','Drury Lane @ 736 Drury Lane',43.340081,-79.800233
+90,'','Drury Lane @ Prospect St',43.340451,-79.800524
+91,'','Guelph Line @ Glencrest Rd',43.34037,-79.78791
+92,'','Guelph Line @ Glencrest Rd',43.340367,-79.788367
+97,'','New St @ Clairidge Rd',43.340945,-79.782598
+98,'','Fairview St @ 2200 Fairview St',43.341222,-79.805202
+99,'','New St @ Rossmore Blvd',43.341176,-79.782057
+100,'','Fairview St @ E Of Argon Crt',43.341673,-79.804936
+101,'','Prospect St @ Parker Cr',43.34189,-79.798911
+102,'','Prospect St @ 2346 Prospect St',43.342252,-79.798389
+103,'','New St @ 3131 New St',43.34209,-79.781345
+104,'','Fairview St @ Drury Ln Nearside',43.342331,-79.8037
+105,'','Guelph Line @ Woodward Ave',43.342496,-79.790794
+107,'','Guelph Line @ Woodward Ave',43.342551,-79.791267
+109,'','Fairview St @ Drury Ln Nearside',43.342906,-79.803296
+113,'','Brant St @ Power Centre',43.343498,-79.824912
+114,'','New St @ 3180 New St',43.34313,-79.779925
+115,'','New St @ Dynes Rd',43.343202,-79.780145
+116,'','Prospect St @ Wesley St',43.343451,-79.796802
+117,'','Fairview St @ Value Village',43.343761,-79.801762
+119,'','Fairview St @ 2321 Fairview St',43.343947,-79.801898
+120,'','Brant St @ North Service Farside',43.344608,-79.825919
+122,'','Brant St @ North Service Rd',43.3448,-79.826697
 124,'','Prospect St 2439 Prospect St',43.34454,-79.795486
-125,'','Guelph Line / Prospect St',43.344725,-79.794254
-126,'','Guelph Line / S Of Prospect St',43.344877,-79.79401
-130,'','New St / Cumberland Ave',43.34539,-79.777475
-131,'GLPS','Prospect / At 3030 Prospect St',43.345871,-79.793318
-132,'','New St / Cumberland Ave',43.345763,-79.777341
-133,'','Queensway Dr / E Of Brenda Cres',43.346129,-79.810159
-136,'','Brant St / Mount Forest Dr',43.346721,-79.829039
-140,'GLFS','Fairview St / W Of Guelph Line',43.346729,-79.798275
-145,'','New St / Pine Cove Rd',43.346718,-79.776014
-147,'BMAL','Prospect St / East Of Regency Crt',43.347184,-79.791947
-148,'','New St / Pine Cove Rd',43.347144,-79.775848
-149,'','Prospect St / Regency Ct',43.347386,-79.792012
-150,'','Queensway Dr / Cleta St',43.347523,-79.80838
-154,'','Mount Forest Dr / Tyrrell Rd',43.348948,-79.825694
-156,'','New St / Guildwood Dr',43.348693,-79.773891
-157,'','Queensway Dr / 2396 Queensway Dr',43.349101,-79.806451
+125,'','Guelph Line @ Prospect St',43.344725,-79.794254
+126,'','Guelph Line @ S Of Prospect St',43.344877,-79.79401
+130,'','New St @ Cumberland Ave',43.34539,-79.777475
+131,'GLPS','Prospect @ At 3030 Prospect St',43.345871,-79.793318
+132,'','New St @ Cumberland Ave',43.345763,-79.777341
+133,'','Queensway Dr @ E Of Brenda Cres',43.346129,-79.810159
+136,'','Brant St @ Mount Forest Dr',43.346721,-79.829039
+140,'GLFS','Fairview St @ W Of Guelph Line',43.346729,-79.798275
+145,'','New St @ Pine Cove Rd',43.346718,-79.776014
+147,'BMAL','Prospect St @ East Of Regency Crt',43.347184,-79.791947
+148,'','New St @ Pine Cove Rd',43.347144,-79.775848
+149,'','Prospect St @ Regency Ct',43.347386,-79.792012
+150,'','Queensway Dr @ Cleta St',43.347523,-79.80838
+154,'','Mount Forest Dr @ Tyrrell Rd',43.348948,-79.825694
+156,'','New St @ Guildwood Dr',43.348693,-79.773891
+157,'','Queensway Dr @ 2396 Queensway Dr',43.349101,-79.806451
 158,'','Queensway Dr Opp 2396 Queensway',43.349105,-79.806726
-159,'','New St / Woodview Rd',43.348795,-79.774043
-160,'','Prospect St / Dynes Rd',43.34937,-79.789912
-161,'','Brant St / Amherst Heights Dr',43.349637,-79.833497
-162,'','Prospect St / Dynes Rd',43.349023,-79.789988
-163,'','Rexway Dr / Cumberland Ave',43.349338,-79.782257
-164,'','Rexway Drive / Cumberland Ave',43.349262,-79.782143
-165,'','Queensway Dr / W Of Guelph Line',43.349611,-79.802196
-166,'','Brant St / Amherst Heights Dr',43.350131,-79.83389
-167,'','Guelph Line / Harvester Rd',43.34991,-79.801342
-168,'','Guelph Line / Harvester Rd Nrside',43.349974,-79.800876
-172,'','Cumberland Ave / Woodward Ave',43.350015,-79.783703
-173,'','Prospect St / Canadian Tire',43.350198,-79.789013
-177,'','Cumberland Ave / Northgate Dr',43.350682,-79.78436
-178,'','Brant St / S Of Tyandaga Park Dr',43.351363,-79.835624
-179,'','Mount Forest Dr / Royal Dr',43.351269,-79.822533
-180,'','Brant St / Tyandaga Park Dr',43.351649,-79.836403
-181,'PRCU','Prospect St / 3270 Prospect St',43.351089,-79.78758
-182,'','Mount Forest Dr / E Of Royal Dr',43.351561,-79.822357
-183,'','Harvester Rd / 3027 Harvester Rd',43.35138,-79.800168
-184,'','New St / Across From Elwood Dr',43.35107,-79.771311
-185,'','New St / Elwood Rd',43.351184,-79.77145
-187,'PRCU','Prospect St / 3270 Prospect St',43.351579,-79.787132
-189,'','Prospect St / Cumberland Ave',43.351851,-79.786347
-190,'','Harvester Rd / 3050 Harvester Rd',43.352068,-79.798965
-191,'','Rexway Dr / Woodview Rd',43.351916,-79.779047
-192,'','Brant St / Faversham Ave',43.352602,-79.837744
-193,'','Rexway Dr / Woodview Rd',43.352217,-79.778849
-196,'NSLD','New St / Strathcona Dr Nearside',43.353804,-79.76825
-198,'NSLD','New St / Strathcona Dr',43.354133,-79.768237
-202,'','Rexway Dr / Rexway Crt',43.353195,-79.777339
-203,'','Walkers Line / N Of New St',43.353383,-79.770086
-204,'','Harvester Rd / 3155 Harvester Rd',43.353721,-79.796821
-205,'','Harvester Rd / 3155 Harvester Rd',43.353874,-79.796927
-206,'','Walkers Line / 476 Walkers Line',43.353584,-79.77072
-207,'','Rexway Dr / 3461 Rexway Dr',43.353879,-79.776576
-208,'','Mount Forest Dr / W Of Fisher Ave',43.354316,-79.819338
-210,'','Mount Forest Dr / Fisher Ave',43.354512,-79.818818
-212,'','Brant St / S Of Dawlish Rd',43.355076,-79.840855
-213,'BRUM','Brant St / Havendale Blvd',43.355336,-79.841633
-214,'','Walkers Line / 514 Walkers Line',43.354497,-79.771967
-215,'','Rexway Dr / 3486 Rexway Dr',43.354505,-79.775514
-216,'','Walkers Line / 515 Walkers Line',43.354625,-79.771774
-217,'','Guelph Line / S Of Mountainside Dr',43.355061,-79.80855
-218,'','Fairview St / W Of Woodview Rd',43.355055,-79.784605
-219,'WLFS','Fairview St / Woodview Rd',43.355382,-79.783833
-220,'','Guelph Line / Davidson Crt Nrside',43.355746,-79.808871
-221,'BRUM','Brant St / S Of Upper Middle Rd',43.356245,-79.842472
-222,'','Rexway Dr / W Of Walkers Line',43.355607,-79.774189
-223,'','Fisher Ave / St Marys Cr',43.35604,-79.820693
-224,'','Fisher Ave / St Marys Cr',43.35613,-79.820595
-225,'','Rexway Dr / Walkers Line',43.355737,-79.773825
+159,'','New St @ Woodview Rd',43.348795,-79.774043
+160,'','Prospect St @ Dynes Rd',43.34937,-79.789912
+161,'','Brant St @ Amherst Heights Dr',43.349637,-79.833497
+162,'','Prospect St @ Dynes Rd',43.349023,-79.789988
+163,'','Rexway Dr @ Cumberland Ave',43.349338,-79.782257
+164,'','Rexway Drive @ Cumberland Ave',43.349262,-79.782143
+165,'','Queensway Dr @ W Of Guelph Line',43.349611,-79.802196
+166,'','Brant St @ Amherst Heights Dr',43.350131,-79.83389
+167,'','Guelph Line @ Harvester Rd',43.34991,-79.801342
+168,'','Guelph Line @ Harvester Rd Nrside',43.349974,-79.800876
+172,'','Cumberland Ave @ Woodward Ave',43.350015,-79.783703
+173,'','Prospect St @ Canadian Tire',43.350198,-79.789013
+177,'','Cumberland Ave @ Northgate Dr',43.350682,-79.78436
+178,'','Brant St @ S Of Tyandaga Park Dr',43.351363,-79.835624
+179,'','Mount Forest Dr @ Royal Dr',43.351269,-79.822533
+180,'','Brant St @ Tyandaga Park Dr',43.351649,-79.836403
+181,'PRCU','Prospect St @ 3270 Prospect St',43.351089,-79.78758
+182,'','Mount Forest Dr @ E Of Royal Dr',43.351561,-79.822357
+183,'','Harvester Rd @ 3027 Harvester Rd',43.35138,-79.800168
+184,'','New St @ Across From Elwood Dr',43.35107,-79.771311
+185,'','New St @ Elwood Rd',43.351184,-79.77145
+187,'PRCU','Prospect St @ 3270 Prospect St',43.351579,-79.787132
+189,'','Prospect St @ Cumberland Ave',43.351851,-79.786347
+190,'','Harvester Rd @ 3050 Harvester Rd',43.352068,-79.798965
+191,'','Rexway Dr @ Woodview Rd',43.351916,-79.779047
+192,'','Brant St @ Faversham Ave',43.352602,-79.837744
+193,'','Rexway Dr @ Woodview Rd',43.352217,-79.778849
+196,'NSLD','New St @ Strathcona Dr Nearside',43.353804,-79.76825
+198,'NSLD','New St @ Strathcona Dr',43.354133,-79.768237
+202,'','Rexway Dr @ Rexway Crt',43.353195,-79.777339
+203,'','Walkers Line @ N Of New St',43.353383,-79.770086
+204,'','Harvester Rd @ 3155 Harvester Rd',43.353721,-79.796821
+205,'','Harvester Rd @ 3155 Harvester Rd',43.353874,-79.796927
+206,'','Walkers Line @ 476 Walkers Line',43.353584,-79.77072
+207,'','Rexway Dr @ 3461 Rexway Dr',43.353879,-79.776576
+208,'','Mount Forest Dr @ W Of Fisher Ave',43.354316,-79.819338
+210,'','Mount Forest Dr @ Fisher Ave',43.354512,-79.818818
+212,'','Brant St @ S Of Dawlish Rd',43.355076,-79.840855
+213,'BRUM','Brant St @ Havendale Blvd',43.355336,-79.841633
+214,'','Walkers Line @ 514 Walkers Line',43.354497,-79.771967
+215,'','Rexway Dr @ 3486 Rexway Dr',43.354505,-79.775514
+216,'','Walkers Line @ 515 Walkers Line',43.354625,-79.771774
+217,'','Guelph Line @ S Of Mountainside Dr',43.355061,-79.80855
+218,'','Fairview St @ W Of Woodview Rd',43.355055,-79.784605
+219,'WLFS','Fairview St @ Woodview Rd',43.355382,-79.783833
+220,'','Guelph Line @ Davidson Crt Nrside',43.355746,-79.808871
+221,'BRUM','Brant St @ S Of Upper Middle Rd',43.356245,-79.842472
+222,'','Rexway Dr @ W Of Walkers Line',43.355607,-79.774189
+223,'','Fisher Ave @ St Marys Cr',43.35604,-79.820693
+224,'','Fisher Ave @ St Marys Cr',43.35613,-79.820595
+225,'','Rexway Dr @ Walkers Line',43.355737,-79.773825
 227,'','Longmoor Dr Opp 4056 Longmoor Dr',43.355712,-79.768631
-228,'','Longmoor Dr / Stephanie St',43.356006,-79.768791
-230,'','Harvester Rd / Cumberland Ave',43.356691,-79.793033
-231,'','Brant St / Upper Middle Rd',43.357384,-79.844523
-232,'','North Service Rd / Leons',43.356746,-79.799177
-233,'','Guelph Line / Mainway Dr',43.357041,-79.811264
-234,'BRUM','Brant Street / Upper Middle Rd',43.357526,-79.844301
-235,'','Fairview St / Commerce Ct',43.35697,-79.78221
-236,'GLMA','Mainway Dr / E Of Guelph Line',43.357292,-79.810216
-237,'','Lansdown Dr / 4100 Longmoor Dr',43.356905,-79.770025
-238,'','New St / Belvenia Rd',43.35689,-79.764913
-239,'','Harvester Rd / Cumberland Ave',43.357234,-79.792652
-240,'NLHS','New St / Belvenia Rd',43.357032,-79.765058
-241,'','Guelph Line / N Of Mainway Dr',43.357588,-79.811468
-242,'','Fisher Ave / Parkway Dr',43.357707,-79.822967
-244,'','Fisher Ave / Fisher Place',43.358135,-79.825484
+228,'','Longmoor Dr @ Stephanie St',43.356006,-79.768791
+230,'','Harvester Rd @ Cumberland Ave',43.356691,-79.793033
+231,'','Brant St @ Upper Middle Rd',43.357384,-79.844523
+232,'','North Service Rd @ Leons',43.356746,-79.799177
+233,'','Guelph Line @ Mainway Dr',43.357041,-79.811264
+234,'BRUM','Brant Street @ Upper Middle Rd',43.357526,-79.844301
+235,'','Fairview St @ Commerce Ct',43.35697,-79.78221
+236,'GLMA','Mainway Dr @ E Of Guelph Line',43.357292,-79.810216
+237,'','Lansdown Dr @ 4100 Longmoor Dr',43.356905,-79.770025
+238,'','New St @ Belvenia Rd',43.35689,-79.764913
+239,'','Harvester Rd @ Cumberland Ave',43.357234,-79.792652
+240,'NLHS','New St @ Belvenia Rd',43.357032,-79.765058
+241,'','Guelph Line @ N Of Mainway Dr',43.357588,-79.811468
+242,'','Fisher Ave @ Parkway Dr',43.357707,-79.822967
+244,'','Fisher Ave @ Fisher Place',43.358135,-79.825484
 245,'WLFS','Fairview St At3455 Fairview St',43.357688,-79.782001
-246,'PASU','Sutton / Pathfinder',43.410578,-79.798646
-248,'WLFS','Fairview St / 3500 Fairview St',43.35846,-79.780868
-249,'','Brant St / Cottontree Dr',43.359321,-79.847199
-250,'','Mainway Dr / 3100 Mainway Dr',43.358896,-79.808575
-251,'UMCA','Upper Middle Rd / E Of Cavendish',43.359096,-79.834457
-252,'','Upper Middle Rd / Mountain Grove',43.359151,-79.828597
-253,'','Upper Middle Rd / E Of Cavendish',43.359283,-79.834593
-254,'','Brant St / N Of Barlow Cr',43.359555,-79.847139
-255,'','Mainway Dr / 3097 Mainway Dr',43.359054,-79.808674
-256,'','Longmoor Dr / 4203 Longmoor Dr',43.358665,-79.771512
-257,'','Guelph Line / Centennial Dr',43.359144,-79.813562
-258,'','Guelph Line / Centennial Dr',43.359219,-79.814117
+246,'PASU','Sutton @ Pathfinder',43.410578,-79.798646
+248,'WLFS','Fairview St @ 3500 Fairview St',43.35846,-79.780868
+249,'','Brant St @ Cottontree Dr',43.359321,-79.847199
+250,'','Mainway Dr @ 3100 Mainway Dr',43.358896,-79.808575
+251,'UMCA','Upper Middle Rd @ E Of Cavendish',43.359096,-79.834457
+252,'','Upper Middle Rd @ Mountain Grove',43.359151,-79.828597
+253,'','Upper Middle Rd @ E Of Cavendish',43.359283,-79.834593
+254,'','Brant St @ N Of Barlow Cr',43.359555,-79.847139
+255,'','Mainway Dr @ 3097 Mainway Dr',43.359054,-79.808674
+256,'','Longmoor Dr @ 4203 Longmoor Dr',43.358665,-79.771512
+257,'','Guelph Line @ Centennial Dr',43.359144,-79.813562
+258,'','Guelph Line @ Centennial Dr',43.359219,-79.814117
 259,'','Longmoor Drat 4200 Longmoor Dr',43.358777,-79.771371
-260,'UMCA','Upper Middle / Cavendish Dr',43.359596,-79.836349
-261,'','Upper Middle Rd / Mountain Grove',43.359554,-79.828173
-262,'','North Service / 3255 North Service',43.359407,-79.796218
-263,'','Cavendish Dr / Upper Middle Rd',43.359995,-79.836499
-264,'','Fisher Ave / Augustine Dr',43.359842,-79.825493
-265,'','New St / Shoreacres Rd',43.35923,-79.762328
-266,'','Harvester Rd / Harrington Crt',43.359581,-79.788917
-267,'','Harvester Rd / Harrington Crt',43.359723,-79.78901
-268,'','Guelph Line / Mount Forest Dr',43.359923,-79.814712
-270,'','Augustine Dr / Fisher Ave',43.360078,-79.825664
-271,'','Cavendish Dr / Pauline Crt',43.360347,-79.836147
-272,'','New St / Shoreacres',43.359689,-79.762138
-273,'','Upper Middle Rd / Augustine Dr',43.360453,-79.826651
-274,'','Augustine Dr / Upper Middle Rd',43.360595,-79.826271
-275,'','Longmoor Dr / Belvenia Rd',43.360047,-79.771414
-276,'','Upper Middle Rd / Augustine Dr',43.360819,-79.826595
-277,'','Harvester Rd / 3450 Harvester Rd',43.360441,-79.787318
-278,'','Brant St / Greenbank Tr',43.361472,-79.849754
-281,'','Harvester Rd / Ssr W Of Walkers Ln',43.360753,-79.78714
-282,'','Brant St / Hazelton Blvd',43.361649,-79.850377
-283,'','Longmoor Dr / Flemish Dr',43.360822,-79.771612
-284,'','Cavendish Dr / Longshire Dr',43.361504,-79.8351
-285,'','Guelph Line / Palmer Dr',43.361365,-79.817052
-286,'','New St / Goodram Dr',43.360825,-79.760571
+260,'UMCA','Upper Middle @ Cavendish Dr',43.359596,-79.836349
+261,'','Upper Middle Rd @ Mountain Grove',43.359554,-79.828173
+262,'','North Service @ 3255 North Service',43.359407,-79.796218
+263,'','Cavendish Dr @ Upper Middle Rd',43.359995,-79.836499
+264,'','Fisher Ave @ Augustine Dr',43.359842,-79.825493
+265,'','New St @ Shoreacres Rd',43.35923,-79.762328
+266,'','Harvester Rd @ Harrington Crt',43.359581,-79.788917
+267,'','Harvester Rd @ Harrington Crt',43.359723,-79.78901
+268,'','Guelph Line @ Mount Forest Dr',43.359923,-79.814712
+270,'','Augustine Dr @ Fisher Ave',43.360078,-79.825664
+271,'','Cavendish Dr @ Pauline Crt',43.360347,-79.836147
+272,'','New St @ Shoreacres',43.359689,-79.762138
+273,'','Upper Middle Rd @ Augustine Dr',43.360453,-79.826651
+274,'','Augustine Dr @ Upper Middle Rd',43.360595,-79.826271
+275,'','Longmoor Dr @ Belvenia Rd',43.360047,-79.771414
+276,'','Upper Middle Rd @ Augustine Dr',43.360819,-79.826595
+277,'','Harvester Rd @ 3450 Harvester Rd',43.360441,-79.787318
+278,'','Brant St @ Greenbank Tr',43.361472,-79.849754
+281,'','Harvester Rd @ Ssr W Of Walkers Ln',43.360753,-79.78714
+282,'','Brant St @ Hazelton Blvd',43.361649,-79.850377
+283,'','Longmoor Dr @ Flemish Dr',43.360822,-79.771612
+284,'','Cavendish Dr @ Longshire Dr',43.361504,-79.8351
+285,'','Guelph Line @ Palmer Dr',43.361365,-79.817052
+286,'','New St @ Goodram Dr',43.360825,-79.760571
 287,'','Mainway Dr A Northside Rd',43.360947,-79.806522
-288,'','Cavendish Dr / Longshire Dr',43.36176,-79.835023
-289,'','Guelph Line / N Of Palmer Dr',43.361588,-79.816955
-290,'','New St / Goodram Dr',43.361034,-79.760656
-291,'','Mainway Dr / Northside Rd',43.361693,-79.805945
-292,'','Harvester Rd / W Of Walkers Line',43.361805,-79.784795
-293,'','Guelph Line / 1401 Gueplh Line',43.362282,-79.817941
-294,'','Harvester Rd / W Of Walkers Line',43.361959,-79.784859
-295,'','New St / Tipperary Ave',43.361853,-79.759756
-296,'','Longmoor Dr / Auburn Cr',43.362195,-79.771657
-297,'','New St / Wilson Ave',43.362231,-79.75903
-298,'','Guelph Line / St Francis Dr',43.362971,-79.818861
-300,'','Guelph Line / St Francis Dr',43.363014,-79.819321
-301,'','North Service / 3375 North Service',43.362795,-79.792502
-303,'','Walkers Ln / Harvester Rd Nearside',43.362772,-79.782765
-304,'','North Service / 3375 North Service',43.362909,-79.792545
-306,'','Longmoor Dr / 4262 Longmoor Dr',43.362704,-79.77136
-308,'','Fairview St / 4104 Fairview St',43.362832,-79.776229
-309,'','Walkers Line / Harvester Rd',43.363169,-79.78387
-310,'','Fairview St / 4127 Fairview St',43.363088,-79.776264
-312,'UMGL','Guelph Line / S Of Upper Middle Rd',43.363651,-79.820529
-313,'','Cavendish Dr / Greenbank Tr',43.364406,-79.851632
-315,'','Guelph Line / S Of Upper Middle Rd',43.363697,-79.82001
-317,'','Cavendish Dr / Millway Dr',43.364287,-79.833728
-318,'','Walkers Line / South Of Qew',43.363841,-79.784223
-319,'UMGL','Upper Middle Rd / W Of Guelph Line',43.364243,-79.822885
-320,'','Mainway Dr / Pioneer Rd',43.364105,-79.803285
-322,'','Cavendish Dr / Millway Dr',43.364452,-79.833901
-323,'','Mainway Dr / Pioneer Rd',43.364265,-79.803372
-325,'','Fairview St / 4145 Fairview St',43.364039,-79.775033
-326,'','Walkers Line / Travelodge Hotel',43.364138,-79.785148
-327,'','Longmoor Dr / Catalina Cres',43.364394,-79.770529
-328,'','New St / Shannon Cres',43.364321,-79.757046
-330,'ALNS','New St / 4428 New Street',43.364346,-79.756708
-331,'','Cavendish Dr / 2627 Cavendish Dr',43.365936,-79.850014
-332,'','Fairview St / 4200 Fairview St',43.364903,-79.773544
-334,'','Harvester Rd / Fraser Dr',43.364953,-79.780797
-336,'','Harvester Rd / Fraser Dr',43.365304,-79.780658
-337,'','Fairview St / 4205 Fairview St',43.365277,-79.773365
-338,'','Appleby Line / Cottonwood Dr',43.36504,-79.750869
-340,'','Longmoor Dr / Laural Dr',43.365459,-79.768887
-341,'','Longmoor Dr / Laural Dr',43.365697,-79.768799
-342,'','Longmoor Dr / 4394 Longmoor Dr',43.365621,-79.761327
-345,'','Cavendish Dr / Devlin Dr',43.366519,-79.835441
-346,'','Appleby Line / Fern Dr',43.365717,-79.751496
-347,'','Cavendish Dr / Devlin Dr',43.366651,-79.835705
-348,'','Cavendish Dr / Plymouth Crt',43.36696,-79.848258
-349,'','Longmoor Dr / Galway Dr',43.365891,-79.759883
-350,'','Upper Middle Rd / Upland Dr',43.366622,-79.819477
-351,'','Longmoor Dr / Bennett Rd',43.366076,-79.763502
-352,'','Longmoor Dr / Bennett Rd',43.366129,-79.763978
-353,'','Longmoor Dr / E Of Galway Dr',43.366216,-79.759498
-356,'','Cavendish Dr / E Of Duncaster Dr',43.367754,-79.846385
-357,'','Longmoor Dr / Inverary Rd',43.366649,-79.766709
-358,'','Mainway Dr / Blair Rd',43.367029,-79.800306
-359,'','Upper Middle / Upland Dr',43.367276,-79.819134
-360,'','Harvester Rd / Morris Dr',43.366583,-79.778972
-361,'','Fairview St / W Of Darlene Crt',43.366827,-79.770911
-363,'','Longmoor Dr / Inverary Rd',43.366857,-79.766459
-364,'','Fairview St / E Of Griffith Ct',43.366924,-79.771142
-367,'','Harvester Rd / Morris Dr',43.36715,-79.778664
-369,'','Headon Rd / Lansdown Dr',43.367792,-79.804686
-370,'','Longmoor Dr / E Of Chamberlain Rd',43.367375,-79.758209
-371,'','Cavendish Dr / Amblecotte Ln',43.36844,-79.845782
-372,'','Headon Rd / Lansdown Dr',43.367978,-79.804728
-376,'ALNS','Appleby Line / N Of New St',43.368237,-79.754728
-378,'','Walkers Line / North Service Rd',43.368574,-79.790835
-380,'','Cavendish Dr / Ingersoll Dr',43.36864,-79.83462
-381,'','Walkers Line / North Service Rd',43.36831,-79.790898
-385,'','Dillon Rd / Mainway Dr Farside',43.368514,-79.800208
-387,'','Landsdown Dr / Quebec Ave',43.368537,-79.803588
-388,'','Headon Rd / Vancouver Cr',43.368651,-79.805602
-391,'','Longmoor Dr / Turner Dr',43.368383,-79.757103
-392,'','Appleby Line / Longmoor Dr',43.369234,-79.756429
-393,'UMHF','U. M. Rd / Headon Forest',43.369305,-79.816589
-394,'','Fairview St / Inverary Rd',43.368872,-79.768154
-395,'','Headon Rd / Sir Ernest Macmillan',43.369324,-79.806578
-396,'','Dillon Rd / Hannibal Rd',43.369346,-79.801543
-398,'ALLD','Longmoor Dr / Appleby Line',43.368942,-79.7563
-400,'','Cavendish Dr / Opposite Malcolm Cr',43.36993,-79.843379
-401,'','Fairview St / Inverary Rd',43.369248,-79.768004
-402,'UMHF','U. M. Rd / Headon Forest Dr',43.369762,-79.816444
-404,'','New St / Timber Ln',43.369202,-79.751344
-407,'','Dillon Rd / Landsdown Dr Nearside',43.369861,-79.801996
-409,'','New St / Timber Lane',43.369556,-79.751297
-410,'ALPA','Pinedale Ave / E Of Appleby Line',43.369598,-79.755797
-411,'','Cavendish Dr / Melissa Cr',43.370533,-79.840597
-412,'','Harvester Rd / 4281 Harvester Rd',43.369913,-79.775842
-413,'','Cavendish Dr / Melissa Cr',43.370746,-79.840498
-414,'','Harvester Rd / 4280 Harvester Rd',43.370023,-79.775442
-415,'','North Service Rd / Champlain Ave',43.370143,-79.784401
-416,'ALPA','Pinedale Ave / Appleby Mall',43.369991,-79.755104
-417,'','North Service Rd / Champlain Ave',43.370338,-79.784417
-418,'','Fairview St / Taylor Cr West',43.370191,-79.766319
-419,'','Hampton Heath Rd / Hammersmith Crt',43.369932,-79.732306
-420,'','Headon Rd / Palmer Dr',43.370642,-79.807778
-421,'','Lakeshore Rd / 5451 Lakeshore Rd',43.369872,-79.727249
-422,'','Hampton Heath Rd / Hammersmith Ct',43.369912,-79.732513
-424,'','Walkers Line / 1185 Walkers Line',43.370716,-79.793811
-425,'','Headon Rd / Palmer Dr',43.370815,-79.80807
-426,'','Lakeshore Rd / 5475 Lakeshore Rd',43.369971,-79.727389
-429,'','Headon Forest Dr / Pinemeadow Dr',43.371427,-79.822416
-430,'','Fairview St / W Of 4445 Fairview',43.370916,-79.76576
-431,'','Cavendish Dr / Cotswold Cr',43.371653,-79.83496
-432,'','Cavendish Dr / Cotswold Cr',43.371722,-79.834776
-434,'','Pinedale Ave / Timber Lane',43.370975,-79.754037
-435,'','Cavendish Dr / E Of Coventry Way',43.372096,-79.837663
-436,'WLNR','Walkers Line / Mainway',43.371486,-79.794958
-437,'','New St / Robert Bateman School',43.370958,-79.749408
-438,'','Headon Forest Dr / Berryman Crt',43.371825,-79.824366
-439,'','Headon Forest Dr / Berryman Ct',43.371795,-79.824631
-441,'','Pinedale Ave / Timber Lane',43.371353,-79.753877
-442,'','Cavendish Dr / Coventry Way',43.372251,-79.837398
-444,'','New St / Robert Bateman',43.371424,-79.74923
-445,'WAMA','Walkers Line / Mainway',43.371968,-79.796197
-446,'','Lakeshore Rd / W Of Burloak Dr',43.371301,-79.725487
-447,'','Upper Middle Rd / Deer Run',43.372302,-79.813338
-448,'','Appleby Line / Sheraton Rd',43.371738,-79.759506
-449,'','Lakeshore Rd / 100 Lakeshore Rd',43.37142,-79.725559
-450,'','Fairview St / Taylor Cr East',43.371824,-79.764257
-451,'','Appleby Line / Bennett Rd',43.371856,-79.760023
-452,'','Fairview St / Taylor Cres',43.371976,-79.764442
-453,'','Upper Middle Rd / Deer Run Ave',43.372662,-79.81332
-454,'','Headon Forest Dr / Maderna Rd',43.37288,-79.825964
-455,'','Headon Forest Dr / Maderna Rd',43.372863,-79.826163
-456,'','Headon Rd / Columbia Cr',43.372703,-79.80872
-457,'','Coventry Way / Malcolm Cr',43.373237,-79.838039
-459,'','Hampton Heath Rd / Croydon Rd',43.372161,-79.735387
-460,'','Coventry Way / Malcolm Cr',43.373142,-79.837901
-461,'BDLR','Burloak Dr / Lakeshore Rd',43.372044,-79.725013
-462,'','Hampton Heath Rd / Croydon Rd',43.372205,-79.735702
-463,'','Walkers Line / Blanchard Dr',43.372973,-79.797158
-464,'','Walkers Line / Ketelby Crt',43.373057,-79.797658
-465,'','Appleby Line / 666 Appleby Line',43.372714,-79.761198
-466,'BDLR','Buloak Drive / N Of Lakeshore Rd',43.372347,-79.725184
-467,'','Appleby Line / S Of Fairview St',43.37285,-79.761028
-468,'','Harvester Rd / W Of Appleby Line',43.372963,-79.772505
-469,'','Burloak Dr / 75 Burloak Dr',43.372522,-79.72565
-470,'','Headon Rd / Lester Pearson School',43.373505,-79.808986
-471,'','Fairview St / Appleby Ln Nearside',43.372966,-79.762815
-472,'','Hampton Heath Rd / 290 Hampton Hea',43.372919,-79.738035
-473,'','Harvester Rd / South Service Rd',43.373352,-79.772363
-474,'','Pinedale Ave / W Of Bridal Wood',43.373136,-79.753815
-475,'','Headon Forest Dr / Deer Run Ave',43.373945,-79.827368
-476,'','Fairview St / W Of Appleby Line',43.373371,-79.762784
-477,'','Hampton Heath Rd / Spruce Ave',43.373152,-79.738136
-478,'','Headon Forest Dr / Deer Run Ave',43.374077,-79.827798
-480,'','Coventry Way / E Of Alder Dr',43.374437,-79.837232
-481,'','New St / Wedgewood Dr',43.373524,-79.746889
-482,'','Coventry Way / W Of Guelph Line',43.374496,-79.836962
-484,'','Heritage Rd / North Service Rd',43.373948,-79.780667
-485,'','New St / Meadowhill Rd',43.373652,-79.746446
-488,'','Fairview St / Appleby Ln Nearside',43.373979,-79.761966
-489,'','Fairview St / E Of Appleby Line',43.373905,-79.761631
-490,'','Heritage Rd / North Service Rd',43.374557,-79.781454
-491,'','Pinedale Ave / Frontenac School',43.374302,-79.753689
-492,'','Upper Middle Rd / Headon Rd',43.374938,-79.810849
-493,'','Buloak Dr / Stevenson Rd',43.374267,-79.727774
-494,'','Headon Forest Dr / Winding Way',43.375357,-79.829301
-495,'','Walkers Line / Forest Run Ave',43.375127,-79.800102
-496,'','Headon Forest / N Of Winding Way',43.375465,-79.829662
-497,'','Burloak Dr / Winston Rd',43.374392,-79.728172
-499,'','Walkers Line / Palmer Dr',43.375291,-79.800712
-500,'','Heritage Rd / North Service Rd',43.375529,-79.784447
-501,'','Harvester Rd / Zelco Dr',43.375405,-79.769919
-503,'PANS','New St / Pinedale Ave',43.375433,-79.744478
-504,'','Carncastle Dr / Autumn Hill Cr',43.376415,-79.836407
-505,'','Harvester Rd / Zelco Dr',43.375778,-79.769775
-506,'','Walkers Line / Wedgewood',43.376328,-79.802121
+288,'','Cavendish Dr @ Longshire Dr',43.36176,-79.835023
+289,'','Guelph Line @ N Of Palmer Dr',43.361588,-79.816955
+290,'','New St @ Goodram Dr',43.361034,-79.760656
+291,'','Mainway Dr @ Northside Rd',43.361693,-79.805945
+292,'','Harvester Rd @ W Of Walkers Line',43.361805,-79.784795
+293,'','Guelph Line @ 1401 Gueplh Line',43.362282,-79.817941
+294,'','Harvester Rd @ W Of Walkers Line',43.361959,-79.784859
+295,'','New St @ Tipperary Ave',43.361853,-79.759756
+296,'','Longmoor Dr @ Auburn Cr',43.362195,-79.771657
+297,'','New St @ Wilson Ave',43.362231,-79.75903
+298,'','Guelph Line @ St Francis Dr',43.362971,-79.818861
+300,'','Guelph Line @ St Francis Dr',43.363014,-79.819321
+301,'','North Service @ 3375 North Service',43.362795,-79.792502
+303,'','Walkers Ln @ Harvester Rd Nearside',43.362772,-79.782765
+304,'','North Service @ 3375 North Service',43.362909,-79.792545
+306,'','Longmoor Dr @ 4262 Longmoor Dr',43.362704,-79.77136
+308,'','Fairview St @ 4104 Fairview St',43.362832,-79.776229
+309,'','Walkers Line @ Harvester Rd',43.363169,-79.78387
+310,'','Fairview St @ 4127 Fairview St',43.363088,-79.776264
+312,'UMGL','Guelph Line @ S Of Upper Middle Rd',43.363651,-79.820529
+313,'','Cavendish Dr @ Greenbank Tr',43.364406,-79.851632
+315,'','Guelph Line @ S Of Upper Middle Rd',43.363697,-79.82001
+317,'','Cavendish Dr @ Millway Dr',43.364287,-79.833728
+318,'','Walkers Line @ South Of Qew',43.363841,-79.784223
+319,'UMGL','Upper Middle Rd @ W Of Guelph Line',43.364243,-79.822885
+320,'','Mainway Dr @ Pioneer Rd',43.364105,-79.803285
+322,'','Cavendish Dr @ Millway Dr',43.364452,-79.833901
+323,'','Mainway Dr @ Pioneer Rd',43.364265,-79.803372
+325,'','Fairview St @ 4145 Fairview St',43.364039,-79.775033
+326,'','Walkers Line @ Travelodge Hotel',43.364138,-79.785148
+327,'','Longmoor Dr @ Catalina Cres',43.364394,-79.770529
+328,'','New St @ Shannon Cres',43.364321,-79.757046
+330,'ALNS','New St @ 4428 New Street',43.364346,-79.756708
+331,'','Cavendish Dr @ 2627 Cavendish Dr',43.365936,-79.850014
+332,'','Fairview St @ 4200 Fairview St',43.364903,-79.773544
+334,'','Harvester Rd @ Fraser Dr',43.364953,-79.780797
+336,'','Harvester Rd @ Fraser Dr',43.365304,-79.780658
+337,'','Fairview St @ 4205 Fairview St',43.365277,-79.773365
+338,'','Appleby Line @ Cottonwood Dr',43.36504,-79.750869
+340,'','Longmoor Dr @ Laural Dr',43.365459,-79.768887
+341,'','Longmoor Dr @ Laural Dr',43.365697,-79.768799
+342,'','Longmoor Dr @ 4394 Longmoor Dr',43.365621,-79.761327
+345,'','Cavendish Dr @ Devlin Dr',43.366519,-79.835441
+346,'','Appleby Line @ Fern Dr',43.365717,-79.751496
+347,'','Cavendish Dr @ Devlin Dr',43.366651,-79.835705
+348,'','Cavendish Dr @ Plymouth Crt',43.36696,-79.848258
+349,'','Longmoor Dr @ Galway Dr',43.365891,-79.759883
+350,'','Upper Middle Rd @ Upland Dr',43.366622,-79.819477
+351,'','Longmoor Dr @ Bennett Rd',43.366076,-79.763502
+352,'','Longmoor Dr @ Bennett Rd',43.366129,-79.763978
+353,'','Longmoor Dr @ E Of Galway Dr',43.366216,-79.759498
+356,'','Cavendish Dr @ E Of Duncaster Dr',43.367754,-79.846385
+357,'','Longmoor Dr @ Inverary Rd',43.366649,-79.766709
+358,'','Mainway Dr @ Blair Rd',43.367029,-79.800306
+359,'','Upper Middle @ Upland Dr',43.367276,-79.819134
+360,'','Harvester Rd @ Morris Dr',43.366583,-79.778972
+361,'','Fairview St @ W Of Darlene Crt',43.366827,-79.770911
+363,'','Longmoor Dr @ Inverary Rd',43.366857,-79.766459
+364,'','Fairview St @ E Of Griffith Ct',43.366924,-79.771142
+367,'','Harvester Rd @ Morris Dr',43.36715,-79.778664
+369,'','Headon Rd @ Lansdown Dr',43.367792,-79.804686
+370,'','Longmoor Dr @ E Of Chamberlain Rd',43.367375,-79.758209
+371,'','Cavendish Dr @ Amblecotte Ln',43.36844,-79.845782
+372,'','Headon Rd @ Lansdown Dr',43.367978,-79.804728
+376,'ALNS','Appleby Line @ N Of New St',43.368237,-79.754728
+378,'','Walkers Line @ North Service Rd',43.368574,-79.790835
+380,'','Cavendish Dr @ Ingersoll Dr',43.36864,-79.83462
+381,'','Walkers Line @ North Service Rd',43.36831,-79.790898
+385,'','Dillon Rd @ Mainway Dr Farside',43.368514,-79.800208
+387,'','Landsdown Dr @ Quebec Ave',43.368537,-79.803588
+388,'','Headon Rd @ Vancouver Cr',43.368651,-79.805602
+391,'','Longmoor Dr @ Turner Dr',43.368383,-79.757103
+392,'','Appleby Line @ Longmoor Dr',43.369234,-79.756429
+393,'UMHF','U. M. Rd @ Headon Forest',43.369305,-79.816589
+394,'','Fairview St @ Inverary Rd',43.368872,-79.768154
+395,'','Headon Rd @ Sir Ernest Macmillan',43.369324,-79.806578
+396,'','Dillon Rd @ Hannibal Rd',43.369346,-79.801543
+398,'ALLD','Longmoor Dr @ Appleby Line',43.368942,-79.7563
+400,'','Cavendish Dr @ Opposite Malcolm Cr',43.36993,-79.843379
+401,'','Fairview St @ Inverary Rd',43.369248,-79.768004
+402,'UMHF','U. M. Rd @ Headon Forest Dr',43.369762,-79.816444
+404,'','New St @ Timber Ln',43.369202,-79.751344
+407,'','Dillon Rd @ Landsdown Dr Nearside',43.369861,-79.801996
+409,'','New St @ Timber Lane',43.369556,-79.751297
+410,'ALPA','Pinedale Ave @ E Of Appleby Line',43.369598,-79.755797
+411,'','Cavendish Dr @ Melissa Cr',43.370533,-79.840597
+412,'','Harvester Rd @ 4281 Harvester Rd',43.369913,-79.775842
+413,'','Cavendish Dr @ Melissa Cr',43.370746,-79.840498
+414,'','Harvester Rd @ 4280 Harvester Rd',43.370023,-79.775442
+415,'','North Service Rd @ Champlain Ave',43.370143,-79.784401
+416,'ALPA','Pinedale Ave @ Appleby Mall',43.369991,-79.755104
+417,'','North Service Rd @ Champlain Ave',43.370338,-79.784417
+418,'','Fairview St @ Taylor Cr West',43.370191,-79.766319
+419,'','Hampton Heath Rd @ Hammersmith Crt',43.369932,-79.732306
+420,'','Headon Rd @ Palmer Dr',43.370642,-79.807778
+421,'','Lakeshore Rd @ 5451 Lakeshore Rd',43.369872,-79.727249
+422,'','Hampton Heath Rd @ Hammersmith Ct',43.369912,-79.732513
+424,'','Walkers Line @ 1185 Walkers Line',43.370716,-79.793811
+425,'','Headon Rd @ Palmer Dr',43.370815,-79.80807
+426,'','Lakeshore Rd @ 5475 Lakeshore Rd',43.369971,-79.727389
+429,'','Headon Forest Dr @ Pinemeadow Dr',43.371427,-79.822416
+430,'','Fairview St @ W Of 4445 Fairview',43.370916,-79.76576
+431,'','Cavendish Dr @ Cotswold Cr',43.371653,-79.83496
+432,'','Cavendish Dr @ Cotswold Cr',43.371722,-79.834776
+434,'','Pinedale Ave @ Timber Lane',43.370975,-79.754037
+435,'','Cavendish Dr @ E Of Coventry Way',43.372096,-79.837663
+436,'WLNR','Walkers Line @ Mainway',43.371486,-79.794958
+437,'','New St @ Robert Bateman School',43.370958,-79.749408
+438,'','Headon Forest Dr @ Berryman Crt',43.371825,-79.824366
+439,'','Headon Forest Dr @ Berryman Ct',43.371795,-79.824631
+441,'','Pinedale Ave @ Timber Lane',43.371353,-79.753877
+442,'','Cavendish Dr @ Coventry Way',43.372251,-79.837398
+444,'','New St @ Robert Bateman',43.371424,-79.74923
+445,'WAMA','Walkers Line @ Mainway',43.371968,-79.796197
+446,'','Lakeshore Rd @ W Of Burloak Dr',43.371301,-79.725487
+447,'','Upper Middle Rd @ Deer Run',43.372302,-79.813338
+448,'','Appleby Line @ Sheraton Rd',43.371738,-79.759506
+449,'','Lakeshore Rd @ 100 Lakeshore Rd',43.37142,-79.725559
+450,'','Fairview St @ Taylor Cr East',43.371824,-79.764257
+451,'','Appleby Line @ Bennett Rd',43.371856,-79.760023
+452,'','Fairview St @ Taylor Cres',43.371976,-79.764442
+453,'','Upper Middle Rd @ Deer Run Ave',43.372662,-79.81332
+454,'','Headon Forest Dr @ Maderna Rd',43.37288,-79.825964
+455,'','Headon Forest Dr @ Maderna Rd',43.372863,-79.826163
+456,'','Headon Rd @ Columbia Cr',43.372703,-79.80872
+457,'','Coventry Way @ Malcolm Cr',43.373237,-79.838039
+459,'','Hampton Heath Rd @ Croydon Rd',43.372161,-79.735387
+460,'','Coventry Way @ Malcolm Cr',43.373142,-79.837901
+461,'BDLR','Burloak Dr @ Lakeshore Rd',43.372044,-79.725013
+462,'','Hampton Heath Rd @ Croydon Rd',43.372205,-79.735702
+463,'','Walkers Line @ Blanchard Dr',43.372973,-79.797158
+464,'','Walkers Line @ Ketelby Crt',43.373057,-79.797658
+465,'','Appleby Line @ 666 Appleby Line',43.372714,-79.761198
+466,'BDLR','Buloak Drive @ N Of Lakeshore Rd',43.372347,-79.725184
+467,'','Appleby Line @ S Of Fairview St',43.37285,-79.761028
+468,'','Harvester Rd @ W Of Appleby Line',43.372963,-79.772505
+469,'','Burloak Dr @ 75 Burloak Dr',43.372522,-79.72565
+470,'','Headon Rd @ Lester Pearson School',43.373505,-79.808986
+471,'','Fairview St @ Appleby Ln Nearside',43.372966,-79.762815
+472,'','Hampton Heath Rd @ 290 Hampton Hea',43.372919,-79.738035
+473,'','Harvester Rd @ South Service Rd',43.373352,-79.772363
+474,'','Pinedale Ave @ W Of Bridal Wood',43.373136,-79.753815
+475,'','Headon Forest Dr @ Deer Run Ave',43.373945,-79.827368
+476,'','Fairview St @ W Of Appleby Line',43.373371,-79.762784
+477,'','Hampton Heath Rd @ Spruce Ave',43.373152,-79.738136
+478,'','Headon Forest Dr @ Deer Run Ave',43.374077,-79.827798
+480,'','Coventry Way @ E Of Alder Dr',43.374437,-79.837232
+481,'','New St @ Wedgewood Dr',43.373524,-79.746889
+482,'','Coventry Way @ W Of Guelph Line',43.374496,-79.836962
+484,'','Heritage Rd @ North Service Rd',43.373948,-79.780667
+485,'','New St @ Meadowhill Rd',43.373652,-79.746446
+488,'','Fairview St @ Appleby Ln Nearside',43.373979,-79.761966
+489,'','Fairview St @ E Of Appleby Line',43.373905,-79.761631
+490,'','Heritage Rd @ North Service Rd',43.374557,-79.781454
+491,'','Pinedale Ave @ Frontenac School',43.374302,-79.753689
+492,'','Upper Middle Rd @ Headon Rd',43.374938,-79.810849
+493,'','Buloak Dr @ Stevenson Rd',43.374267,-79.727774
+494,'','Headon Forest Dr @ Winding Way',43.375357,-79.829301
+495,'','Walkers Line @ Forest Run Ave',43.375127,-79.800102
+496,'','Headon Forest @ N Of Winding Way',43.375465,-79.829662
+497,'','Burloak Dr @ Winston Rd',43.374392,-79.728172
+499,'','Walkers Line @ Palmer Dr',43.375291,-79.800712
+500,'','Heritage Rd @ North Service Rd',43.375529,-79.784447
+501,'','Harvester Rd @ Zelco Dr',43.375405,-79.769919
+503,'PANS','New St @ Pinedale Ave',43.375433,-79.744478
+504,'','Carncastle Dr @ Autumn Hill Cr',43.376415,-79.836407
+505,'','Harvester Rd @ Zelco Dr',43.375778,-79.769775
+506,'','Walkers Line @ Wedgewood',43.376328,-79.802121
 507,'','Fairview St Opposite Appleby Go',43.377221,-79.758335
-508,'','Walkers Line / 1401 Walkers Line',43.376606,-79.802143
-509,'','New St / E Of Pinedale Ave',43.376092,-79.744049
-510,'','New St / Hampton Heath Rd',43.376331,-79.743469
-511,'','Burloak Dr / Randolph Cr',43.376151,-79.730555
-512,'','Upper Middle / Cleaver Ave',43.37711,-79.808502
-513,'','Upper Middle Rd / Cleaver Ave',43.376632,-79.808663
-514,'','Appleby Line / Harvester Rd',43.376876,-79.766514
-515,'','Pinedale Ave / Wedgewood Dr',43.376949,-79.751623
-516,'','New St / Hampton Heath Rd',43.376704,-79.743369
-517,'','Walkers Line / Kilmer',43.377588,-79.803437
-520,'','Fairview St / Front Of Appleby Go',43.37714,-79.75872
-521,'UMWL','Walkers Line / Toffee St',43.377699,-79.804022
-523,'NDHS','Headon Forest Dr / Notre Dame',43.378004,-79.832006
-524,'','Pinedale Ave / Mullin Way',43.377199,-79.75156
-525,'','Appleby Line / Harvester Rd',43.378327,-79.768689
-528,'','Harvester Rd / E Of Appleby Line',43.377944,-79.766809
-530,'','Pinedale Ave / 5250 Pinedale Ave',43.37777,-79.750755
-531,'','Upper Middle Rd / W Of Walkers Ln',43.378491,-79.807005
-532,'','New St / Deerhurst Dr',43.377823,-79.741813
-533,'','Appleby Line / S Of Qew',43.378203,-79.76816
-534,'','New St / W Of Deerhurst Dr',43.378061,-79.741858
-536,'','Heritage Rd / 1200 Heritage Rd',43.378703,-79.786189
-538,'','Burloak Dr / Spruce Ave',43.378208,-79.733094
-541,'','Heritage Rd / S Of Mainway Dr',43.37881,-79.786578
-542,'','Burloak Dr / Spruce Ave',43.378357,-79.733556
-543,'','Pinedale Ave / Riverside Dr',43.378591,-79.749686
+508,'','Walkers Line @ 1401 Walkers Line',43.376606,-79.802143
+509,'','New St @ E Of Pinedale Ave',43.376092,-79.744049
+510,'','New St @ Hampton Heath Rd',43.376331,-79.743469
+511,'','Burloak Dr @ Randolph Cr',43.376151,-79.730555
+512,'','Upper Middle @ Cleaver Ave',43.37711,-79.808502
+513,'','Upper Middle Rd @ Cleaver Ave',43.376632,-79.808663
+514,'','Appleby Line @ Harvester Rd',43.376876,-79.766514
+515,'','Pinedale Ave @ Wedgewood Dr',43.376949,-79.751623
+516,'','New St @ Hampton Heath Rd',43.376704,-79.743369
+517,'','Walkers Line @ Kilmer',43.377588,-79.803437
+520,'','Fairview St @ Front Of Appleby Go',43.37714,-79.75872
+521,'UMWL','Walkers Line @ Toffee St',43.377699,-79.804022
+523,'NDHS','Headon Forest Dr @ Notre Dame',43.378004,-79.832006
+524,'','Pinedale Ave @ Mullin Way',43.377199,-79.75156
+525,'','Appleby Line @ Harvester Rd',43.378327,-79.768689
+528,'','Harvester Rd @ E Of Appleby Line',43.377944,-79.766809
+530,'','Pinedale Ave @ 5250 Pinedale Ave',43.37777,-79.750755
+531,'','Upper Middle Rd @ W Of Walkers Ln',43.378491,-79.807005
+532,'','New St @ Deerhurst Dr',43.377823,-79.741813
+533,'','Appleby Line @ S Of Qew',43.378203,-79.76816
+534,'','New St @ W Of Deerhurst Dr',43.378061,-79.741858
+536,'','Heritage Rd @ 1200 Heritage Rd',43.378703,-79.786189
+538,'','Burloak Dr @ Spruce Ave',43.378208,-79.733094
+541,'','Heritage Rd @ S Of Mainway Dr',43.37881,-79.786578
+542,'','Burloak Dr @ Spruce Ave',43.378357,-79.733556
+543,'','Pinedale Ave @ Riverside Dr',43.378591,-79.749686
 545,'','Harvester Rd Opp South Service',43.378926,-79.765812
-549,'','Heritage Rd / 1200 Heritgae Rd',43.379389,-79.78768
-554,'','Harvester Rd / E Of Appleby Line',43.379233,-79.765786
-555,'','Headon Forest Dr / Folkway Dr',43.379981,-79.832027
-557,'','Heritage Rd / Mainway',43.379722,-79.788235
-558,'','New St / Melores Dr',43.379164,-79.740331
-559,'','Headon Forest Dr / Folkway Dr',43.380309,-79.832196
-561,'','New St / Amanda Cres',43.37961,-79.740219
-562,'','Mainway Dr / Heritage Rd',43.380431,-79.788232
-563,'UMWL','Walkers Line / 2055 Walkers Line',43.380652,-79.808071
-564,'','Walkers Line / 2075 Walkers Line',43.380788,-79.808646
-566,'','Burloak Dr / Eaton Ave',43.380191,-79.73599
-568,'','Burloak Dr / Eaton Ave',43.380599,-79.73632
-571,'NSBD','New St / Schueller Crt',43.380768,-79.738533
-573,'','Walkers Line / Milcroft Park Dr',43.381741,-79.809559
-574,'','Mainway Dr / 4331 Mainway Dr',43.381595,-79.787164
+549,'','Heritage Rd @ 1200 Heritgae Rd',43.379389,-79.78768
+554,'','Harvester Rd @ E Of Appleby Line',43.379233,-79.765786
+555,'','Headon Forest Dr @ Folkway Dr',43.379981,-79.832027
+557,'','Heritage Rd @ Mainway',43.379722,-79.788235
+558,'','New St @ Melores Dr',43.379164,-79.740331
+559,'','Headon Forest Dr @ Folkway Dr',43.380309,-79.832196
+561,'','New St @ Amanda Cres',43.37961,-79.740219
+562,'','Mainway Dr @ Heritage Rd',43.380431,-79.788232
+563,'UMWL','Walkers Line @ 2055 Walkers Line',43.380652,-79.808071
+564,'','Walkers Line @ 2075 Walkers Line',43.380788,-79.808646
+566,'','Burloak Dr @ Eaton Ave',43.380191,-79.73599
+568,'','Burloak Dr @ Eaton Ave',43.380599,-79.73632
+571,'NSBD','New St @ Schueller Crt',43.380768,-79.738533
+573,'','Walkers Line @ Milcroft Park Dr',43.381741,-79.809559
+574,'','Mainway Dr @ 4331 Mainway Dr',43.381595,-79.787164
 575,'NSBD','New St Opposite Schueller Cres',43.381037,-79.738574
-576,'','Walkers Line / Jordan Ave',43.381859,-79.810089
-578,'','Headon Forest Dr / Edenwwod Cr',43.382297,-79.831532
-580,'','Mainway Dr / Corporate Dr',43.382551,-79.785908
-583,'MWCO','Mainway Dr / Corporate Dr',43.382978,-79.785785
-584,'TWCC','Upper Middle Rd / Itabashi Way',43.383222,-79.801577
-588,'','Upper Middle Rd / Itabashi Way',43.383667,-79.801444
-589,'','Walkers Line / Medland Dr',43.384235,-79.812937
-590,'','Walkers Line / Medland',43.38443,-79.813567
-591,'','Headon Forest / E Of Woodcroft Cr',43.384852,-79.829696
-592,'','Appleby Line / 1175 Appleby Line',43.384338,-79.776914
-593,'','Appleby Line / N Of North Service',43.38352,-79.776176
+576,'','Walkers Line @ Jordan Ave',43.381859,-79.810089
+578,'','Headon Forest Dr @ Edenwwod Cr',43.382297,-79.831532
+580,'','Mainway Dr @ Corporate Dr',43.382551,-79.785908
+583,'MWCO','Mainway Dr @ Corporate Dr',43.382978,-79.785785
+584,'TWCC','Upper Middle Rd @ Itabashi Way',43.383222,-79.801577
+588,'','Upper Middle Rd @ Itabashi Way',43.383667,-79.801444
+589,'','Walkers Line @ Medland Dr',43.384235,-79.812937
+590,'','Walkers Line @ Medland',43.38443,-79.813567
+591,'','Headon Forest @ E Of Woodcroft Cr',43.384852,-79.829696
+592,'','Appleby Line @ 1175 Appleby Line',43.384338,-79.776914
+593,'','Appleby Line @ N Of North Service',43.38352,-79.776176
 594,'','Harvester Rd Opposite Century Dr',43.384142,-79.760352
-596,'','Headon Forest Dr / Butternut Cr',43.385015,-79.829322
-599,'','Harvester Rd / Century Dr',43.384492,-79.760247
-601,'','Mainway Dr / Artisans Crt',43.385155,-79.783237
-602,'','Walkers Line / Country Club Dr',43.385618,-79.81482
-604,'','Mainway Dr / Artisan Crt',43.385421,-79.783227
-605,'','Walkers Line / 2300 Walkers Line',43.385726,-79.815338
-606,'','Appleby Line / Appleby Ice Centre',43.385626,-79.778679
-608,'','Walkers Line / 2333 Walkers Line',43.386467,-79.815936
-609,'','Upper Middle Rd / Atkinson Dr',43.386279,-79.798277
+596,'','Headon Forest Dr @ Butternut Cr',43.385015,-79.829322
+599,'','Harvester Rd @ Century Dr',43.384492,-79.760247
+601,'','Mainway Dr @ Artisans Crt',43.385155,-79.783237
+602,'','Walkers Line @ Country Club Dr',43.385618,-79.81482
+604,'','Mainway Dr @ Artisan Crt',43.385421,-79.783227
+605,'','Walkers Line @ 2300 Walkers Line',43.385726,-79.815338
+606,'','Appleby Line @ Appleby Ice Centre',43.385626,-79.778679
+608,'','Walkers Line @ 2333 Walkers Line',43.386467,-79.815936
+609,'','Upper Middle Rd @ Atkinson Dr',43.386279,-79.798277
 611,'','Harvester Rd Opp Sheldon Crt',43.385851,-79.758253
-612,'HRHF','Headon Forest Dr / Headon Rd',43.386975,-79.827323
-613,'UMCC','Upper Middle Rd / Atkinson Dr',43.386664,-79.798211
-614,'','Harvester Rd / Sheldon Crt',43.386282,-79.758281
-618,'','Southampton Blvd / Headon Forest',43.387655,-79.820993
-619,'','Appleby Line / Mainway',43.386939,-79.780929
-620,'','Headon Forest Dr / North Hampton',43.388047,-79.825738
-622,'','Headon Forest Dr / North Hampton',43.388334,-79.825578
+612,'HRHF','Headon Forest Dr @ Headon Rd',43.386975,-79.827323
+613,'UMCC','Upper Middle Rd @ Atkinson Dr',43.386664,-79.798211
+614,'','Harvester Rd @ Sheldon Crt',43.386282,-79.758281
+618,'','Southampton Blvd @ Headon Forest',43.387655,-79.820993
+619,'','Appleby Line @ Mainway',43.386939,-79.780929
+620,'','Headon Forest Dr @ North Hampton',43.388047,-79.825738
+622,'','Headon Forest Dr @ North Hampton',43.388334,-79.825578
 623,'','Harvester Rd Opp Gateway Dr',43.38777,-79.756469
-625,'','Upper Middle Rd / Country Club',43.388348,-79.796417
-626,'','Walkers Line / Darien Rd',43.388757,-79.819045
-627,'','North Hampton Blvd / Dundas St',43.388882,-79.826521
-628,'','Harvester Rd / Gateway Dr',43.388212,-79.756308
-629,'','Walkers Line / Southampton Blvd',43.388848,-79.819564
-631,'','Headon Forest / 2915 Headon Forest',43.389078,-79.823458
-640,'','Harvester Rd / Syscon Crt',43.390204,-79.753895
-642,'','Harvester Rd / Syscon Rd',43.390767,-79.753677
-644,'','North Service Rd / International',43.391111,-79.761724
+625,'','Upper Middle Rd @ Country Club',43.388348,-79.796417
+626,'','Walkers Line @ Darien Rd',43.388757,-79.819045
+627,'','North Hampton Blvd @ Dundas St',43.388882,-79.826521
+628,'','Harvester Rd @ Gateway Dr',43.388212,-79.756308
+629,'','Walkers Line @ Southampton Blvd',43.388848,-79.819564
+631,'','Headon Forest @ 2915 Headon Forest',43.389078,-79.823458
+640,'','Harvester Rd @ Syscon Crt',43.390204,-79.753895
+642,'','Harvester Rd @ Syscon Rd',43.390767,-79.753677
+644,'','North Service Rd @ International',43.391111,-79.761724
 646,'','North Service Rd And International',43.391688,-79.760825
-655,'UMAL','Upper Middle Rd / Appleby Line',43.394364,-79.790042
-657,'','Appleby Line / Heron Way',43.394839,-79.791652
-660,'','Appleby Line / Heron Way',43.395,-79.792338
-661,'','North Service / 5435 North Service',43.39472,-79.760103
-663,'','North Service / 5420 North Service',43.394745,-79.759893
+655,'UMAL','Upper Middle Rd @ Appleby Line',43.394364,-79.790042
+657,'','Appleby Line @ Heron Way',43.394839,-79.791652
+660,'','Appleby Line @ Heron Way',43.395,-79.792338
+661,'','North Service @ 5435 North Service',43.39472,-79.760103
+663,'','North Service @ 5420 North Service',43.394745,-79.759893
 665,'','Appleby Line Opp Millcroft Cntr',43.395971,-79.793252
-668,'','North Service Rd / John Lucas Dr',43.396724,-79.762945
-669,'','North Service Rd / John Lucas Dr',43.39681,-79.763155
-670,'CCHS','Upper Middle Rd / Corpus Christi',43.397363,-79.78681
-675,'','Buloak Dr / 1120 Burloak Dr',43.397974,-79.760407
-677,'CCHS','Upper Middle Rd / Corpus Christi',43.398973,-79.784685
-681,'','Upper Middle Rd / Quinte St',43.400254,-79.78334
-683,'','Upper Middle Rd / Quinte St',43.400405,-79.783562
-687,'','Appleby Line / Taywood Dr',43.40328,-79.803115
-688,'','Appleby Line / Taywood Dr',43.403017,-79.803406
-689,'ALDS','Appleby Line / Appleby Crossing',43.405038,-79.805563
-690,'','Sutton Dr / Blue Spruce Ave',43.404919,-79.784808
-692,'ALDS','Appleby Line / Cornerstone Centre',43.405192,-79.80643
-694,'','Sutton Dr / Empire Crt',43.407025,-79.789101
-695,'','Sutton Dr / Dryden Ave',43.407868,-79.790495
-699,'','Catherine St / King William St',43.256766,-79.864706
-700,'','York Blvd / John St N',43.258716,-79.865743
-701,'','Bay St / Vine St',43.260591,-79.872694
-703,'','York Blvd / Queen St',43.262898,-79.877014
-705,'','York Blvd / W Of Dundurn St N',43.265448,-79.881693
-706,'','York Blvd / Inchbury St',43.266094,-79.882147
-707,'','York Blvd / Dundurn Castle',43.269331,-79.885776
-708,'','York Blvd / 777 York Blvd',43.271482,-79.886535
-709,'','York Blvd / West Of Cemetary',43.274629,-79.888123
-710,'','York Blvd / W Of Cemetary Entrance',43.274904,-79.8885
-711,'','York Blvd / E Of Cemetary Entrance',43.27666,-79.889704
-712,'','York Blvd / East Of Cemetary',43.277003,-79.889757
-713,'','York Blvd / W Of Old Guelph Line',43.284915,-79.892603
-714,'','York Blvd / Old Guelph Rd',43.2851,-79.892434
-715,'','York Blvd / E Of Valley Inn Rd',43.288505,-79.891342
-716,'','York Blvd / Rbg Rock Garden',43.289534,-79.89049
-719,'','Plains Rd W / Botanical Dr',43.29127,-79.879035
-720,'','Plains Rd W / Botanical Drive',43.291332,-79.879897
-721,'','Plains Rd W / Spring Gardens Rd',43.291623,-79.87259
-722,'','Plains Rd W / Cemetery Ent W',43.292504,-79.870305
-723,'','Plains Rd W / 549 Plains Rd W',43.292849,-79.870105
-724,'','Plains Rd W / Spring Garden W',43.293201,-79.88701
-725,'','Plains Rd W / York Blvd',43.293348,-79.889325
-726,'','Plains Rd W / Spring Gardens Rd',43.293401,-79.886879
-727,'','Plains Rd W / York Blvd',43.293637,-79.889159
-729,'','Plains Rd W / E Of Patricia Dr',43.295816,-79.866638
-730,'PRGA','Plains Rd W / Gorton Ave',43.296931,-79.865039
-731,'PRGA','Plains Rd W / Gorton Ave',43.297354,-79.864929
-732,'','Plains Rd W / Unsworth Ave',43.298135,-79.864071
-733,'','Plains Rd W / 300 Plains Rd W',43.298923,-79.862776
-734,'','Plains Rd W / 283 Plains Rd W',43.299861,-79.86191
-735,'','Plains Rd W / E Of Boothman Ave',43.301104,-79.86034
-736,'','Plains Rd W / W Of Daryl Dr',43.301583,-79.859284
-737,'PRHR','Plains Rd W / Howard Road',43.303428,-79.856825
-738,'','Plains Rd W / Emery Ave',43.305334,-79.854368
-739,'','Plains Rd W / Emery Ave',43.305641,-79.854319
-740,'PRWR','Plains Rd West / Waterdown Rd',43.30642,-79.853292
-741,'PRWR','Plains Rd E / Waterdown Road',43.306959,-79.85218
-742,'','Plains Rd E / Birchwood Ave',43.308466,-79.850252
-743,'','Waterdown Rd / Masonary Ct',43.308615,-79.855035
-744,'','Plains Rd E / Clearview Ave',43.308958,-79.849944
-745,'','Plains Rd East / 175 Plains Rd E',43.311004,-79.847351
-746,'','Plains Rd E / W Of Shadeland Ave',43.312783,-79.844938
-747,'','Plains Rd E / Shadeland Ave',43.312695,-79.8447
-749,'','Northshore Blvd / Indian Rd',43.314381,-79.812443
-750,'','Francis Rd / Northshore Blvd',43.314441,-79.813828
-751,'','Northshore Blvd / Oneida Dr',43.314533,-79.812167
-752,'PRDD','Plains Rd E / Downsview Drive',43.314871,-79.841848
-753,'','Francis Rd / N Of Northshore Blvd',43.31469,-79.813881
-754,'','Francis Rd / 645 Francis Rd',43.315733,-79.815335
-755,'','Francis Rd / 670 Francis Rd',43.315925,-79.815899
-756,'','Northshore Blvd / Qew Ramp',43.316584,-79.805307
-757,'','Plains Rd E / Falcon Blvd',43.317018,-79.838941
-758,'','Plains Rd E / W Of Willowrock Rd',43.317136,-79.839228
-760,'','Francis Rd / Greenwood Dr',43.318,-79.818834
-762,'','Francis Rd / Greenwood Dr',43.318117,-79.819247
-763,'','Plains Rd E / 484 Plains Rd E',43.318403,-79.837046
-764,'','Plains Rd E / Maplehurst School',43.318794,-79.8369
-765,'','Northshore Blvd / 1249 Northshore',43.318529,-79.802845
-767,'','Maple Ave / N Of North Shore Blvd',43.319628,-79.802833
-768,'','Maple Ave / N Of Lakeshore Rd',43.319615,-79.802295
-769,'','Francis Rd / Cedar Ave',43.320082,-79.822029
-770,'','Lakeshore Rd / Brock Ave',43.319956,-79.801225
-771,'','Francis Rd / Cedar Ave',43.320387,-79.822241
-772,'','Maple Ave / Elgin St',43.320297,-79.803885
-773,'','Maple Ave / Elgin St',43.320317,-79.804444
-774,'','Lakeshore Rd / 1340 Lakeshore Rd',43.3203,-79.800551
-775,'','Plains Rd E / W Of Cedarwood Pl',43.320715,-79.834332
-776,'','Francis Rd / Marley Cres',43.320976,-79.823091
-777,'','Francis Rd / Marley Rd',43.321126,-79.823533
-778,'PRKR','Plains Rd E / Long Drive',43.32122,-79.83319
-779,'','Maple Ave / Ontario St',43.321041,-79.806145
-780,'','Surrey Lane / 695 Surrey Lane',43.321349,-79.82803
-781,'','Lakeshore Rd / Nelson Ave',43.321092,-79.800211
-782,'','Maple Ave / N Of Ontario St',43.321312,-79.806276
-783,'','King Rd / Plains Rd E',43.321777,-79.832301
-784,'','Ontario St / E Of Maple Ave',43.321574,-79.805137
-785,'','Ontario St / Brock Ave',43.321778,-79.804628
-787,'','Warwick Drive / S Of Surrey Lane',43.32209,-79.827576
-788,'','Maple Ave / Maple Crossing Blvd',43.321962,-79.808478
-789,'','Maple Ave / Maple Crossing Blvd',43.322036,-79.80803
-790,'','Francis Rd / Glen View Ave',43.322572,-79.825662
-791,'','Lakeshore Rd / Burlington Ave',43.322424,-79.798485
-792,'','Warwick Drive / Warwick Ct',43.322726,-79.827893
-794,'','Ontario St / Nelson Ave',43.322817,-79.803327
-795,'','Lakeshore Rd / Burlington Ave',43.322759,-79.798369
-796,'','Maple Ave / Augustus Dr',43.322977,-79.810924
-797,'','Francis Rd / Warwick Drive',43.323229,-79.827461
-798,'','Maple Ave / Augustus Dr',43.323053,-79.811792
-799,'','Maple Ave / Gymnastics Centre',43.323624,-79.813524
-801,'','Maple Ave / Richmond Rd',43.323796,-79.813441
-802,'','Lakeshore Rd / Locust St',43.323872,-79.79668
-803,'','Ontario St / Burlington Ave',43.324311,-79.801449
-804,'PRFR','Plains Rd E / Francis Rd',43.324759,-79.829006
-805,'','Ontario St / Hager Ave',43.323766,-79.802277
-806,'','Maple Avenue / S Of Mapleview Mall',43.325002,-79.817595
-807,'','Lakeshore Rd / Brant St',43.324626,-79.795971
-808,'','Maple Ave / Mapleview Mall S',43.325643,-79.818032
-810,'','Ontario St / Blathwayte Lane',43.325135,-79.800415
-812,'','Lakeshore Rd / Elizabeth St',43.325203,-79.794517
-813,'','Ontario St / Blathwayte Lane',43.325282,-79.800427
-815,'','Ontario St / Locust St',43.32564,-79.799769
-821,'','James St / W Of Brant St',43.326181,-79.79818
-822,'','Brant St / James St',43.326178,-79.798709
-823,'','Ontario St / Brant St',43.326203,-79.799034
-825,'','Lakeshore Rd / Martha St',43.326703,-79.792375
-826,'','Maple Ave / Thorpe Road',43.326513,-79.818956
+668,'','North Service Rd @ John Lucas Dr',43.396724,-79.762945
+669,'','North Service Rd @ John Lucas Dr',43.39681,-79.763155
+670,'CCHS','Upper Middle Rd @ Corpus Christi',43.397363,-79.78681
+675,'','Buloak Dr @ 1120 Burloak Dr',43.397974,-79.760407
+677,'CCHS','Upper Middle Rd @ Corpus Christi',43.398973,-79.784685
+681,'','Upper Middle Rd @ Quinte St',43.400254,-79.78334
+683,'','Upper Middle Rd @ Quinte St',43.400405,-79.783562
+687,'','Appleby Line @ Taywood Dr',43.40328,-79.803115
+688,'','Appleby Line @ Taywood Dr',43.403017,-79.803406
+689,'ALDS','Appleby Line @ Appleby Crossing',43.405038,-79.805563
+690,'','Sutton Dr @ Blue Spruce Ave',43.404919,-79.784808
+692,'ALDS','Appleby Line @ Cornerstone Centre',43.405192,-79.80643
+694,'','Sutton Dr @ Empire Crt',43.407025,-79.789101
+695,'','Sutton Dr @ Dryden Ave',43.407868,-79.790495
+699,'','Catherine St @ King William St',43.256766,-79.864706
+700,'','York Blvd @ John St N',43.258716,-79.865743
+701,'','Bay St @ Vine St',43.260591,-79.872694
+703,'','York Blvd @ Queen St',43.262898,-79.877014
+705,'','York Blvd @ W Of Dundurn St N',43.265448,-79.881693
+706,'','York Blvd @ Inchbury St',43.266094,-79.882147
+707,'','York Blvd @ Dundurn Castle',43.269331,-79.885776
+708,'','York Blvd @ 777 York Blvd',43.271482,-79.886535
+709,'','York Blvd @ West Of Cemetary',43.274629,-79.888123
+710,'','York Blvd @ W Of Cemetary Entrance',43.274904,-79.8885
+711,'','York Blvd @ E Of Cemetary Entrance',43.27666,-79.889704
+712,'','York Blvd @ East Of Cemetary',43.277003,-79.889757
+713,'','York Blvd @ W Of Old Guelph Line',43.284915,-79.892603
+714,'','York Blvd @ Old Guelph Rd',43.2851,-79.892434
+715,'','York Blvd @ E Of Valley Inn Rd',43.288505,-79.891342
+716,'','York Blvd @ Rbg Rock Garden',43.289534,-79.89049
+719,'','Plains Rd W @ Botanical Dr',43.29127,-79.879035
+720,'','Plains Rd W @ Botanical Drive',43.291332,-79.879897
+721,'','Plains Rd W @ Spring Gardens Rd',43.291623,-79.87259
+722,'','Plains Rd W @ Cemetery Ent W',43.292504,-79.870305
+723,'','Plains Rd W @ 549 Plains Rd W',43.292849,-79.870105
+724,'','Plains Rd W @ Spring Garden W',43.293201,-79.88701
+725,'','Plains Rd W @ York Blvd',43.293348,-79.889325
+726,'','Plains Rd W @ Spring Gardens Rd',43.293401,-79.886879
+727,'','Plains Rd W @ York Blvd',43.293637,-79.889159
+729,'','Plains Rd W @ E Of Patricia Dr',43.295816,-79.866638
+730,'PRGA','Plains Rd W @ Gorton Ave',43.296931,-79.865039
+731,'PRGA','Plains Rd W @ Gorton Ave',43.297354,-79.864929
+732,'','Plains Rd W @ Unsworth Ave',43.298135,-79.864071
+733,'','Plains Rd W @ 300 Plains Rd W',43.298923,-79.862776
+734,'','Plains Rd W @ 283 Plains Rd W',43.299861,-79.86191
+735,'','Plains Rd W @ E Of Boothman Ave',43.301104,-79.86034
+736,'','Plains Rd W @ W Of Daryl Dr',43.301583,-79.859284
+737,'PRHR','Plains Rd W @ Howard Road',43.303428,-79.856825
+738,'','Plains Rd W @ Emery Ave',43.305334,-79.854368
+739,'','Plains Rd W @ Emery Ave',43.305641,-79.854319
+740,'PRWR','Plains Rd West @ Waterdown Rd',43.30642,-79.853292
+741,'PRWR','Plains Rd E @ Waterdown Road',43.306959,-79.85218
+742,'','Plains Rd E @ Birchwood Ave',43.308466,-79.850252
+743,'','Waterdown Rd @ Masonary Ct',43.308615,-79.855035
+744,'','Plains Rd E @ Clearview Ave',43.308958,-79.849944
+745,'','Plains Rd East @ 175 Plains Rd E',43.311004,-79.847351
+746,'','Plains Rd E @ W Of Shadeland Ave',43.312783,-79.844938
+747,'','Plains Rd E @ Shadeland Ave',43.312695,-79.8447
+749,'','Northshore Blvd @ Indian Rd',43.314381,-79.812443
+750,'','Francis Rd @ Northshore Blvd',43.314441,-79.813828
+751,'','Northshore Blvd @ Oneida Dr',43.314533,-79.812167
+752,'PRDD','Plains Rd E @ Downsview Drive',43.314871,-79.841848
+753,'','Francis Rd @ N Of Northshore Blvd',43.31469,-79.813881
+754,'','Francis Rd @ 645 Francis Rd',43.315733,-79.815335
+755,'','Francis Rd @ 670 Francis Rd',43.315925,-79.815899
+756,'','Northshore Blvd @ Qew Ramp',43.316584,-79.805307
+757,'','Plains Rd E @ Falcon Blvd',43.317018,-79.838941
+758,'','Plains Rd E @ W Of Willowrock Rd',43.317136,-79.839228
+760,'','Francis Rd @ Greenwood Dr',43.318,-79.818834
+762,'','Francis Rd @ Greenwood Dr',43.318117,-79.819247
+763,'','Plains Rd E @ 484 Plains Rd E',43.318403,-79.837046
+764,'','Plains Rd E @ Maplehurst School',43.318794,-79.8369
+765,'','Northshore Blvd @ 1249 Northshore',43.318529,-79.802845
+767,'','Maple Ave @ N Of North Shore Blvd',43.319628,-79.802833
+768,'','Maple Ave @ N Of Lakeshore Rd',43.319615,-79.802295
+769,'','Francis Rd @ Cedar Ave',43.320082,-79.822029
+770,'','Lakeshore Rd @ Brock Ave',43.319956,-79.801225
+771,'','Francis Rd @ Cedar Ave',43.320387,-79.822241
+772,'','Maple Ave @ Elgin St',43.320297,-79.803885
+773,'','Maple Ave @ Elgin St',43.320317,-79.804444
+774,'','Lakeshore Rd @ 1340 Lakeshore Rd',43.3203,-79.800551
+775,'','Plains Rd E @ W Of Cedarwood Pl',43.320715,-79.834332
+776,'','Francis Rd @ Marley Cres',43.320976,-79.823091
+777,'','Francis Rd @ Marley Rd',43.321126,-79.823533
+778,'PRKR','Plains Rd E @ Long Drive',43.32122,-79.83319
+779,'','Maple Ave @ Ontario St',43.321041,-79.806145
+780,'','Surrey Lane @ 695 Surrey Lane',43.321349,-79.82803
+781,'','Lakeshore Rd @ Nelson Ave',43.321092,-79.800211
+782,'','Maple Ave @ N Of Ontario St',43.321312,-79.806276
+783,'','King Rd @ Plains Rd E',43.321777,-79.832301
+784,'','Ontario St @ E Of Maple Ave',43.321574,-79.805137
+785,'','Ontario St @ Brock Ave',43.321778,-79.804628
+787,'','Warwick Drive @ S Of Surrey Lane',43.32209,-79.827576
+788,'','Maple Ave @ Maple Crossing Blvd',43.321962,-79.808478
+789,'','Maple Ave @ Maple Crossing Blvd',43.322036,-79.80803
+790,'','Francis Rd @ Glen View Ave',43.322572,-79.825662
+791,'','Lakeshore Rd @ Burlington Ave',43.322424,-79.798485
+792,'','Warwick Drive @ Warwick Ct',43.322726,-79.827893
+794,'','Ontario St @ Nelson Ave',43.322817,-79.803327
+795,'','Lakeshore Rd @ Burlington Ave',43.322759,-79.798369
+796,'','Maple Ave @ Augustus Dr',43.322977,-79.810924
+797,'','Francis Rd @ Warwick Drive',43.323229,-79.827461
+798,'','Maple Ave @ Augustus Dr',43.323053,-79.811792
+799,'','Maple Ave @ Gymnastics Centre',43.323624,-79.813524
+801,'','Maple Ave @ Richmond Rd',43.323796,-79.813441
+802,'','Lakeshore Rd @ Locust St',43.323872,-79.79668
+803,'','Ontario St @ Burlington Ave',43.324311,-79.801449
+804,'PRFR','Plains Rd E @ Francis Rd',43.324759,-79.829006
+805,'','Ontario St @ Hager Ave',43.323766,-79.802277
+806,'','Maple Avenue @ S Of Mapleview Mall',43.325002,-79.817595
+807,'','Lakeshore Rd @ Brant St',43.324626,-79.795971
+808,'','Maple Ave @ Mapleview Mall S',43.325643,-79.818032
+810,'','Ontario St @ Blathwayte Lane',43.325135,-79.800415
+812,'','Lakeshore Rd @ Elizabeth St',43.325203,-79.794517
+813,'','Ontario St @ Blathwayte Lane',43.325282,-79.800427
+815,'','Ontario St @ Locust St',43.32564,-79.799769
+821,'','James St @ W Of Brant St',43.326181,-79.79818
+822,'','Brant St @ James St',43.326178,-79.798709
+823,'','Ontario St @ Brant St',43.326203,-79.799034
+825,'','Lakeshore Rd @ Martha St',43.326703,-79.792375
+826,'','Maple Ave @ Thorpe Road',43.326513,-79.818956
 828,'','Queensway Dr Opp Cleta St',43.347569,-79.808555
-830,'','Mount Forest Dr / Tyrrell Rd',43.348956,-79.825875
-831,'','Rexway Dr / Braemore Rd',43.354619,-79.775552
-832,'','North Service Rd / Leons',43.356831,-79.799216
-833,'','Longmoor Dr / 4100 Longmoor Dr',43.356816,-79.770122
-834,'','Fisher Ave / Parkway Dr',43.357575,-79.822978
-835,'','North Service / 3269 North Service',43.359465,-79.796332
-836,'','New St / Smith Ave',43.3315,-79.792665
-837,'','Longmoor Dr / 4288 Longmoor Dr',43.364359,-79.770361
-838,'','Longmoor Dr / 4466 Longmoor Dr',43.367322,-79.758077
-839,'','Cavendish Dr / Ingersol Dr',43.368509,-79.83457
-843,'','Burloak Dr / Randolph Cr',43.376285,-79.730507
+830,'','Mount Forest Dr @ Tyrrell Rd',43.348956,-79.825875
+831,'','Rexway Dr @ Braemore Rd',43.354619,-79.775552
+832,'','North Service Rd @ Leons',43.356831,-79.799216
+833,'','Longmoor Dr @ 4100 Longmoor Dr',43.356816,-79.770122
+834,'','Fisher Ave @ Parkway Dr',43.357575,-79.822978
+835,'','North Service @ 3269 North Service',43.359465,-79.796332
+836,'','New St @ Smith Ave',43.3315,-79.792665
+837,'','Longmoor Dr @ 4288 Longmoor Dr',43.364359,-79.770361
+838,'','Longmoor Dr @ 4466 Longmoor Dr',43.367322,-79.758077
+839,'','Cavendish Dr @ Ingersol Dr',43.368509,-79.83457
+843,'','Burloak Dr @ Randolph Cr',43.376285,-79.730507
 844,'','Headon Forest Dr Opp Edenwood Cr',43.382408,-79.831619
-845,'','Francis Rd / Glenview Ave',43.322683,-79.82562
-849,'','Brant St / Victoria Ave',43.329786,-79.803586
-850,'','Brant St / Blairholm Ave',43.331198,-79.805642
-851,'','Brant St / Blairholm Ave',43.33124,-79.806064
-852,'','Brant St / N Of Faversham Ave',43.352814,-79.837703
-853,'','Cavendish Dr / 2632 Cavendish Dr',43.365716,-79.850069
-856,'','King St / Bay St',43.257985,-79.873658
-857,'','York Blvd / Crooks St',43.265014,-79.880604
-858,'','Plains Rd W / Spring Garden',43.291154,-79.873137
-859,'','Plains Rd E / St. Matthews',43.309807,-79.848489
-860,'','Plains Rd E / 166 Plains Rd E',43.310988,-79.846913
-861,'PRDD','Plains Rd E / Downsview Dr',43.315434,-79.841461
-862,'PRHR','Plains Rd W / 127 Plains Rd W',43.303472,-79.857241
-863,'','York Blvd / E Of James St N',43.259007,-79.86893
-864,'','Lakeshore Rd / E Of Discovery Land',43.321401,-79.799569
-865,'','Longmoor Dr / E Of Tipperary Ave',43.365769,-79.761118
-867,'','Sutton Dr / Dryden Ave',43.407821,-79.790822
-870,'UMWL','Upper Middle Rd / E Of Walkers Ln',43.379696,-79.805355
-900,'GLCW','Driftwood Dr / Guelph Line',43.375638,-79.835662
-901,'ALCO','Appleby Line / S Of Corporate Dr',43.389863,-79.78498
-902,'','Appleby Line / Corporate Dr',43.390772,-79.78578
+845,'','Francis Rd @ Glenview Ave',43.322683,-79.82562
+849,'','Brant St @ Victoria Ave',43.329786,-79.803586
+850,'','Brant St @ Blairholm Ave',43.331198,-79.805642
+851,'','Brant St @ Blairholm Ave',43.33124,-79.806064
+852,'','Brant St @ N Of Faversham Ave',43.352814,-79.837703
+853,'','Cavendish Dr @ 2632 Cavendish Dr',43.365716,-79.850069
+856,'','King St @ Bay St',43.257985,-79.873658
+857,'','York Blvd @ Crooks St',43.265014,-79.880604
+858,'','Plains Rd W @ Spring Garden',43.291154,-79.873137
+859,'','Plains Rd E @ St. Matthews',43.309807,-79.848489
+860,'','Plains Rd E @ 166 Plains Rd E',43.310988,-79.846913
+861,'PRDD','Plains Rd E @ Downsview Dr',43.315434,-79.841461
+862,'PRHR','Plains Rd W @ 127 Plains Rd W',43.303472,-79.857241
+863,'','York Blvd @ E Of James St N',43.259007,-79.86893
+864,'','Lakeshore Rd @ E Of Discovery Land',43.321401,-79.799569
+865,'','Longmoor Dr @ E Of Tipperary Ave',43.365769,-79.761118
+867,'','Sutton Dr @ Dryden Ave',43.407821,-79.790822
+870,'UMWL','Upper Middle Rd @ E Of Walkers Ln',43.379696,-79.805355
+900,'GLCW','Driftwood Dr @ Guelph Line',43.375638,-79.835662
+901,'ALCO','Appleby Line @ S Of Corporate Dr',43.389863,-79.78498
+902,'','Appleby Line @ Corporate Dr',43.390772,-79.78578
 903,'ALDR','Appleby Line Opposite Dryden Ave',43.396737,-79.794732
-904,'ALDR','Appleby Line / Dryden Ave',43.397045,-79.794685
-905,'ALHR','Harvester Rd / W Of Appleby Line',43.376782,-79.768561
-906,'ALHR','Harvester Rd / Appleby Line',43.377223,-79.767618
-908,'MWAL','Mainway / Appleby Line',43.386759,-79.781825
-909,'','Appleby Line / Mainway',43.387602,-79.781438
-911,'ALNS','New Street / Appleby Line',43.367519,-79.753536
-912,'ALNS','Appleby Line / New St',43.366959,-79.753099
-913,'ALNS','Appleby Line / New St',43.367396,-79.754026
-914,'','Appleby Line / Pinedale Ave',43.369431,-79.756323
-917,'ASGO','Waterdown Rd / Aldershot Go',43.31312,-79.856397
-918,'BDNR','North Service Rd / Buloak Dr',43.398134,-79.762218
-919,'BDNR','North Service Rd / W Of Burloak Dr',43.398324,-79.762236
-921,'','Brant / Leighland Nb',43.33912,-79.81831
+904,'ALDR','Appleby Line @ Dryden Ave',43.397045,-79.794685
+905,'ALHR','Harvester Rd @ W Of Appleby Line',43.376782,-79.768561
+906,'ALHR','Harvester Rd @ Appleby Line',43.377223,-79.767618
+908,'MWAL','Mainway @ Appleby Line',43.386759,-79.781825
+909,'','Appleby Line @ Mainway',43.387602,-79.781438
+911,'ALNS','New Street @ Appleby Line',43.367519,-79.753536
+912,'ALNS','Appleby Line @ New St',43.366959,-79.753099
+913,'ALNS','Appleby Line @ New St',43.367396,-79.754026
+914,'','Appleby Line @ Pinedale Ave',43.369431,-79.756323
+917,'ASGO','Waterdown Rd @ Aldershot Go',43.31312,-79.856397
+918,'BDNR','North Service Rd @ Buloak Dr',43.398134,-79.762218
+919,'BDNR','North Service Rd @ W Of Burloak Dr',43.398324,-79.762236
+921,'','Brant @ Leighland Nb',43.33912,-79.81831
 922,'BRNS','Brant & North Service Road Nb',43.343493,-79.824488
-924,'BSCD','Cavendish Dr / Brant St',43.36351,-79.852339
-925,'BSCD','Cavendish Dr / Greenbank Trail',43.363661,-79.85196
-927,'BUHAR','Harvester / West Of Burloak',43.391524,-79.752944
+924,'BSCD','Cavendish Dr @ Brant St',43.36351,-79.852339
+925,'BSCD','Cavendish Dr @ Greenbank Trail',43.363661,-79.85196
+927,'BUHAR','Harvester @ West Of Burloak',43.391524,-79.752944
 941,'CNLB','Central Library',43.335007,-79.790592
 942,'CNLB','Central Library',43.334869,-79.790591
-950,'','New St / Appleby Line',43.36678,-79.754042
-952,'DTRM','John St / Downtown Terminal',43.325782,-79.796914
-953,'DTRM','John St / Downtown Terminal',43.325696,-79.796457
-954,'DUGO','Dundas St / 407 Go Car Pool',43.389206,-79.828861
-955,'DUSU','Dundas St / Sutton Dr',43.411717,-79.801342
-956,'SUNR','Sutton Dr / North Service Rd',43.387802,-79.765176
-957,'DUSU','Dundas St / South Of Sutton Dr',43.41101,-79.800492
-960,'GARN','Harvester Rd / 3332 Harvester Rd',43.358574,-79.790632
-961,'GLFS','Fairview St / W Of Guelph Line',43.346435,-79.798151
-962,'GLFS','Guelph Line / S Of Fairview St',43.346905,-79.796631
-963,'GLFS','Guelph Line / Fairview St Farside',43.346852,-79.797082
-965,'GLHR','Queensway Dr / Guelph Line Farside',43.350002,-79.802068
-966,'GLHR','Harvester Rd / E Of Guelph Line',43.350538,-79.800914
-967,'GLHR','Harvester Rd / E Of South Service',43.352693,-79.798455
-968,'','Guelph Line / Mainway Dr Nearside',43.35659,-79.810054
-969,'GLMA','Mainway Dr / E Of Guelph Line',43.35798,-79.809789
-970,'GLNR','North Service Rd / Guelph Line',43.352823,-79.805577
-971,'GLNR','Guelph Line / North Service Rd',43.352994,-79.804988
-972,'GLNS','New St / Guelph Line',43.338003,-79.785433
-973,'GLNS','Guelph Line / S Of New St',43.338039,-79.784702
-974,'GLNS','Guelph Line / N Of New St',43.338535,-79.785897
-975,'GLNS','New Street / Guelph Line',43.338694,-79.785101
-976,'GLPS','Prospect St / W Of Guelph Line',43.344878,-79.794684
-977,'GLPS','Prospect St / Guelph Line',43.345621,-79.79408
+950,'','New St @ Appleby Line',43.36678,-79.754042
+952,'DTRM','John St @ Downtown Terminal',43.325782,-79.796914
+953,'DTRM','John St @ Downtown Terminal',43.325696,-79.796457
+954,'DUGO','Dundas St @ 407 Go Car Pool',43.389206,-79.828861
+955,'DUSU','Dundas St @ Sutton Dr',43.411717,-79.801342
+956,'SUNR','Sutton Dr @ North Service Rd',43.387802,-79.765176
+957,'DUSU','Dundas St @ South Of Sutton Dr',43.41101,-79.800492
+960,'GARN','Harvester Rd @ 3332 Harvester Rd',43.358574,-79.790632
+961,'GLFS','Fairview St @ W Of Guelph Line',43.346435,-79.798151
+962,'GLFS','Guelph Line @ S Of Fairview St',43.346905,-79.796631
+963,'GLFS','Guelph Line @ Fairview St Farside',43.346852,-79.797082
+965,'GLHR','Queensway Dr @ Guelph Line Farside',43.350002,-79.802068
+966,'GLHR','Harvester Rd @ E Of Guelph Line',43.350538,-79.800914
+967,'GLHR','Harvester Rd @ E Of South Service',43.352693,-79.798455
+968,'','Guelph Line @ Mainway Dr Nearside',43.35659,-79.810054
+969,'GLMA','Mainway Dr @ E Of Guelph Line',43.35798,-79.809789
+970,'GLNR','North Service Rd @ Guelph Line',43.352823,-79.805577
+971,'GLNR','Guelph Line @ North Service Rd',43.352994,-79.804988
+972,'GLNS','New St @ Guelph Line',43.338003,-79.785433
+973,'GLNS','Guelph Line @ S Of New St',43.338039,-79.784702
+974,'GLNS','Guelph Line @ N Of New St',43.338535,-79.785897
+975,'GLNS','New Street @ Guelph Line',43.338694,-79.785101
+976,'GLPS','Prospect St @ W Of Guelph Line',43.344878,-79.794684
+977,'GLPS','Prospect St @ Guelph Line',43.345621,-79.79408
 978,'GOAP','Appleby Go Station',43.379099,-79.760437
 979,'GOAP','Appleby Go Station',43.378978,-79.760087
 980,'GOAP','Appleby Go Station',43.379194,-79.761711
 982,'GOAP','Appleby Go Station',43.379494,-79.760276
 985,'GOAP','Appleby Go Station',43.379424,-79.760696
-986,'','Maple Ave / N Of Thorpe Rd',43.327229,-79.819047
+986,'','Maple Ave @ N Of Thorpe Rd',43.327229,-79.819047
 987,'GOBL','Burlington Go Station',43.341054,-79.811478
 988,'GOBL','Burlington Go Station',43.341134,-79.811942
 989,'GOBL','Burlington Go Station',43.340853,-79.81186
 991,'GOBL','Burlington Go Station',43.340994,-79.811908
 993,'GOBL','Burlington Go Station',43.340684,-79.811825
-996,'HRHF','Headon Forest Dr / Headon Rd',43.386691,-79.827434
-997,'HRHF','Headon Forest / 2522 Headon Forest',43.386212,-79.82817
-998,'HRUM','Headon Rd / S Of Upper Middle Rd',43.374243,-79.810159
-999,'HRUM','Upper Middle Rd / Headon Rd',43.374469,-79.810993
-1000,'UMAL','Upper Middle Rd / Heron Way',43.392168,-79.79194
-1001,'ALHW','Heron Way / Milcroft Centre',43.39399,-79.792906
-1003,'UMAL','Appleby Line / Upper Middle',43.392969,-79.788826
-1004,'UMAL','Appleby Line / Upper Middle',43.392569,-79.788759
+996,'HRHF','Headon Forest Dr @ Headon Rd',43.386691,-79.827434
+997,'HRHF','Headon Forest @ 2522 Headon Forest',43.386212,-79.82817
+998,'HRUM','Headon Rd @ S Of Upper Middle Rd',43.374243,-79.810159
+999,'HRUM','Upper Middle Rd @ Headon Rd',43.374469,-79.810993
+1000,'UMAL','Upper Middle Rd @ Heron Way',43.392168,-79.79194
+1001,'ALHW','Heron Way @ Milcroft Centre',43.39399,-79.792906
+1003,'UMAL','Appleby Line @ Upper Middle',43.392969,-79.788826
+1004,'UMAL','Appleby Line @ Upper Middle',43.392569,-79.788759
 1005,'TWIW','Tansley On Itabashi Way',43.382871,-79.800592
 1006,'TWIW','Tansley On Itabashi Way',43.382899,-79.800064
-1100,'','Lakeshore Rd / Hampton Heath Rd',43.368202,-79.72969
-1101,'','Mount Forest Dr / Princeton Crt',43.352965,-79.82084
+1100,'','Lakeshore Rd @ Hampton Heath Rd',43.368202,-79.72969
+1101,'','Mount Forest Dr @ Princeton Crt',43.352965,-79.82084
 1200,'','Alton High School And Recreation Ce',43.398944,-79.819182
-1201,'ALHC','Appleby Line / Harrison Crt',43.408314,-79.810676
-1202,'HRUM','Headon Rd / Upper Middle Rd Nrside',43.374588,-79.810502
-1203,'JBHS','Northshore Blvd / Joseph Brant',43.317662,-79.803984
-1204,'JBHS','Northshore Blvd / Joseph Brant',43.317805,-79.803408
-1206,'KRTA','King Rd / Townsend Ave',43.319619,-79.82928
-1207,'KSJS','King St / James St',43.25667,-79.868892
-1208,'LRAL','Lakeshore Rd / Appleby Line',43.360597,-79.744657
-1209,'LRAL','Lakeshore Rd / Appleby Line',43.360457,-79.744165
-1210,'MMRH','Upper Middle Rd / M M Robinson',43.363619,-79.823158
+1201,'ALHC','Appleby Line @ Harrison Crt',43.408314,-79.810676
+1202,'HRUM','Headon Rd @ Upper Middle Rd Nrside',43.374588,-79.810502
+1203,'JBHS','Northshore Blvd @ Joseph Brant',43.317662,-79.803984
+1204,'JBHS','Northshore Blvd @ Joseph Brant',43.317805,-79.803408
+1206,'KRTA','King Rd @ Townsend Ave',43.319619,-79.82928
+1207,'KSJS','King St @ James St',43.25667,-79.868892
+1208,'LRAL','Lakeshore Rd @ Appleby Line',43.360597,-79.744657
+1209,'LRAL','Lakeshore Rd @ Appleby Line',43.360457,-79.744165
+1210,'MMRH','Upper Middle Rd @ M M Robinson',43.363619,-79.823158
 1212,'','Mainway And Lampman Ave',43.390114,-79.778196
-1213,'','Mainway / Norjohn Court',43.390348,-79.777645
-1214,'MTRP','Mount Forest Dr / Mountainside Dr',43.347141,-79.827467
-1215,'MTRP','Brant St / Mount Forest Dr',43.346665,-79.82934
-1216,'MTRP','Brant St / S Of Mount Forest Dr',43.345872,-79.827808
-1217,'MTRP','Mount Forest Dr / E Of Brant St',43.347044,-79.827902
-1219,'MWAL','Mainway Dr / Appleby Line',43.387582,-79.780595
+1213,'','Mainway @ Norjohn Court',43.390348,-79.777645
+1214,'MTRP','Mount Forest Dr @ Mountainside Dr',43.347141,-79.827467
+1215,'MTRP','Brant St @ Mount Forest Dr',43.346665,-79.82934
+1216,'MTRP','Brant St @ S Of Mount Forest Dr',43.345872,-79.827808
+1217,'MTRP','Mount Forest Dr @ E Of Brant St',43.347044,-79.827902
+1219,'MWAL','Mainway Dr @ Appleby Line',43.387582,-79.780595
 1220,'NDHS','Notre Dame High School',43.377882,-79.831823
 1222,'','Pinedale Ave Atnew St',43.375629,-79.744762
-1223,'','Plains Road East / Kingsway Drive',43.32026,-79.834527
-1224,'PRKR','Plains Rd E / King Rd',43.32215,-79.832355
-1225,'PRFR','Plains Rd E / Francis Rd',43.323808,-79.829775
-1226,'','Plains Road East / Queensway Drive',43.344154,-79.812413
-1227,'RBGD','Plains Rd W / Rbg',43.290757,-79.87462
-1229,'RBGD','Plains Rd W / Rbg',43.290867,-79.875463
-1232,'UMGL','Upper Middle Rd / Super Centre',43.365882,-79.820262
-1233,'SUNR','Sutton Dr / North Service Rd',43.387957,-79.765552
+1223,'','Plains Road East @ Kingsway Drive',43.32026,-79.834527
+1224,'PRKR','Plains Rd E @ King Rd',43.32215,-79.832355
+1225,'PRFR','Plains Rd E @ Francis Rd',43.323808,-79.829775
+1226,'','Plains Road East @ Queensway Drive',43.344154,-79.812413
+1227,'RBGD','Plains Rd W @ Rbg',43.290757,-79.87462
+1229,'RBGD','Plains Rd W @ Rbg',43.290867,-79.875463
+1232,'UMGL','Upper Middle Rd @ Super Centre',43.365882,-79.820262
+1233,'SUNR','Sutton Dr @ North Service Rd',43.387957,-79.765552
 1234,'SUUM','Sutton Dr North Of 5327 Sutton Dr',43.403303,-79.782624
-1235,'SUUM','Sutton Dr / Blue Spruce Ave',43.404966,-79.7852
-1236,'','Thomas Alton / Ashlar Cres',43.403327,-79.821586
-1237,'','Thomas Alton / Appleby Line',43.41001,-79.813428
-1238,'','Thomas Alton / Columbus Drive',43.409204,-79.816538
-1239,'','Thomas Alton / Ferguson Drive',43.407217,-79.820378
-1240,'','Thomas Alton / Ferguson Drive',43.407466,-79.820398
-1241,'','Thomas Alton / Hopkins Drive',43.404998,-79.82109
-1242,'','Thomas Alton / Hopkins Dr',43.40523,-79.821211
-1244,'','Thomas Alton / Nixon Gate',43.398355,-79.823648
-1245,'TATD','Thomas Alton / Rossini Rd',43.398726,-79.823315
-1246,'','Thomas Alton / Rotary Way',43.396208,-79.82473
-1248,'','Thomas Alton / Settlement Court',43.396441,-79.824679
-1249,'TATD','Thomas Alton / Tim Dobbie',43.400634,-79.822767
-1250,'','Thomas Alton / Tim Dobbie',43.400192,-79.822349
-1251,'','Thomas Alton / West Of Columbus',43.409381,-79.816308
-1252,'WLBA','Thomas Alton / Munson Cres',43.395406,-79.826672
-1254,'UMGL','Upper Middle Rd / Guelph Line',43.364276,-79.822317
-1256,'UMWL','Upper Middle Rd / Walkers Line',43.378772,-79.806342
-1257,'UMWL','Upper Middle Rd / Walkers Line',43.379825,-79.805575
-1259,'','Walkers Line / Berton Ave',43.39089,-79.821934
-1260,'WLDS','Walkers Line / Berton Ave',43.39098,-79.822465
-1261,'WLFS','Fairview St / East Of Walkers Line',43.360592,-79.778971
-1262,'WLFS','Fairview / East Of Walkers Line',43.360614,-79.778492
-1263,'WLHR','Harvester Rd / Walkers Line',43.363559,-79.782733
-1264,'WLHR','Harvester Rd / Walkers Line',43.3627,-79.783445
-1265,'WLMW','Walkers Line / 3500 Walkers Line',43.370836,-79.794568
-1267,'WLNR','North Service Rd / Walkers Line',43.368349,-79.790352
-1268,'WLNS','New Street / Walkers Line',43.352515,-79.770003
-1269,'WLNS','New St / Walkers Line',43.352571,-79.769615
-1270,'','Walkers Line / Thomas Alton Blvd',43.394734,-79.827137
-1271,'UMWL','Walkers Line / N Of Upper Middle',43.379661,-79.807063
-1272,'WLUM','Walkers Line / Upper Middle Rd',43.378991,-79.805509
-1320,'GARN','Harvester Rd / 3332 Harvester Rd',43.358555,-79.790965
-1350,'UMCC','Upper Middle / Country Club',43.388308,-79.796663
-1351,'UMCC','Upper Middle / Country Club',43.387817,-79.796611
-1365,'','Upper Middle / East Of Appleby Ln',43.395373,-79.78851
-1370,'','Thomas Alton / Appleby Line',43.40999,-79.813931
+1235,'SUUM','Sutton Dr @ Blue Spruce Ave',43.404966,-79.7852
+1236,'','Thomas Alton @ Ashlar Cres',43.403327,-79.821586
+1237,'','Thomas Alton @ Appleby Line',43.41001,-79.813428
+1238,'','Thomas Alton @ Columbus Drive',43.409204,-79.816538
+1239,'','Thomas Alton @ Ferguson Drive',43.407217,-79.820378
+1240,'','Thomas Alton @ Ferguson Drive',43.407466,-79.820398
+1241,'','Thomas Alton @ Hopkins Drive',43.404998,-79.82109
+1242,'','Thomas Alton @ Hopkins Dr',43.40523,-79.821211
+1244,'','Thomas Alton @ Nixon Gate',43.398355,-79.823648
+1245,'TATD','Thomas Alton @ Rossini Rd',43.398726,-79.823315
+1246,'','Thomas Alton @ Rotary Way',43.396208,-79.82473
+1248,'','Thomas Alton @ Settlement Court',43.396441,-79.824679
+1249,'TATD','Thomas Alton @ Tim Dobbie',43.400634,-79.822767
+1250,'','Thomas Alton @ Tim Dobbie',43.400192,-79.822349
+1251,'','Thomas Alton @ West Of Columbus',43.409381,-79.816308
+1252,'WLBA','Thomas Alton @ Munson Cres',43.395406,-79.826672
+1254,'UMGL','Upper Middle Rd @ Guelph Line',43.364276,-79.822317
+1256,'UMWL','Upper Middle Rd @ Walkers Line',43.378772,-79.806342
+1257,'UMWL','Upper Middle Rd @ Walkers Line',43.379825,-79.805575
+1259,'','Walkers Line @ Berton Ave',43.39089,-79.821934
+1260,'WLDS','Walkers Line @ Berton Ave',43.39098,-79.822465
+1261,'WLFS','Fairview St @ East Of Walkers Line',43.360592,-79.778971
+1262,'WLFS','Fairview @ East Of Walkers Line',43.360614,-79.778492
+1263,'WLHR','Harvester Rd @ Walkers Line',43.363559,-79.782733
+1264,'WLHR','Harvester Rd @ Walkers Line',43.3627,-79.783445
+1265,'WLMW','Walkers Line @ 3500 Walkers Line',43.370836,-79.794568
+1267,'WLNR','North Service Rd @ Walkers Line',43.368349,-79.790352
+1268,'WLNS','New Street @ Walkers Line',43.352515,-79.770003
+1269,'WLNS','New St @ Walkers Line',43.352571,-79.769615
+1270,'','Walkers Line @ Thomas Alton Blvd',43.394734,-79.827137
+1271,'UMWL','Walkers Line @ N Of Upper Middle',43.379661,-79.807063
+1272,'WLUM','Walkers Line @ Upper Middle Rd',43.378991,-79.805509
+1320,'GARN','Harvester Rd @ 3332 Harvester Rd',43.358555,-79.790965
+1350,'UMCC','Upper Middle @ Country Club',43.388308,-79.796663
+1351,'UMCC','Upper Middle @ Country Club',43.387817,-79.796611
+1365,'','Upper Middle @ East Of Appleby Ln',43.395373,-79.78851
+1370,'','Thomas Alton @ Appleby Line',43.40999,-79.813931
 1372,'','Appleby Opposite Appleby Arena',43.384878,-79.778067
-1373,'','Appleby / Ironstone Dr',43.392269,-79.788306
-1375,'','Plains Rd E / East Of Brant',43.339351,-79.816481
-1376,'','Plains Rd E / West Of Brant',43.337838,-79.817784
-1377,'','Plains Rd E / Glendor Ave',43.335605,-79.81968
-1378,'','Maple Ave / Plains Rd E',43.331077,-79.822568
-1379,'','Maple Ave / Plains Rd E',43.331151,-79.822297
-1380,'','Plains Rd E / Glendor Ave',43.335597,-79.819401
-1381,'','Plains Rd E / West Of Bran St',43.337536,-79.817712
-1382,'','Plains Rd E / East Of Brant St',43.33901,-79.816443
-1383,'','Plains Rd E / Queensway Dr',43.344078,-79.812803
-1386,'MWSD','Sutton Drive / Mainway',43.395114,-79.77131
-1387,'MWSD','Sutton Drive / Mainway',43.394971,-79.771372
-1393,'','North Service Rd / Skyview Drive',43.334206,-79.837601
-1398,'','Tyandaga Park Drive / Kerns Rd',43.345603,-79.847415
-1402,'','Headon Forest Drive / Pinemeadow',43.371519,-79.82209
-1403,'','Headon Forest Drive / Upper Middle',43.37056,-79.818507
+1373,'','Appleby @ Ironstone Dr',43.392269,-79.788306
+1375,'','Plains Rd E @ East Of Brant',43.339351,-79.816481
+1376,'','Plains Rd E @ West Of Brant',43.337838,-79.817784
+1377,'','Plains Rd E @ Glendor Ave',43.335605,-79.81968
+1378,'','Maple Ave @ Plains Rd E',43.331077,-79.822568
+1379,'','Maple Ave @ Plains Rd E',43.331151,-79.822297
+1380,'','Plains Rd E @ Glendor Ave',43.335597,-79.819401
+1381,'','Plains Rd E @ West Of Bran St',43.337536,-79.817712
+1382,'','Plains Rd E @ East Of Brant St',43.33901,-79.816443
+1383,'','Plains Rd E @ Queensway Dr',43.344078,-79.812803
+1386,'MWSD','Sutton Drive @ Mainway',43.395114,-79.77131
+1387,'MWSD','Sutton Drive @ Mainway',43.394971,-79.771372
+1393,'','North Service Rd @ Skyview Drive',43.334206,-79.837601
+1398,'','Tyandaga Park Drive @ Kerns Rd',43.345603,-79.847415
+1402,'','Headon Forest Drive @ Pinemeadow',43.371519,-79.82209
+1403,'','Headon Forest Drive @ Upper Middle',43.37056,-79.818507
 1406,'','4450 Corporate Drive',43.385214,-79.789137
 1407,'','4390 Corporate Drive',43.38744,-79.788748
 1408,'','4450 Corporate Drive',43.38869,-79.787405
-1409,'','South Service Rd / Wycroft Rd',43.394851,-79.749603
-1410,'','Wyecroft Rd / East Of Burloak Dr',43.392092,-79.751735
-1420,'','Dundas St Wb / Walkers Line',43.39289,-79.823153
-1421,'','Dundas St Eb / Walkers Line',43.391375,-79.824493
-1450,'','Sutton Drive / Downey Street',43.391413,-79.7664
-1451,'','Sutton Drive / John Lucas Drive',43.393342,-79.768798
-1461,'','North Service / Yorkton Court',43.324362,-79.848058
+1409,'','South Service Rd @ Wycroft Rd',43.394851,-79.749603
+1410,'','Wyecroft Rd @ East Of Burloak Dr',43.392092,-79.751735
+1420,'','Dundas St Wb @ Walkers Line',43.39289,-79.823153
+1421,'','Dundas St Eb @ Walkers Line',43.391375,-79.824493
+1450,'','Sutton Drive @ Downey Street',43.391413,-79.7664
+1451,'','Sutton Drive @ John Lucas Drive',43.393342,-79.768798
+1461,'','North Service @ Yorkton Court',43.324362,-79.848058
 1462,'','201 North Service Road',43.316874,-79.855837
-1463,'','North Service / Kerns Road',43.338433,-79.832705
-1464,'','North Service / Huntly Street',43.336615,-79.834255
+1463,'','North Service @ Kerns Road',43.338433,-79.832705
+1464,'','North Service @ Huntly Street',43.336615,-79.834255
 1465,'','201 North Service Road',43.316963,-79.855589
-1466,'','North Service / Yorkton Court',43.324317,-79.847934
-1467,'','North Service / Skyview Drive',43.334465,-79.837117
-1468,'','North Service / Huntly Street',43.336588,-79.834193
-1480,'','North Service / King Road',43.330525,-79.84159
-1481,'','North Service / King Road',43.329306,-79.84278
-1500,'','Hampton Heath Rd / Mericourt Rd',43.375192,-79.741208
-1501,'','Hampton Heath Rd / New St',43.376413,-79.743232
-1503,'','Hampton Heath Rd / Lakeside Plaza',43.368596,-79.730726
-1504,'','Hampton Heath Rd / Stratton Rd',43.368908,-79.730852
-1506,'','Hampton Heath Rd / Mericourt Rd',43.37526,-79.74155
-1507,'','Pinedale Ave / Forestwood Cres',43.377818,-79.747688
-1508,'','Pinedale Ave / Salem Rd',43.378135,-79.747895
-1509,'','Pinedale Ave / Riverside Dr',43.378578,-79.750057
+1466,'','North Service @ Yorkton Court',43.324317,-79.847934
+1467,'','North Service @ Skyview Drive',43.334465,-79.837117
+1468,'','North Service @ Huntly Street',43.336588,-79.834193
+1480,'','North Service @ King Road',43.330525,-79.84159
+1481,'','North Service @ King Road',43.329306,-79.84278
+1500,'','Hampton Heath Rd @ Mericourt Rd',43.375192,-79.741208
+1501,'','Hampton Heath Rd @ New St',43.376413,-79.743232
+1503,'','Hampton Heath Rd @ Lakeside Plaza',43.368596,-79.730726
+1504,'','Hampton Heath Rd @ Stratton Rd',43.368908,-79.730852
+1506,'','Hampton Heath Rd @ Mericourt Rd',43.37526,-79.74155
+1507,'','Pinedale Ave @ Forestwood Cres',43.377818,-79.747688
+1508,'','Pinedale Ave @ Salem Rd',43.378135,-79.747895
+1509,'','Pinedale Ave @ Riverside Dr',43.378578,-79.750057
 1510,'','Seniors Centre Front Entrance',43.334717,-79.791181
-1511,'PANS','Pinedale Ave / 455 Pinedale',43.375974,-79.744974
-1512,'','King St / John St',43.255927,-79.866652
-1513,'YBBS','York Blvd / Bay St',43.260018,-79.873016
-1514,'','York Blvd / Park St',43.259508,-79.871369
-1515,'','York Blvd / Queen St',43.262829,-79.877362
+1511,'PANS','Pinedale Ave @ 455 Pinedale',43.375974,-79.744974
+1512,'','King St @ John St',43.255927,-79.866652
+1513,'YBBS','York Blvd @ Bay St',43.260018,-79.873016
+1514,'','York Blvd @ Park St',43.259508,-79.871369
+1515,'','York Blvd @ Queen St',43.262829,-79.877362
 1520,'','La Salle Towers',43.301613,-79.847559
 1521,'','Joseph Brant Entrance',43.317121,-79.803012
 1522,'','Mapleview Mall Entrance',43.325364,-79.819127
@@ -809,70 +809,70 @@
 1524,'','Appleby Village Mall',43.369746,-79.754
 1530,'','Tansley Woods Community Centre',43.38238,-79.800634
 1533,'','Burlington Mall',43.34723,-79.79375
-1560,'TYBR','Tyandaga Park / Brantst',43.350932,-79.836408
-1563,'','Waterdown / North Of Plains Rd',43.306977,-79.852911
-2000,'','Appleby Line / Ironstone Dr',43.392623,-79.788487
-2001,'ALHC','Appleby Line / Harrison Crt',43.408608,-79.810397
-2010,'UMCC','Country Club / Millcroft Park',43.39084,-79.800143
-2011,'','Millcroft Park / Parklane Cres',43.393297,-79.799781
-2012,'','Millcroft Park / Turnberry Rd',43.395959,-79.801324
-2013,'','Millcroft Park / Clubview Dr',43.398359,-79.804762
-2014,'','Millcroft Park / Taywood Dr',43.399359,-79.809626
-2015,'','Millcroft Park / Sarazen Drive',43.399518,-79.811478
-2016,'','Millcroft Park / West Of Snead Rd',43.395176,-79.812789
-2017,'','Berwick Drive / Sarazen Dr',43.391833,-79.814656
-2018,'','Berton Ave / Darien Road',43.393019,-79.819458
-2019,'WLBA','Berton Ave / Addison Street',43.391908,-79.82079
-2020,'','Sarazen Drive / Berwick Dr',43.391762,-79.81442
-2021,'','Sarazen Drive / West Of Snead Rd',43.394958,-79.812862
-2022,'','Sarazen Drive / Millcroft Park',43.399545,-79.81128
-2023,'','Millcroft Park / Taywood Drive',43.398826,-79.808468
-2024,'','Millcroft Park / Clubview Drive',43.397936,-79.804232
-2025,'','Millcroft Park / Turnberry Rd',43.396162,-79.801823
-2026,'','Millcroft Park / Parklane Cres',43.392642,-79.800016
-2027,'UMCC','Millcroft Park / Country Club Dr',43.389852,-79.800325
-2028,'','Sutton Drive / Sundial Road',43.409463,-79.795142
-2029,'','Sutton Drive / Whitehorn Drive',43.410566,-79.798259
-2031,'','Sutton Drive / Easton Road',43.409462,-79.79556
-2032,'','Brant St / 546 Brant St',43.328898,-79.802662
-2033,'','Brant St / Gray''s Ln',43.336706,-79.814167
-2034,'','Dillon Rd / Mainway Dr',43.368033,-79.79976
-2035,'','Fairview Street / Mapleview Mall',43.328717,-79.821459
-2036,'','Waterdown Road / Railway Road Fs',43.308733,-79.855426
-2037,'','Cavendish Drive / Malcolm Cr',43.370112,-79.843143
-2038,'','New St / Shane Ct',43.366787,-79.754001
+1560,'TYBR','Tyandaga Park @ Brantst',43.350932,-79.836408
+1563,'','Waterdown @ North Of Plains Rd',43.306977,-79.852911
+2000,'','Appleby Line @ Ironstone Dr',43.392623,-79.788487
+2001,'ALHC','Appleby Line @ Harrison Crt',43.408608,-79.810397
+2010,'UMCC','Country Club @ Millcroft Park',43.39084,-79.800143
+2011,'','Millcroft Park @ Parklane Cres',43.393297,-79.799781
+2012,'','Millcroft Park @ Turnberry Rd',43.395959,-79.801324
+2013,'','Millcroft Park @ Clubview Dr',43.398359,-79.804762
+2014,'','Millcroft Park @ Taywood Dr',43.399359,-79.809626
+2015,'','Millcroft Park @ Sarazen Drive',43.399518,-79.811478
+2016,'','Millcroft Park @ West Of Snead Rd',43.395176,-79.812789
+2017,'','Berwick Drive @ Sarazen Dr',43.391833,-79.814656
+2018,'','Berton Ave @ Darien Road',43.393019,-79.819458
+2019,'WLBA','Berton Ave @ Addison Street',43.391908,-79.82079
+2020,'','Sarazen Drive @ Berwick Dr',43.391762,-79.81442
+2021,'','Sarazen Drive @ West Of Snead Rd',43.394958,-79.812862
+2022,'','Sarazen Drive @ Millcroft Park',43.399545,-79.81128
+2023,'','Millcroft Park @ Taywood Drive',43.398826,-79.808468
+2024,'','Millcroft Park @ Clubview Drive',43.397936,-79.804232
+2025,'','Millcroft Park @ Turnberry Rd',43.396162,-79.801823
+2026,'','Millcroft Park @ Parklane Cres',43.392642,-79.800016
+2027,'UMCC','Millcroft Park @ Country Club Dr',43.389852,-79.800325
+2028,'','Sutton Drive @ Sundial Road',43.409463,-79.795142
+2029,'','Sutton Drive @ Whitehorn Drive',43.410566,-79.798259
+2031,'','Sutton Drive @ Easton Road',43.409462,-79.79556
+2032,'','Brant St @ 546 Brant St',43.328898,-79.802662
+2033,'','Brant St @ Gray''s Ln',43.336706,-79.814167
+2034,'','Dillon Rd @ Mainway Dr',43.368033,-79.79976
+2035,'','Fairview Street @ Mapleview Mall',43.328717,-79.821459
+2036,'','Waterdown Road @ Railway Road Fs',43.308733,-79.855426
+2037,'','Cavendish Drive @ Malcolm Cr',43.370112,-79.843143
+2038,'','New St @ Shane Ct',43.366787,-79.754001
 2039,'','Alton High School And Recreation Ce',43.399038,-79.819073
-2040,'','Appleby Line / Spruce Ave',43.363297,-79.748265
-2041,'','Lakeshore Rd W / Hampton Heath Rd',43.367371,-79.731475
-2042,'','Lakeshore Rd / Kenwood',43.366821,-79.732611
-2043,'','Lakeshore Rd / 5255 Lakeshore Rd',43.365632,-79.735784
-2044,'','Lakeshore Rd / 5255 Lakeshore Rd',43.365333,-79.736101
-2045,'','Lakeshore Rd / White Pines Dr',43.364056,-79.739128
-2046,'','Lakeshore Rd / White Pines Dr',43.364062,-79.738805
-2047,'','Lakeshore Rd / Pineland Ave',43.362539,-79.741458
-2048,'','Lakeshore Rd / Colonial Ct',43.362493,-79.741174
-2049,'','Lakeshore Rd / Hampton Heath Rd',43.367821,-79.729961
-2050,'','Appleby Line / Spruce Ave',43.363128,-79.748317
-2052,'','Berton Ave / Darien Rd',43.392801,-79.819616
-2053,'','Cumberland Ave / Prospect',43.352391,-79.786775
-2054,'','Fairview St / Gobl Entrance',43.339227,-79.808949
-2055,'','Fairview St / Gobl Entrance',43.33946,-79.808403
-2056,'','Cumberland Ave / Prospect St',43.352301,-79.786396
-2057,'','Mainway / Heritage Rd',43.38167,-79.786823
-2058,'','Sutton Dr / John Lucas Dr',43.393232,-79.768882
-2059,'','Sutton Dr / Clay Ave',43.389397,-79.766749
-2060,'','Mainway / John Lucas Dr',43.393582,-79.774189
-2061,'','North Service / 5500 North Service',43.395691,-79.761558
-2062,'','North Service / 5515 North Service',43.395772,-79.761918
-2063,'','Mainway / John Lucas Dr',43.39417,-79.773815
-2064,'','Kerns Rd / 1375 Kerns Rd',43.339983,-79.836225
-2065,'','Kerns Rd / 1801 Kerns Rd',43.343814,-79.841761
-2066,'','Tyandage Park Dr / Fairway Ct Fs',43.34729,-79.83887
-2072,'','Upper Middle Rd / Burlington Mall',43.366285,-79.820217
+2040,'','Appleby Line @ Spruce Ave',43.363297,-79.748265
+2041,'','Lakeshore Rd W @ Hampton Heath Rd',43.367371,-79.731475
+2042,'','Lakeshore Rd @ Kenwood',43.366821,-79.732611
+2043,'','Lakeshore Rd @ 5255 Lakeshore Rd',43.365632,-79.735784
+2044,'','Lakeshore Rd @ 5255 Lakeshore Rd',43.365333,-79.736101
+2045,'','Lakeshore Rd @ White Pines Dr',43.364056,-79.739128
+2046,'','Lakeshore Rd @ White Pines Dr',43.364062,-79.738805
+2047,'','Lakeshore Rd @ Pineland Ave',43.362539,-79.741458
+2048,'','Lakeshore Rd @ Colonial Ct',43.362493,-79.741174
+2049,'','Lakeshore Rd @ Hampton Heath Rd',43.367821,-79.729961
+2050,'','Appleby Line @ Spruce Ave',43.363128,-79.748317
+2052,'','Berton Ave @ Darien Rd',43.392801,-79.819616
+2053,'','Cumberland Ave @ Prospect',43.352391,-79.786775
+2054,'','Fairview St @ Gobl Entrance',43.339227,-79.808949
+2055,'','Fairview St @ Gobl Entrance',43.33946,-79.808403
+2056,'','Cumberland Ave @ Prospect St',43.352301,-79.786396
+2057,'','Mainway @ Heritage Rd',43.38167,-79.786823
+2058,'','Sutton Dr @ John Lucas Dr',43.393232,-79.768882
+2059,'','Sutton Dr @ Clay Ave',43.389397,-79.766749
+2060,'','Mainway @ John Lucas Dr',43.393582,-79.774189
+2061,'','North Service @ 5500 North Service',43.395691,-79.761558
+2062,'','North Service @ 5515 North Service',43.395772,-79.761918
+2063,'','Mainway @ John Lucas Dr',43.39417,-79.773815
+2064,'','Kerns Rd @ 1375 Kerns Rd',43.339983,-79.836225
+2065,'','Kerns Rd @ 1801 Kerns Rd',43.343814,-79.841761
+2066,'','Tyandage Park Dr @ Fairway Ct Fs',43.34729,-79.83887
+2072,'','Upper Middle Rd @ Burlington Mall',43.366285,-79.820217
 2073,'','Itabashi Way West Of 2120',43.383319,-79.797461
-2074,'','Itabashi Way / 2160 Itabashi Way',43.386107,-79.795024
-2075,'','Itabashi Way / Upper Middle Rd',43.388054,-79.79613
-2076,'','Itabashi Way / Upper Middle Rd',43.387742,-79.796018
-2077,'','Itabashi Way / 2165 Itabashi Way',43.38619,-79.795164
-2078,'','Itabashi Way / 2125 Itabashi Way',43.383812,-79.796938
-2079,'','Sutton Dr / North Of 5317 Sutton',43.403128,-79.782674
+2074,'','Itabashi Way @ 2160 Itabashi Way',43.386107,-79.795024
+2075,'','Itabashi Way @ Upper Middle Rd',43.388054,-79.79613
+2076,'','Itabashi Way @ Upper Middle Rd',43.387742,-79.796018
+2077,'','Itabashi Way @ 2165 Itabashi Way',43.38619,-79.795164
+2078,'','Itabashi Way @ 2125 Itabashi Way',43.383812,-79.796938
+2079,'','Sutton Dr @ North Of 5317 Sutton',43.403128,-79.782674
