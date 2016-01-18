@@ -34,17 +34,23 @@
 8701,0,'Burlington GO',87
 10100,0,'Burlington GO',101
 10101,0,'Hamilton',101
-30000,0,'Joseph Brant / Tansley Woods / Downtown',300
+30002,0,'LaSalle Towers',300
+30001,0,'Seniors Ctr',300
+30101,0,'Lakeshore Pl',301
+30102,0,'Seniors Ctr',301
 101500,0,'Appleby GO',1015
 102000,0,'Appleby GO',1020
 104000,0,'Appleby GO',1040
 201500,0,'Appleby GO',2015
 202000,0,'Appleby GO',2020
 204000,0,'Appleby GO',2040
+302004,0,'Seniors Ctr',3020
+302003,0,'Tansley Woods CC',3020
 2400101,0,'Burlington GO',24001
 2400100,0,'Hamilton',24001
 2400201,0,'407 Carpool',24002
 2400200,0,'Burlington',24002
 2400300,0,'Burlington GO',24003
+2400301,0,'Cavendish',24003
 2401201,0,'Burlington GO',24012
 2401200,0,'Sutton',24012

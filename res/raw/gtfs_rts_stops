@@ -555,6 +555,7 @@
 781,'','Lakeshore Rd @ Nelson Ave',43.321092,-79.800211
 782,'','Maple Ave @ N Of Ontario St',43.321312,-79.806276
 783,'','King Rd @ Plains Rd E',43.321777,-79.832301
+784,'','Ontario St @ E Of Maple Ave',43.321574,-79.805137
 785,'','Ontario St @ Brock Ave',43.321778,-79.804628
 787,'','Warwick Drive @ S Of Surrey Lane',43.32209,-79.827576
 788,'','Maple Ave @ Maple Crossing Blvd',43.321962,-79.808478
@@ -572,11 +573,13 @@
 802,'','Lakeshore Rd @ Locust St',43.323872,-79.79668
 803,'','Ontario St @ Burlington Ave',43.324311,-79.801449
 804,'PRFR','Plains Rd E @ Francis Rd',43.324759,-79.829006
+805,'','Ontario St @ Hager Ave',43.323766,-79.802277
 806,'','Maple Avenue @ S Of Mapleview Mall',43.325002,-79.817595
 807,'','Lakeshore Rd @ Brant St',43.324626,-79.795971
 808,'','Maple Ave @ Mapleview Mall S',43.325643,-79.818032
 810,'','Ontario St @ Blathwayte Lane',43.325135,-79.800415
 812,'','Lakeshore Rd @ Elizabeth St',43.325203,-79.794517
+813,'','Ontario St @ Blathwayte Lane',43.325282,-79.800427
 815,'','Ontario St @ Locust St',43.32564,-79.799769
 821,'','James St @ W Of Brant St',43.326181,-79.79818
 822,'','Brant St @ James St',43.326178,-79.798709
@@ -632,7 +635,6 @@
 919,'BDNR','North Service Rd @ W Of Burloak Dr',43.398324,-79.762236
 921,'','Brant @ Leighland Nb',43.33912,-79.81831
 922,'BRNS','Brant & North Service Road Nb',43.343493,-79.824488
-923,'BRNS','Brant @ South Of North Service Rd',43.343538,-79.824761
 924,'BSCD','Cavendish Dr @ Brant St',43.36351,-79.852339
 925,'BSCD','Cavendish Dr @ Greenbank Trail',43.363661,-79.85196
 927,'BUHAR','Harvester @ West Of Burloak',43.391524,-79.752944
@@ -794,13 +796,20 @@
 1507,'','Pinedale Ave @ Forestwood Cres',43.377818,-79.747688
 1508,'','Pinedale Ave @ Salem Rd',43.378135,-79.747895
 1509,'','Pinedale Ave @ Riverside Dr',43.378578,-79.750057
+1510,'','Seniors Centre Front Entrance',43.334717,-79.791181
 1511,'PANS','Pinedale Ave @ 455 Pinedale',43.375974,-79.744974
 1512,'','King St @ John St',43.255927,-79.866652
 1513,'YBBS','York Blvd @ Bay St',43.260018,-79.873016
 1514,'','York Blvd @ Park St',43.259508,-79.871369
 1515,'','York Blvd @ Queen St',43.262829,-79.877362
+1520,'','La Salle Towers',43.301613,-79.847559
+1521,'','Joseph Brant Entrance',43.317121,-79.803012
+1522,'','Mapleview Mall Entrance',43.325364,-79.819127
+1523,'','Lakeshore Place',43.366766,-79.732779
+1524,'','Appleby Village Mall',43.369746,-79.754
+1530,'','Tansley Woods Community Centre',43.38238,-79.800634
+1533,'','Burlington Mall',43.34723,-79.79375
 1560,'TYBR','Tyandaga Park @ Brantst',43.350932,-79.836408
-1562,'TYBR','Tyandaga Park @ Brant St',43.351127,-79.836423
 1563,'','Waterdown @ North Of Plains Rd',43.306977,-79.852911
 2000,'','Appleby Line @ Ironstone Dr',43.392623,-79.788487
 2001,'ALHC','Appleby Line @ Harrison Crt',43.408608,-79.810397
