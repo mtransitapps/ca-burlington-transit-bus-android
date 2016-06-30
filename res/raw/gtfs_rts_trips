@@ -1,7 +1,7 @@
 101,0,'Burlington GO',1
 100,0,'Hamilton',1
+201,0,'407 Carpool',2
 200,0,'Burlington',2
-201,0,'Cavendish',2
 300,0,'Burlington GO',3
 301,0,'Cavendish',3
 401,0,'Appleby GO',4
@@ -45,11 +45,3 @@
 104000,0,'Appleby GO',1040
 201500,0,'Appleby GO',2015
 204000,0,'Appleby GO',2040
-2400101,0,'Burlington GO',24001
-2400100,0,'Hamilton',24001
-2400201,0,'407 Carpool',24002
-2400200,0,'Burlington',24002
-2400300,0,'Burlington GO',24003
-2400301,0,'Cavendish',24003
-2401201,0,'Burlington GO',24012
-2401200,0,'Sutton',24012
