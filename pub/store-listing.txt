@@ -5,7 +5,7 @@ Burlington Transit buses for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from June 27, 2016 to December 31, 2016.
+Schedule from January 2, 2017 to March 31, 2017.
 News from www.burlington.ca
 ----------
 Full description:
