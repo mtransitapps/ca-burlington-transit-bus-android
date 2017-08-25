@@ -24,16 +24,16 @@
 2101,0,'Burlington Go',21
 2500,0,'407 Carpool',25
 2501,0,'Burlington Go',25
-4000,0,'A Hampton Heath - Pinedale',40
-4001,0,'B Pinedale - Hampton Heath',40
+4001,0,'A Hampton Heath - Pinedale',40
+4000,0,'B Pinedale - Hampton Heath',40
 4801,0,'Sutton',48
 4800,0,'Tim Dobbie',48
-5000,0,'Burlington Go',50
-5001,0,'South',50
-5100,0,'Burlington Go',51
-5101,0,'Northeast',51
-5200,0,'Burlington Go',52
-5201,0,'Northwest',52
+5001,0,'Burlington Go',50
+5000,0,'South',50
+5101,0,'Burlington Go',51
+5100,0,'Northeast',51
+5201,0,'Burlington Go',52
+5200,0,'Northwest',52
 8000,0,'Appleby Go',80
 8001,0,'Burlington Go',80
 8100,0,'Appleby Go',81
