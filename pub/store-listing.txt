@@ -6,12 +6,13 @@ Schedule. News.
 ----------
 What's new in this version?:
 Schedule from April 29, 2018 to June 30, 2018.
-News from www.burlington.ca
+News from www.burlingtontransit.ca
+Tweets from @BurlONTransit.
 ----------
 Full description:
 This application adds Burlington Transit buses information to MonTransit.
 
-This app contains the buses schedule (available offline) and news from www.burlington.ca.
+This app contains the buses schedule and the latest news from www.burlingtontransit.ca and @BurlONTransit on Twitter.
 
 Burlington Transit serves Burlington in Ontario, Canada.
 
@@ -22,7 +23,7 @@ This application only has a temporary icon and no screen: download the MonTransi
 You can install this application on the SD card but it is not recommended.
 
 The information comes from the GTFS file provided by the City of Burlington and Burlington Transit.
-http://www.burlington.ca/en/services-for-you/Open-Data-Catalogue.asp
+http://opendata.burlington.ca/
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-burlington-transit-bus-android
@@ -30,7 +31,7 @@ https://github.com/mtransitapps/ca-burlington-transit-bus-android
 This app is not related with the City of Burlington and Burlington Transit.
 
 Permissions:
-- Other: required to read news from www.burlington.ca
+- Other: required to read news from www.burlingtontransit.ca and Twitter.
 ----------
 Application type: Applications
 ----------
