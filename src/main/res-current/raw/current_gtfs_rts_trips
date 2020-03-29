@@ -16,8 +16,6 @@
 1200,0,'North Smart Ctr',12
 2500,0,'407 Carpool',25
 2501,0,'Appleby Go',25
-4801,0,'Sutton',48
-4800,0,'Tim Dobbie',48
 5001,0,'Burlington Go',50
 5000,0,'South',50
 5101,0,'Burlington Go',51
@@ -30,5 +28,3 @@
 8101,0,'Burlington Go',81
 8700,0,'Aldershot Go',87
 8701,0,'Burlington Go',87
-10100,0,'Burlington Go',101
-10101,0,'Hamilton',101
