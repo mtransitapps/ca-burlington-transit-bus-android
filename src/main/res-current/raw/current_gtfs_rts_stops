@@ -1,801 +1,801 @@
-1,'','Maple @ Thorpe',43.327229,-79.819046
-2,'','Lakeshore @ Old Lakeshore',43.327041,-79.790481
-3,'','Lakeshore @ Torrance',43.327341,-79.790276
-4,'','Brant @ Birch',43.328274,-79.801785
-5,'','James @ Pearl',43.327775,-79.796113
-6,'','2082 James',43.328072,-79.795459
-7,'','900 Maple',43.328334,-79.819999
-9,'','541 Brant',43.329,-79.802504
-11,'','Lakeshore @ Smith',43.328472,-79.788317
-12,'','Lakeshore @ Smith',43.328487,-79.788003
-13,'','Lakeshore @ Stratheden',43.329062,-79.787063
-15,'','New @ Martha',43.329239,-79.795377
-16,'','New @ Holtby',43.329385,-79.794955
-17,'','Brant @ Baldwin',43.329949,-79.804238
-18,'','Fairview @ Maple',43.329154,-79.821089
-20,'','Lakeshore @ Seneca',43.330521,-79.78367
-21,'','Lakeshore @ Delaware',43.330795,-79.783387
-23,'','Lakeshore @ Grn',43.33141,-79.781791
-24,'','Lakeshore @ Grn',43.331527,-79.781817
-25,'','New @ Lorne',43.331538,-79.792851
-27,'','2228 New',43.332303,-79.791782
-28,'','Lakeshore @ Mkt',43.332403,-79.779958
-29,'','Lakeshore @ St Paul',43.332429,-79.779601
-30,'','Brant @ Ghent',43.332838,-79.808527
-31,'','Brant @ Ghent',43.333061,-79.808369
-32,'','New @ Drury',43.333278,-79.791003
-33,'','Guelph @ Lakeshore',43.333324,-79.778627
-34,'','Guelph @ Lakeshore',43.333602,-79.778708
-36,'','Brant @ Prospect',43.333991,-79.809738
-37,'','Brant @ Prospect',43.334123,-79.810343
-38,'','New @ Teen Tour Way',43.333982,-79.790186
-39,'','New @ Seneca',43.333974,-79.789969
-40,'','Drury @ Teen Tour Way',43.334783,-79.793498
-41,'','Brant @ Maplewood',43.335019,-79.811242
-44,'','Brant @ Maplewood',43.335171,-79.811861
-45,'','Central Library',43.334869,-79.79059
-47,'','Guelph @ 2nd',43.335002,-79.780883
-48,'','Guelph @ Princess',43.335057,-79.780676
-49,'','New @ Delaware',43.335159,-79.788661
-50,'','2331 New',43.335266,-79.78878
-52,'','Fairview @ Brant',43.336527,-79.812271
-53,'','Brant @ De Pauls Ln',43.336599,-79.813449
-54,'','Fairview @ Brant',43.336217,-79.812113
-55,'','New @ Beverly',43.336523,-79.787094
-56,'','Drury @ Courtland',43.336657,-79.795584
-57,'','New @ Beverly',43.336615,-79.787322
-58,'','Guelph @ Woodland Pk',43.336653,-79.782847
-59,'','Drury @ Courtland',43.336772,-79.795872
-60,'','Guelph @ Woodland Pk',43.336668,-79.783143
-63,'','Drury @ Woodward',43.337767,-79.796871
-64,'','2065 Fairview',43.337925,-79.810861
-65,'','Plains @ Brant',43.338227,-79.816624
-66,'','Drury @ Woodward',43.337996,-79.797368
-67,'','Fairview @ De Pauls Ln',43.33818,-79.810041
-68,'','New @ Guelph',43.338003,-79.785433
-71,'','Guelph @ New',43.338535,-79.785896
-72,'','New @ Guelph',43.338709,-79.785087
-73,'','Brant @ Leighland',43.339722,-79.819656
-77,'','Guelph @ New',43.338901,-79.78588
-79,'','736 Drury',43.340081,-79.800233
-81,'','Drury @ Prospect',43.340451,-79.800524
-82,'','Guelph @ Glencrest',43.34037,-79.78791
-83,'','Guelph @ Glencrest',43.340367,-79.788367
-85,'','Burlington Go Sta',43.340176,-79.809307
-88,'','New @ Clairidge',43.340945,-79.782598
-89,'','2200 Fairview',43.341222,-79.805202
-90,'','New @ Rossmore',43.341176,-79.782058
-91,'','Fairview @ Argon',43.341673,-79.804937
-92,'','Prospect @ Parker',43.34189,-79.798911
-93,'','2346 Prospect',43.342252,-79.798389
-94,'','3131 New',43.34209,-79.781345
-95,'','Fairview @ Drury',43.342331,-79.8037
-96,'','Guelph @ Woodward',43.342496,-79.790794
-98,'','Guelph @ Woodward',43.342551,-79.791267
-100,'','Fairview @ Drury',43.342906,-79.803296
-102,'','1220 Brant',43.343498,-79.824912
-103,'','3180 New',43.34313,-79.779925
-104,'','New @ Dynes',43.343202,-79.780145
-105,'','Prospect @ Wesley',43.343451,-79.796802
-106,'','2340 Fairview',43.343761,-79.801762
-108,'','2321 Fairview',43.343947,-79.801898
-109,'','1259 Brant',43.344608,-79.825919
-110,'','Brant @ North Service',43.3448,-79.826697
-112,'','2439 Prospect',43.34454,-79.795486
-113,'','Guelph @ Prospect',43.344725,-79.794254
-114,'','Guelph @ Prospect',43.344877,-79.79401
-115,'','Prospect @ Guelph',43.344878,-79.794684
-116,'','Brant @ Mt Forest',43.345872,-79.827808
-117,'','Prospect @ Guelph',43.345621,-79.79408
-118,'','New @ Cumberland',43.345882,-79.776946
-119,'','3030 Prospect',43.345871,-79.793318
-120,'','New @ Cumberland',43.345763,-79.777342
-123,'','Brant @ Mt Forest',43.346665,-79.82934
-124,'','Brant @ Bluefields',43.346721,-79.829039
-125,'','Fairview @ Guelph',43.346435,-79.798151
-127,'','Mt Forest @ Brant',43.347044,-79.827902
-128,'','Fairview @ Guelph',43.346729,-79.798275
-129,'','Mt Forest @ Mountainside',43.347141,-79.827467
-130,'','Guelph Line @ Fairview',43.346852,-79.797082
-132,'','Guelph Line @ Fairview',43.346905,-79.796632
-135,'','Prospect @ Regency',43.347184,-79.791947
-137,'','Prospect @ Regency',43.347386,-79.792012
-142,'','Mt Forest @ Tyrrell',43.348948,-79.825694
-144,'','New @ Guildwood',43.348693,-79.773891
-147,'','New @ Woodview',43.348795,-79.774043
-148,'','Prospect @ Dynes',43.34937,-79.789913
-149,'','Brant @ Amherst Hts',43.349637,-79.833497
-150,'','Prospect @ Dynes',43.349023,-79.789989
-151,'','Rexway @ Cumberland',43.349338,-79.782257
-152,'','Rexway @ Cumberland',43.349262,-79.782143
-154,'','Brant @ Amherst Hts',43.350131,-79.83389
-155,'','Guelph @ Harvester',43.34991,-79.801342
-156,'','Guelph @ Harvester',43.349974,-79.800876
-159,'','Cumberland @ Woodward',43.350015,-79.783703
-160,'','3232 Prospect',43.350198,-79.789013
-162,'','Harvester @ Guelph',43.350538,-79.800914
-164,'','Cumberland @ Northgate',43.350682,-79.78436
-165,'','Brant @ Tyandaga Pk',43.351363,-79.835624
-166,'','Mt Forest @ Royal',43.351269,-79.822533
-167,'','Brant @ Tyandaga Pk',43.351649,-79.836403
-168,'','3270 Prospect',43.351089,-79.78758
-169,'','Mt Forest @ Royal',43.351561,-79.822357
-170,'','3027 Harvester',43.35138,-79.800168
-171,'','New @ Elwood',43.35107,-79.771311
-172,'','New @ Elwood',43.351184,-79.771449
-174,'','3270 Prospect',43.351579,-79.787132
-177,'','3050 Harvester',43.352068,-79.798965
-178,'','Rexway @ Woodview',43.351916,-79.779047
-179,'','Brant @ Faversham',43.352602,-79.837743
-180,'','Rexway @ Woodview',43.352217,-79.778849
-181,'','North Service @ Guelph',43.352823,-79.805577
-182,'','Harvester @ South Service',43.352693,-79.798454
-183,'','Mt Forest @ Princeton',43.352965,-79.82084
-184,'','New @ Walkers',43.353255,-79.769286
-185,'','New @ Walkers',43.352571,-79.769615
-186,'','Guelph @ North Service',43.352994,-79.804988
-189,'','Rexway @ Rexway Court',43.353195,-79.777339
-190,'','Walkers @ New',43.353383,-79.770086
-191,'','3155 Harvester',43.353721,-79.796821
-192,'','3155 Harvester',43.353874,-79.796927
-193,'','476 Walkers',43.353584,-79.77072
-194,'','3461 Rexway',43.353879,-79.776576
-195,'','Mt Forest @ Fisher',43.354316,-79.819338
-196,'','New @ Longmoor',43.354711,-79.767318
-197,'','Mt Forest @ Fisher',43.354512,-79.818819
-198,'','New @ Longmoor',43.35481,-79.767477
-199,'','Brant @ Dawlish',43.355076,-79.840855
-200,'','Brant @ Havendale',43.355336,-79.841633
-201,'','514 Walkers',43.354497,-79.771967
-203,'','515 Walkers',43.354625,-79.771774
-204,'','Guelph @ Mountainside',43.355061,-79.80855
-205,'','Fairview @ Woodview',43.355055,-79.784605
-206,'','Fairview @ Woodview',43.355382,-79.783833
-207,'','Guelph @ Davidson',43.355752,-79.808881
-208,'','Brant @ Upper Middle',43.356245,-79.842472
-209,'','Rexway @ Walkers',43.355726,-79.774028
-210,'','Fisher @ St. Mary''s',43.35604,-79.820693
-211,'','Fisher @ St. Mary''s',43.35613,-79.820595
-212,'','Rexway @ Walkers',43.355712,-79.773756
-214,'','4052 Longmoor',43.355712,-79.768631
-215,'','Longmoor @ Stephanie',43.356006,-79.768792
-216,'','Drury @ Teen Tour Way',43.334786,-79.793125
-217,'','Harvester @ Cumberland',43.356691,-79.793034
-218,'','Brant @ Upper Middle',43.356943,-79.843939
-219,'','3167 North Service',43.356746,-79.799177
-220,'','Guelph @ Mainway',43.357041,-79.811264
-221,'','2211 Brant',43.357526,-79.844301
-222,'','Fairview @ Commerce',43.356825,-79.782338
-223,'','Mainway @ Guelph',43.357292,-79.810217
-224,'','4100 Longmoor',43.356905,-79.770025
-225,'','New @ Belvenia',43.35689,-79.764912
-226,'','Harvester @ Cumberland',43.357234,-79.792653
-227,'','New @ Belvenia',43.356726,-79.765448
-228,'','Guelph @ Mainway',43.357588,-79.811468
-229,'','Fisher @ Pkwy',43.357707,-79.822967
-230,'','Mainway @ Guelph',43.35798,-79.809788
-231,'','Fisher Ave @ Fisher Pl',43.358135,-79.825484
-232,'','3455 Fairview',43.357688,-79.782001
-233,'','3332 Harvester',43.358555,-79.790965
-234,'','3332 Harvester',43.358574,-79.790632
-235,'','3500 Fairview',43.35846,-79.780868
-236,'','Brant @ Cottontree',43.359321,-79.847199
-237,'','3100 Mainway',43.358896,-79.808575
-238,'','Upper Middle @ Cavendish',43.359096,-79.834457
-239,'','Upper Middle @ Mtn Grv',43.359151,-79.828597
-240,'','422 Guelph Line',43.33787,-79.784856
-241,'','Brant @ Barlow',43.359661,-79.847325
-242,'','3097 Mainway',43.359054,-79.808674
-243,'','4203 Longmoor',43.358665,-79.771512
-244,'','Guelph @ Centennial',43.359144,-79.813562
-245,'','Guelph @ Centennial',43.359219,-79.814117
-246,'','4200 Longmoor',43.358777,-79.771371
-247,'','Upper Middle @ Cavendish',43.359596,-79.836349
-248,'','Upper Middle @ Mtn Grv',43.359554,-79.828173
-249,'','3255 North Service',43.359407,-79.796218
-250,'','Cavendish @ Upper Middle',43.359995,-79.836499
-251,'','Fisher @ Augustine',43.359842,-79.825493
-252,'','New @ Shoreacres',43.359599,-79.761878
-253,'','Harvester @ Harrington',43.359581,-79.788917
-254,'','Harvester @ Harrington',43.359723,-79.78901
-255,'','Guelph @ Mt Forest',43.359923,-79.814711
-256,'','Fairview @ Walkers',43.359562,-79.779605
-257,'','Augustine @ Fisher',43.360078,-79.825663
-258,'','Cavendish @ Pauline',43.360347,-79.836147
-259,'','New @ Shoreacres',43.359689,-79.762138
-260,'','Upper Middle @ Augustine',43.360453,-79.826651
-261,'','Augustine @ Upper Middle',43.360595,-79.82627
-262,'','Longmoor @ Belvenia',43.360047,-79.771414
-263,'','Upper Middle @ Augustine',43.360819,-79.826594
-264,'','3450 Harvester',43.360441,-79.787318
-265,'','Brant @ Greenbank',43.361472,-79.849754
-266,'','Fairview @ Walkers',43.36059,-79.778997
-267,'','4015 Fairview',43.360614,-79.778492
-268,'','Harvester @ South Service',43.360753,-79.78714
-269,'','Brant @ Hazelton',43.361649,-79.850377
-270,'','Longmoor @ Flemish',43.360822,-79.771612
-271,'','Cavendish @ Longshire',43.361504,-79.8351
-272,'','Guelph @ Palmer',43.361365,-79.817052
-274,'','Mainway @ Northside',43.361038,-79.806411
-275,'','Cavendish @ Longshire',43.36176,-79.835023
-276,'','Guelph @ Palmer',43.361588,-79.816955
-278,'','Mainway @ Northside',43.361693,-79.805944
-279,'','3486 Harvester',43.361805,-79.784796
-281,'','3485 Harvester',43.361959,-79.784859
-282,'','New @ Wilson',43.362351,-79.759232
-283,'','Longmoor @ Auburn',43.362195,-79.771657
-284,'','New @ Wilson',43.362231,-79.75903
-285,'','Guelph @ St. Francis',43.362971,-79.818861
-286,'','Cavendish @ Brant',43.36351,-79.852339
-287,'','Guelph @ St. Francis',43.363014,-79.819321
-288,'','3375 North Service',43.362795,-79.792502
-289,'','Harvester @ Walkers',43.3627,-79.783445
-290,'','Walkers @ Harvester',43.362772,-79.782765
-291,'','3375 North Service',43.362909,-79.792545
-292,'','Cavendish @ Greenbank',43.363661,-79.85196
-293,'','4262 Longmoor',43.362704,-79.77136
-295,'','4104 Fairveiw',43.362832,-79.776229
-296,'','Walkers @ Harvester',43.362636,-79.78313
-297,'','4127 Fairview',43.363088,-79.776264
-298,'','M M Robinson Secondary School',43.363619,-79.823158
-299,'','Guelph @ Upper Middle',43.363651,-79.820529
-300,'','Cavendish @ Greenbank',43.364406,-79.851632
-301,'','Harvester @ Walkers',43.363559,-79.782733
-302,'','Guelph @ Upper Middle',43.363697,-79.82001
-304,'','Cavendish @ Millway',43.364287,-79.833728
-305,'','915 Walkers',43.363841,-79.784223
-306,'','Upper Middle @ Guelph',43.364243,-79.822885
-307,'','Mainway @ Pioneer',43.364105,-79.803286
-309,'','Cavendish @ Millway',43.364452,-79.833901
-310,'','Mainway @ Pioneer',43.364265,-79.803373
-312,'','4145 Fairview',43.364039,-79.775033
-313,'','Walkers @ Bilings',43.364138,-79.785148
-314,'','Longmoor @ Catalina',43.364394,-79.770529
-315,'','New @ Shannon',43.364321,-79.757046
-317,'','New @ Shannon',43.364346,-79.756708
-318,'','2627 Cavendish',43.365936,-79.850014
-319,'','4200 Fairview',43.364903,-79.773543
-321,'','Harvester @ Fraser',43.364953,-79.780797
-323,'','Harvester @ Fraser',43.365304,-79.780658
-324,'','4205 Fairview',43.365277,-79.773366
-325,'','Appleby @ Cottonwood',43.36504,-79.750869
-326,'','Burlington Hts Ctr',43.365882,-79.820262
-327,'','Longmoor @ Laural',43.365459,-79.768887
-328,'','Longmoor @ Laural',43.365697,-79.768799
-329,'','4394 Longmoor',43.365621,-79.761326
-332,'','Cavendish @ Devlin',43.366519,-79.835441
-333,'','Appleby @ Fern',43.365717,-79.751495
-334,'','Cavendish @ Devlin',43.366651,-79.835705
-335,'','Cavendish @ Plymouth',43.36696,-79.848258
-338,'','Longmoor @ Bennett',43.366076,-79.763502
-339,'','Longmoor @ Bennett',43.366129,-79.763978
-340,'','Longmoor @ Galway',43.366216,-79.759498
-343,'','Cavendish @ Duncaster',43.367754,-79.846385
-344,'','Longmoor @ Inverary',43.366649,-79.766709
-345,'','Mainway @ Blair',43.367029,-79.800305
-347,'','Harvester @ Morris',43.366583,-79.778972
-348,'','Fairview @ Darlene',43.366827,-79.770912
-350,'','Longmoor @ Inverary',43.366724,-79.766881
-351,'','Fairview @ Griffith',43.366924,-79.771142
-354,'','Harvester @ Morris',43.36715,-79.778663
-355,'','Appleby @ New',43.366959,-79.753099
-356,'','Headon @ Lansdown',43.367792,-79.804686
-357,'','Longmoor @ Chamerlain',43.367375,-79.758209
-358,'','Cavendish @ Amblecotte',43.36844,-79.845782
-359,'','Headon @ Lansdown',43.367978,-79.804728
-360,'','Appleby @ New',43.367396,-79.754026
-361,'','North Service @ Walkers',43.367862,-79.790639
-362,'','New @ Appleby',43.367519,-79.753536
-363,'','Dillon @ Mainway',43.368033,-79.79976
-365,'','Walkers @ North Service',43.368574,-79.790835
-367,'','Cavendish @ Ingersoll',43.36864,-79.834621
-368,'','Walkers @ North Service',43.36831,-79.790897
-372,'','Dillon @ Mainway',43.368514,-79.800208
-373,'','North Service @ Walkers',43.368349,-79.790352
-374,'','Lansdown @ Quebec',43.368537,-79.803588
-375,'','Headon @ Vancouver',43.368651,-79.805602
-376,'','491 Appleby',43.368237,-79.754728
-378,'','Longmoor @ Turner',43.368383,-79.757103
-379,'','Lakeshore @ Hampton Heath',43.368506,-79.729232
-380,'','Upper Middle @ Headon Forest',43.369745,-79.816103
-381,'','Fairview @ Inverary',43.368872,-79.768154
-382,'','Sir Ernest Macmillan',43.369324,-79.806578
-383,'','Dillon @ Hannibal',43.369346,-79.801543
-385,'','Longmoor @ Appleby',43.368942,-79.7563
-387,'','Cavendish @ Malcolm',43.36993,-79.843379
-388,'','Fairview @ Inverary',43.369248,-79.768004
-389,'','Upper Middle @ Headon Forest',43.369762,-79.816444
-391,'','New @ Timber',43.369194,-79.75136
-392,'','Appleby @ Longmoor',43.369234,-79.756429
-394,'','Dillon @ Lansdown',43.369861,-79.801996
-395,'','Appleby @ Pinedale',43.369431,-79.756323
-396,'','New @ Timber',43.369556,-79.751297
-398,'','Cavendish @ Melissa',43.370533,-79.840597
-399,'','4281 Harvester',43.369913,-79.775842
-400,'','Cavendish @ Melissa',43.370746,-79.840498
-401,'','4280 Harvester',43.370023,-79.775442
-402,'','North Service @ Champlain',43.370143,-79.784401
-403,'','Pinedale @ Timber',43.370902,-79.754085
-404,'','North Service @ Champlain',43.370338,-79.784417
-405,'','4370 Fairview',43.370191,-79.766319
-407,'','Headon @ Palmer',43.370642,-79.807778
-408,'','5451 Lakeshore',43.369872,-79.727249
-412,'','Headon @ Palmer',43.370815,-79.80807
-413,'','5475 Lakeshore',43.369971,-79.727389
-416,'','Headon Forest @ Pinemeadow',43.371427,-79.822415
-417,'','4445 Fairview',43.370916,-79.76576
-418,'','Cavendish @ Cotswold',43.371653,-79.83496
-419,'','Cavendish @ Cotswold',43.371722,-79.834776
-421,'','Pinedale @ Appleby Mall',43.369989,-79.755103
-422,'','Cavendish @ Coventry',43.372096,-79.837662
-423,'','Walkers @ Mainway',43.371486,-79.794958
-424,'','New @ Adams',43.370958,-79.749408
-425,'','Headon Forest @ Berryman',43.371825,-79.824367
-426,'','Headon Forest @ Berryman',43.371795,-79.824631
-429,'','Cavendish @ Coventry',43.372251,-79.837398
-431,'','New @ Adams',43.371424,-79.749231
-432,'','Walkers @ Mainway',43.371968,-79.796197
-433,'','Lakeshore @ Burloak',43.371301,-79.725488
-434,'','Upper Middle @ Deer Run',43.372302,-79.813338
-435,'','Appleby @ Sheraton',43.371738,-79.759506
-436,'','100 Lakeshore',43.37142,-79.725559
-437,'','Fairview @ Taylor',43.371824,-79.764256
-438,'','Appleby @ Bennett',43.371856,-79.760023
-439,'','Fairview @ Taylor',43.371976,-79.764442
-440,'','Upper Middle @ Deer Run',43.372662,-79.81332
-441,'','Headon Forest @ Maderna',43.37288,-79.825964
-442,'','Headon Forest @ Maderna',43.372863,-79.826163
-444,'','Coventry @ Malcolm',43.373237,-79.838039
-446,'','Coventry @ Malcolm',43.373142,-79.8379
-447,'','Burloak @ Lakeshore',43.372479,-79.725596
-449,'','Walkers @ Blanchard',43.372973,-79.797158
-450,'','Walkers @ Ketelby',43.373057,-79.797657
-451,'','666 Appleby',43.372714,-79.761198
-452,'','Burloak @ Lakeshore',43.372347,-79.725184
-453,'','Appleby @ Fairview',43.37285,-79.761028
-454,'','Harvester @ South Service',43.372963,-79.772505
-455,'','Harvester @ Appleby Go',43.381693,-79.762954
-456,'','Lester B Pearson Secondary School',43.373505,-79.808986
-457,'','Fairview @ Appleby',43.372966,-79.762815
-459,'','Harvester @ South Service',43.373352,-79.772363
-461,'','Headon Forset @ Deer Run',43.373945,-79.827368
-464,'','Headon Forest @ Deer Run',43.374077,-79.827798
-465,'','Coventry @ Alder',43.374437,-79.837231
-466,'','New @ Wedgewood',43.373524,-79.746889
-467,'','Coventry @ Guelph',43.374496,-79.836962
-468,'','1448 Headon',43.373201,-79.808897
-469,'','Heritage @ North Service',43.373948,-79.780667
-470,'','New @ Meadowhill',43.373652,-79.746446
-471,'','Upper Middle @ Headon',43.374227,-79.811205
-472,'','Headon @ Upper Middle',43.374588,-79.810502
-473,'','Fairview @ Appleby',43.373979,-79.761966
-474,'','5031 Fairview',43.373905,-79.761631
-475,'','1051 Heritage',43.374557,-79.781454
-476,'','Frontenac Public School',43.374302,-79.753689
-477,'','Upper Middle @ Headon',43.374938,-79.810849
-478,'','Burloak @ Stevenson',43.374267,-79.727774
-479,'','Headon Forest @ Winding Way',43.375357,-79.829301
-480,'','Walkers @ Forest Run',43.375127,-79.800103
-481,'','Headon Forest @ Winding Way',43.375465,-79.829662
-482,'','Burloak @ Winston',43.374392,-79.728172
-484,'','Walkers @ Palmer',43.375291,-79.800712
-485,'','1121 Heritage',43.375529,-79.784447
-486,'','Harvester @ Zelco',43.375405,-79.769919
-487,'','Appleby @ Dundas',43.405712,-79.807136
-490,'','Harvester @ Zelco',43.375778,-79.769775
-491,'','Walkers @ Wedgewood',43.376328,-79.802121
-492,'','Upper Middle @ Cleaver',43.376923,-79.808332
-493,'','1401 Walkers',43.376606,-79.802144
-495,'','New @ Hampton Heath',43.376331,-79.743469
-496,'','Burloak @ Randolph',43.376151,-79.730556
-497,'','Upper Middle @ Cleaver',43.376709,-79.808951
-498,'','Harvester @ Appleby',43.376782,-79.768561
-499,'','Appleby @ Harvester',43.376588,-79.766133
-500,'','Pinedale @ Wedgewood',43.376949,-79.751623
-501,'','New @ Hampton Heath',43.376455,-79.743643
-502,'','Walkers @ Kilmer',43.377588,-79.803436
-503,'','Harvester @ Appleby',43.377223,-79.767618
-505,'','5111 Fairview',43.37714,-79.758719
-506,'','Walkers @ Toffee',43.377699,-79.804022
-507,'','5090 Fairview',43.377221,-79.758335
-508,'','Notre Dame Secondary School',43.378004,-79.832006
-510,'','Appleby @ Harvester',43.378327,-79.768689
-512,'','Harvester @ Appleby',43.377944,-79.766808
-514,'','5250 Pinedale',43.37777,-79.750756
-515,'','3505 Upper Middle',43.378491,-79.807005
-517,'','875 Appleby',43.378203,-79.76816
-519,'','Upper Middle @ Walkers',43.378772,-79.806343
-520,'','1200 Heritage',43.378703,-79.786189
-521,'','Walkers @ Upper Middle',43.378856,-79.805262
-522,'','Burloak @ Spruce',43.378208,-79.733094
-524,'','Heritage @ Mainway',43.37881,-79.786578
-525,'','Burloak @ Spruce',43.378357,-79.733556
-526,'','Pinedale @ Riverside',43.378591,-79.749686
-528,'','5051 Harvester',43.378926,-79.765812
-531,'','1200 Heritage',43.379389,-79.78768
-534,'','Walker @ Upper Middle',43.379661,-79.807063
-535,'','Appleby Go Sta',43.379496,-79.760622
-536,'','Harvester @ Appleby',43.379233,-79.765786
-537,'','Headon Forest @ Folkway',43.379981,-79.832027
-538,'','Upper Middle @ Walkers',43.379722,-79.805699
-539,'','Heritage @ Mainway',43.379722,-79.788235
-540,'','New @ Melores',43.379141,-79.740299
-541,'','Headon Forest @ Folkway',43.380309,-79.832196
-543,'','New @ Amanda',43.37961,-79.740219
-544,'','Mainway @ Heritage',43.380431,-79.788232
-545,'','2055 Walkers',43.380652,-79.808071
-546,'','2075 Walkers',43.380788,-79.808646
-548,'','Burloak @ Eaton',43.380191,-79.735989
-550,'','Burloak @ Eaton',43.380599,-79.73632
-553,'','New @ Burloak',43.381195,-79.737992
-555,'','Walkers @ Milcroft',43.381741,-79.809559
-556,'','4331 Mainway',43.381595,-79.787164
-557,'','New @ Burloak',43.381037,-79.738574
-558,'','Walkers @ Jordan',43.381859,-79.810089
-560,'','Headon Forest @ Edenwood',43.382297,-79.831532
-562,'','Mainway @ Corporate',43.382551,-79.785908
-565,'','Mainway @ Corporate',43.382978,-79.785785
-566,'','Upper Middle @ Itabashi',43.383222,-79.801577
-570,'','Upper Middle @ Itabashi',43.383342,-79.801783
-571,'','Walkers @ Medland',43.384235,-79.812937
-572,'','Walkers @ Medland',43.38443,-79.813567
-573,'','Headon Forest @ Woodcroft',43.384852,-79.829696
-574,'','Appleby @ North Service',43.383678,-79.775998
-575,'','Appleby @ North Service',43.38352,-79.776176
-576,'','5230 Harvester',43.384142,-79.760352
-578,'','Headon Forest @ Butternut',43.385015,-79.829322
-581,'','Harvester @ Century',43.384492,-79.760247
-583,'','Mainway @ Artisans',43.385376,-79.783021
-584,'','Walkers @ Country Club',43.385618,-79.81482
-586,'','Mainway @ Artisans',43.385421,-79.783228
-587,'','2300 Walkers',43.385726,-79.815338
-588,'','1207 Appleby',43.385626,-79.778679
-589,'','2522 Headon',43.386212,-79.82817
-591,'','Upper Middle @ Atkinson',43.386279,-79.798276
-592,'','Headon Forest @ Headon',43.386691,-79.827434
-593,'','5300 Harvester',43.385851,-79.758253
-594,'','Headon Forest @ Headon',43.386975,-79.827323
-595,'','Upper Middle @ Atkinson',43.386664,-79.798211
-596,'','Harvester @ Sheldon',43.386282,-79.758281
-597,'','Mainway @ Appleby',43.387582,-79.780595
-599,'','Appleby @ Mainway',43.387602,-79.781438
-600,'','Constable Henshaw @ Headon Forest',43.387655,-79.820993
-601,'','Appleby @ Mainway',43.386939,-79.780929
-602,'','Headon Forest @ Northampton',43.388047,-79.825738
-604,'','Headon Forest @ Northampton',43.388237,-79.825872
-605,'','5400 Harvester',43.38777,-79.756469
-606,'','Sutton @ North Service',43.387957,-79.765552
-607,'','Upper Middle @ Country Club',43.388348,-79.796417
-608,'','Walkers @ Darien',43.388757,-79.819045
-609,'','Northampton @ Dundas',43.388882,-79.826521
-610,'','Harvester @ Gateway',43.388212,-79.756308
-611,'','Walkers @ Constable Hensaw',43.388848,-79.819564
-613,'','2915 Headon Forest',43.389078,-79.823458
-615,'','Go 407 Carpool',43.388859,-79.82867
-616,'','Appleby @ Corporate',43.390102,-79.785314
-618,'','Appleby @ Corporate',43.390772,-79.78578
-619,'','Berton @ Walkers',43.39089,-79.821934
-621,'','Harvester @ Syscon',43.390204,-79.753896
-622,'','Walkers @ Berton',43.39098,-79.822465
-623,'','Harvester @ Syscon',43.390767,-79.753677
-625,'','North Service @ International',43.391111,-79.761724
-627,'','North Service @ International',43.391688,-79.760825
-628,'','Upper Middle @ Heron Way',43.392168,-79.791939
-634,'','2010 Heron Way',43.39399,-79.792906
-636,'','Upper Middle @ Imperial',43.39549,-79.788814
-642,'','5435 North Service',43.39472,-79.760103
-644,'','5420 North Service',43.394745,-79.759892
-646,'','2101 Appleby',43.395838,-79.793057
-647,'','2080 Appleby',43.396737,-79.794732
-648,'','Appleby @ Dryden',43.397045,-79.794685
-649,'','North Service @ John Lucas',43.396724,-79.762945
-650,'','North Service @ John Lucas',43.39681,-79.763155
-651,'','Corpus Christi Secondary School',43.398035,-79.786036
-656,'','1120 Burloak',43.397974,-79.760407
-657,'','North Service @ Burloak',43.398134,-79.762218
-658,'','Corpus Christi Secondary School',43.398973,-79.784685
-659,'','North Service @ Burloak',43.398324,-79.762236
-662,'','Upper Middle @ Quinte',43.400373,-79.783216
-664,'','Upper Middle @ Quinte',43.399848,-79.784169
-666,'','5327 Sutton',43.403303,-79.782624
-668,'','Appleby @ Taywood',43.403186,-79.803039
-669,'','Appleby @ Taywood',43.402973,-79.803315
-670,'','Appleby @ Appleby Xing',43.405038,-79.805563
-671,'','Sutton @ Blue Spruce',43.404919,-79.784808
-672,'','Sutton @ Blue Spruce',43.404966,-79.7852
-673,'','2500 Appleby',43.404841,-79.80588
-675,'','Sutton @ Empire',43.407025,-79.789101
-676,'','Sutton @ Dryden',43.407797,-79.790414
-679,'','King @ James',43.256679,-79.868895
-682,'','Bay @ Vine',43.260591,-79.872694
-684,'','York @ Queen',43.262986,-79.877089
-686,'','York @ Dundurn',43.268307,-79.885561
-687,'','York @ Locke',43.26538,-79.881622
-688,'','York @ Dundurn Castle',43.269331,-79.885776
-694,'','York @ Old Guelph',43.284915,-79.892603
-695,'','York @ Old Guelph',43.2851,-79.892434
-696,'','York @ Vly Inn',43.288505,-79.891342
-697,'','York @ Rbg Rock Gdns',43.289534,-79.89049
-698,'','Plains @ Rbg',43.290757,-79.87462
-699,'','Plains @ Rbg',43.290867,-79.875463
-700,'','Plains @ Botanical',43.29127,-79.879035
-701,'','Plains @ Botanical',43.291031,-79.878798
-703,'','Plains @ Holy Sepulcher Cemetery',43.292504,-79.870304
-704,'','549 Plains',43.292849,-79.870105
-706,'','Plains @ York',43.293348,-79.889325
-708,'','Plains @ York',43.293637,-79.889159
-711,'','Plains @ Gorton',43.296931,-79.865039
-712,'','Plains @ Gorton',43.297354,-79.86493
-713,'','Plains @ Unsworth',43.298135,-79.864071
-714,'','300 Plains',43.298923,-79.862776
-715,'','283 Plains',43.299861,-79.86191
-716,'','Plains @ Boothman',43.301104,-79.86034
-717,'','Plains @ Daryl',43.301583,-79.859284
-718,'','Plains @ Howard',43.303428,-79.856825
-719,'','Plains @ Emery',43.305334,-79.854369
-721,'','Plains @ Waterdown',43.30642,-79.853292
-722,'','Plains @ Waterdown',43.306959,-79.85218
-723,'','Plains @ Birchwood',43.308466,-79.850252
-724,'','Waterdown @ Masonary',43.308763,-79.855153
-726,'','175 Plains',43.311004,-79.847351
-727,'','Plains @ Shadeland',43.312783,-79.844938
-728,'','Plains @ Shadeland',43.312695,-79.844699
-729,'','Aldershot Go Sta',43.31312,-79.856398
-730,'','North Shr @ Indian',43.314443,-79.811529
-731,'','Francis @ North Shr',43.314441,-79.813828
-732,'','North Shr @ Oneida',43.314533,-79.812167
-733,'','Plains @ Downsview',43.314871,-79.841848
-734,'','Francis @ North Shr',43.31469,-79.813881
-735,'','645 Francis',43.315733,-79.815335
-736,'','670 Francis',43.315925,-79.815899
-737,'','1169 North Shr',43.316584,-79.805308
-738,'','Plains @ Falcon',43.317018,-79.838941
-739,'','Plains @ Willowbrook',43.317136,-79.839227
-740,'','Joseph Brant Hosp',43.317662,-79.803984
-741,'','Francis @ Greenwood',43.318,-79.818834
-742,'','Joseph Brant Hosp',43.317805,-79.803408
-743,'','Francis @ Greenwood',43.318117,-79.819246
-744,'','484 Plains',43.318403,-79.837046
-745,'','Maplehurst Public School',43.318794,-79.8369
-746,'','1249 North Shr',43.318529,-79.802845
-747,'','King @ Surrey',43.319523,-79.828983
-748,'','Maple @ North Shr',43.319628,-79.802833
-749,'','Maple @ Lakeshore',43.319615,-79.802295
-750,'','Francis @ Cedar',43.320082,-79.822029
-751,'','Lakeshore @ Brock',43.319956,-79.801225
-752,'','Francis @ Cedar',43.320387,-79.822241
-753,'','Maple @ Elgin',43.320297,-79.803884
-754,'','Maple @ Elgin',43.320317,-79.804444
-755,'','1340 Lakeshore',43.3203,-79.800551
-756,'','Plains @ Cedarwood',43.320715,-79.834332
-757,'','Francis @ Marley',43.320976,-79.823091
-758,'','Francis @ Marley',43.321126,-79.823533
-759,'','Plains @ Long Dr',43.32122,-79.83319
-760,'','Maple @ Ontario',43.320714,-79.805399
-761,'','695 Surrey',43.321349,-79.82803
-762,'','Lakeshore @ Nelson',43.321092,-79.800211
-763,'','Maple @ Ontario',43.321312,-79.806276
-767,'','Plains @ King',43.32215,-79.832355
-769,'','Maple @ Maple Xing',43.321766,-79.80785
-770,'','Maple @ Maple Xing',43.322036,-79.80803
-771,'','Francit @ Gln Vw',43.322572,-79.825662
-772,'','Lakeshore @ Burlington',43.322424,-79.798485
-773,'','Warwick @ Warwick Court',43.322726,-79.827893
-776,'','Lakeshore @ Burlington',43.322759,-79.798369
-777,'','Maple @ Augustus',43.322977,-79.810923
-779,'','Maple @ Augustus',43.323053,-79.811792
-780,'','Maple @ Richmond',43.323624,-79.813524
-781,'','Plains @ Francis',43.323808,-79.829775
-782,'','Maple @ Richmond',43.323796,-79.813441
-783,'','Lakeshore @ Brant',43.324332,-79.796126
-785,'','Plains @ Francis',43.324759,-79.829006
-787,'','Mapleview Mall South Entrance',43.325002,-79.817595
-789,'','Mapleview Mall South Entrance',43.325643,-79.818033
-792,'','Lakeshore @ Elizabeth',43.325203,-79.794517
-795,'','John St Terminal',43.325782,-79.796914
-796,'','John St Terminal',43.325696,-79.796457
-797,'','James @ Brant',43.326181,-79.79818
-798,'','Brant @ James',43.326178,-79.798708
-800,'','Lakeshore @ Martha',43.326703,-79.792376
-801,'','Maple @ Thorpe',43.326513,-79.818955
-804,'','Mt Forest @ Tyrrell',43.348956,-79.825875
-806,'','3167 North Service',43.356831,-79.799216
-807,'','4100 Longmoor',43.356816,-79.770122
-808,'','Fisher @ Pkwy',43.357575,-79.822978
-809,'','3269 North Service',43.359465,-79.796331
-810,'','New @ Smith',43.3315,-79.792665
-811,'','4288 Longmoor',43.364359,-79.770362
-812,'','4466 Longmoor',43.367322,-79.758077
-813,'','Cavendish @ Ingersoll',43.368509,-79.83457
-815,'','Central Library',43.335007,-79.790593
-816,'','Burloak @ Randolph',43.376285,-79.730507
-817,'','2429 Headon Forest',43.382408,-79.831619
-818,'','Francis @ Glenview',43.322683,-79.825621
-821,'','Brant @ Victoria',43.329786,-79.803586
-822,'','Brant @ Blairholm',43.331198,-79.805642
-823,'','Brant @ Blairholm',43.33124,-79.806064
-824,'','Brant @ Faversham',43.352814,-79.837704
-825,'','2632 Cavendish',43.365716,-79.85007
-827,'','King @ Bay',43.257985,-79.873658
-828,'','York @ Locke',43.265595,-79.881376
-829,'','5155 Harvester',43.381992,-79.762908
-830,'','Plains @ St. Matthew''s',43.30971,-79.848638
-831,'','172 Plains',43.310988,-79.846913
-832,'','Plains And Downsview',43.315434,-79.841461
-833,'','Plains @ Howard',43.303472,-79.857241
-834,'','York @ James',43.259007,-79.868931
-835,'','1400 Lakeshore',43.321401,-79.799568
-836,'','Longmoor @ Tipperary',43.365769,-79.761119
-838,'','Sutton @ Dryden',43.407821,-79.790822
-843,'','Brant @ Caroline',43.327602,-79.800491
-846,'','Harvester @ Burloak',43.39155,-79.752905
-847,'','Brant @ North Service',43.343438,-79.824305
-854,'','Brant @ Leighland',43.33912,-79.81831
-856,'','Sutton @ North Service',43.388196,-79.765596
-857,'','Mainway @ Appleby',43.386759,-79.781825
-858,'','Sutton @ Dundas',43.411717,-79.801342
-860,'','Sutton @ Pathfinder',43.410578,-79.798646
-866,'','Notre Dame Secondary School',43.377882,-79.831823
-872,'','Sutton @ Dundas',43.41101,-79.800492
-873,'','Thomas Alton @ Tim Dobbie',43.400352,-79.822865
-874,'','Thomas Alton @ Tim Dobbie',43.400293,-79.82271
-875,'','Walkers @ Thomas Alton',43.394734,-79.827137
-876,'','Thomas Alton @ Rotary Way',43.396208,-79.82473
-877,'','Thomas Alton @ Rossini',43.398726,-79.823316
-879,'','Thomas Alton @ Ashlar',43.403214,-79.821542
-880,'','Thomas Alton @ Hopkins',43.404998,-79.82109
-881,'','Thomas Alton @ Ferguson',43.407217,-79.820379
-882,'','Thomas Alton @ Columbus',43.409204,-79.816538
-883,'','Thomas Alton @ Appleby',43.41001,-79.813428
-884,'','Thomas Alton @ Ferguson',43.407466,-79.820398
-885,'','Thomas Alton @ Columbus',43.409381,-79.816308
-886,'','Thomas Alton @ Hopkins',43.40523,-79.821211
-887,'','Thomas Alton @ Nixon',43.398355,-79.823648
-888,'','Thomas Alton @ Settlement',43.396441,-79.824679
-889,'','Thomas Alton @ Munson',43.395406,-79.826672
-891,'','Plains @ Kingsway',43.32026,-79.834527
-893,'','Appleby @ Upper Middle',43.393239,-79.789757
-896,'','Pinedale @ New',43.375629,-79.744762
-897,'','Lakeshore @ Appleby',43.360597,-79.744657
-898,'','Lakeshore @ Appleby',43.360457,-79.744165
-899,'','Appleby @ Harrison',43.408314,-79.810676
-900,'','Appleby @ Harrison',43.408608,-79.810397
-906,'','Pinedale @ Forestwood',43.377818,-79.747688
-911,'','York @ Bay',43.26005,-79.873117
-912,'','York @ Pk',43.259499,-79.871447
-913,'','York @ Queen',43.262799,-79.877438
-914,'','Haber Recreation Ctr',43.398705,-79.818889
-915,'','Mainway @ Lampman',43.390114,-79.778196
-916,'','Mainway @ Norjohn',43.390348,-79.777644
-922,'','Upper Middle @ Country Club',43.387817,-79.796611
-923,'','Appleby @ Upper Middle',43.393026,-79.788921
-924,'','Millcroft @ Country Club',43.39084,-79.800143
-925,'','Millcroft @ Parklane',43.393297,-79.799781
-926,'','Millcroft @ Turnberry',43.395959,-79.801324
-927,'','Millcroft @ Clubview',43.398359,-79.804761
-928,'','Millcroft @ Taywood',43.399359,-79.809626
-929,'','Sarazen @ Millcroft',43.399518,-79.811477
-930,'','Sarazen @ Snead',43.395176,-79.812788
-931,'','Berwick @ Sarazen',43.391833,-79.814656
-932,'','Berton @ Darien',43.393019,-79.819458
-933,'','Berton @ Addison',43.391908,-79.82079
-934,'','Sarazen @ Berwick',43.391762,-79.81442
-935,'','Sarazen @ Snead',43.394617,-79.813278
-936,'','Millcroft @ Sarazen',43.399545,-79.811281
-937,'','Millcroft @ Taywood',43.398826,-79.808468
-938,'','Millcroft @ Clubview',43.397936,-79.804231
-939,'','Millcroft @ Turnberry',43.396162,-79.801823
-940,'','Millcroft @ Parklane',43.392642,-79.800016
-941,'','Millcroft @ Country Club',43.389852,-79.800325
-943,'','Tyandaga Pk @ Brant',43.351025,-79.836205
-946,'','Waterdown @ Plains',43.3071,-79.853003
-947,'','Upper Middle @ Imperial Way',43.395373,-79.78851
-949,'','Thomas Alton @ Appleby',43.40999,-79.813931
-951,'','1250 Appleby',43.384878,-79.778067
-952,'','Appleby @ Ironstone',43.392071,-79.788021
-959,'','Plains @ Brant',43.337941,-79.816823
-963,'','Sutton @ Mainway',43.395114,-79.77131
-964,'','Sutton @ Mainway',43.394971,-79.771371
-965,'','Burlington North Smartcentre',43.407097,-79.81004
-967,'','North Service @ Skyview',43.333859,-79.838059
-971,'','Kerns @ Tyandaga Pk',43.345603,-79.847415
-973,'','Headon Forest @ Pinemeadow',43.371519,-79.82209
-978,'','South Service @ Wyecroft',43.394851,-79.749603
-979,'','Wyecroft @ Burloak',43.392092,-79.751736
-980,'','Dundas @ Walkers',43.392781,-79.823333
-981,'','Dundas @ Walkers',43.391375,-79.824492
-983,'','Sutton @ Downey',43.391413,-79.766399
-984,'','Sutton @ John Lucas',43.393342,-79.768798
-985,'','Sutton @ Sundial',43.409463,-79.795142
-986,'','Sutton @ Whitehorn',43.410566,-79.798259
-988,'','Sutton @ Easton',43.409462,-79.79556
-989,'','546 Brant',43.328898,-79.802662
-991,'','Fairview @ Maple',43.32871,-79.821461
-992,'','Waterdown @ Masonary',43.308733,-79.855426
-993,'','Cavendish @ Malcolm',43.370112,-79.843144
-996,'','New @ Appleby',43.367626,-79.753045
-997,'','Haber Recreation Ctr',43.398942,-79.818931
-998,'','Appleby @ Spruce',43.363297,-79.748265
-999,'','Lakeshore @ Hampton Heath',43.367371,-79.731476
-1000,'','5255 Lakeshore',43.365632,-79.735785
-1001,'','Lakeshore @ White Pines',43.364056,-79.739129
-1002,'','Lakeshore @ Pineland',43.362539,-79.741458
-1003,'','Lakeshore @ Kenwood',43.366894,-79.732332
-1004,'','5255 Lakeshore',43.365333,-79.736101
-1005,'','Lakeshore @ White Pines',43.364062,-79.738805
-1006,'','Lakeshore @ Colonial',43.362493,-79.741174
-1007,'','Lakeshore @ Hampton Heath',43.367821,-79.72996
-1008,'','Appleby @ Spruce',43.363128,-79.748318
-1010,'','Berton @ Darien',43.392956,-79.819301
-1011,'','Cumberland @ Prospect',43.35216,-79.786505
-1012,'','Fairview @ Burlington Go',43.339485,-79.808725
-1013,'','Fairview @ Burlington Go',43.339394,-79.808465
-1014,'','Cumberland @ Fairview',43.352862,-79.787115
-1015,'','Mainway @ Heritage',43.381495,-79.786987
-1016,'','Sutton @ John Lucas',43.393232,-79.768881
-1017,'','Sutton @ Clay',43.389611,-79.766727
-1018,'','Mainway @ John Lucas',43.393582,-79.774189
-1019,'','5500 North Service',43.395826,-79.761681
-1020,'','5515 North Service',43.395474,-79.761436
-1021,'','Mainway @ John Lucas',43.39417,-79.773815
-1022,'','1375 Kerns',43.339983,-79.836225
-1023,'','1801 Kerns',43.343814,-79.84176
-1024,'','Tyandaga Pk @ Fairway',43.34729,-79.83887
-1030,'','2025 Upper Middle',43.365951,-79.820585
-1035,'','Lakeshore @ Pearl',43.326067,-79.793033
-1037,'','Sutton @ Upper Middle',43.403128,-79.782674
-1041,'','649 North Service West',43.330913,-79.841241
-1042,'','North Service @ King',43.329503,-79.842527
-1043,'','North Service @ Yorkton',43.324362,-79.848058
-1044,'','201 North Service',43.316874,-79.855838
-1045,'','North Service @ Kerns',43.338433,-79.832705
-1046,'','North Service @ Huntly',43.33641,-79.834715
-1047,'','201 North Service',43.316963,-79.855589
-1048,'','North Service @ Yorkton',43.324317,-79.847934
-1049,'','North Service @ Skyview',43.33432,-79.83719
-1050,'','North Service @ Huntly',43.336282,-79.834554
-1052,'','La Salle Towers',43.303456,-79.848567
-1057,'','Lakeshore Pl',43.366936,-79.732728
-1059,'','Guelph @ Dundas',43.377347,-79.839048
-1060,'','Guelph @ Dundas',43.377097,-79.839106
-1061,'','North Service @ Power Ctr',43.342186,-79.827625
-1063,'','Dundas @ Appleby',43.407284,-79.807729
-1064,'','Dundas @ Appleby',43.407253,-79.807076
-1065,'','Guelph @ 3rd',43.335895,-79.782131
-1068,'','Wilson @ John',43.258707,-79.865748
-1069,'','Catherine @ King William',43.256776,-79.864701
-1073,'','Plains @ Cooke',43.307877,-79.851296
-1082,'','Walkers @ Fairview',43.359417,-79.778721
-1083,'','Walkers @ Fairview',43.359781,-79.778778
-1086,'','Fairview @ Burlington Ctr',43.350213,-79.793574
-1087,'','Fairview @ Canadian Tire',43.35178,-79.790911
-1088,'','Fairview @ Cumberland',43.352706,-79.787842
-1089,'','Fairview @ Cumberland',43.353259,-79.787393
-1090,'','Fairview @ Canadian Tire',43.351923,-79.791176
-1091,'','Fairview @ Burlington Ctr',43.350353,-79.793827
-1092,'','Surrey @ King',43.31952,-79.828791
-1093,'','Surrey @ Warwick',43.32137,-79.827768
-1094,'','Townsend @ Shadeland',43.310842,-79.842141
-1095,'','Townsend @ Glenview Public School',43.308685,-79.845113
-1096,'','Townsend @ Lasalle Pk Rd',43.305023,-79.849716
-1097,'','Lasalle Pk @ Townsend',43.304604,-79.849838
-1098,'','Townsend @ Glenview Public School',43.308611,-79.844909
-1099,'','Townsend @ Shadeland',43.31084,-79.841986
-1101,'','Fairwood @ Aldershot School',43.304767,-79.853461
-1102,'','Fairwood @ Aldershot School',43.304527,-79.853571
-1103,'','80 Fairwood',43.30331,-79.854698
-1104,'','80 Fairwood',43.303303,-79.854833
-1105,'','Fairwood @ North Shr',43.300239,-79.853177
-1106,'','North Shr @ Fairwood',43.300208,-79.852829
-1107,'','Lasalle Pk Towers',43.303602,-79.848461
-1108,'','Guelph @ Carncastle',43.375855,-79.83702
-1109,'','Guelph @ Coventry Way',43.375233,-79.836561
-1110,'','Maple @ Fairview',43.328962,-79.819995
-1111,'','Waterdown @ Plains',43.306925,-79.853167
-1112,'','Dundas @ Rotary',43.395329,-79.820613
-1113,'','Dundas @ Berwick',43.394787,-79.820551
-1114,'','Walkers @ Flemish',43.357792,-79.77607
-1115,'','Walkers @ Henshaw',43.35747,-79.776029
-1118,'','Warwick @ Warwick',43.322696,-79.827754
-1119,'','Fairview @ Maple',43.330255,-79.818448
-1120,'','Prospect @ Cumberland',43.351869,-79.786345
+1,'1','Maple @ Thorpe',43.327229,-79.819046
+2,'2','Lakeshore @ Old Lakeshore',43.327041,-79.790481
+3,'3','Lakeshore @ Torrance',43.327341,-79.790276
+4,'4','Brant @ Birch',43.328274,-79.801785
+5,'5','James @ Pearl',43.327775,-79.796113
+6,'6','2082 James',43.328072,-79.795459
+7,'7','900 Maple',43.328334,-79.819999
+9,'9','541 Brant',43.329,-79.802504
+11,'11','Lakeshore @ Smith',43.328472,-79.788317
+12,'12','Lakeshore @ Smith',43.328487,-79.788003
+13,'13','Lakeshore @ Stratheden',43.329062,-79.787063
+15,'15','New @ Martha',43.329239,-79.795377
+16,'16','New @ Holtby',43.329385,-79.794955
+17,'17','Brant @ Baldwin',43.329949,-79.804238
+18,'18','Fairview @ Maple',43.329154,-79.821089
+20,'20','Lakeshore @ Seneca',43.330521,-79.78367
+21,'21','Lakeshore @ Delaware',43.330795,-79.783387
+23,'23','Lakeshore @ Grn',43.33141,-79.781791
+24,'24','Lakeshore @ Grn',43.331527,-79.781817
+25,'25','New @ Lorne',43.331538,-79.792851
+27,'27','2228 New',43.332303,-79.791782
+28,'28','Lakeshore @ Mkt',43.332403,-79.779958
+29,'29','Lakeshore @ St Paul',43.332429,-79.779601
+30,'30','Brant @ Ghent',43.332838,-79.808527
+31,'31','Brant @ Ghent',43.333061,-79.808369
+32,'32','New @ Drury',43.333278,-79.791003
+33,'33','Guelph @ Lakeshore',43.333324,-79.778627
+34,'34','Guelph @ Lakeshore',43.333602,-79.778708
+36,'36','Brant @ Prospect',43.333991,-79.809738
+37,'37','Brant @ Prospect',43.334123,-79.810343
+38,'38','New @ Teen Tour Way',43.333982,-79.790186
+39,'39','New @ Seneca',43.333974,-79.789969
+40,'40','Drury @ Teen Tour Way',43.334783,-79.793498
+41,'41','Brant @ Maplewood',43.335019,-79.811242
+44,'44','Brant @ Maplewood',43.335171,-79.811861
+45,'45','Central Library',43.334869,-79.79059
+47,'47','Guelph @ 2nd',43.335002,-79.780883
+48,'48','Guelph @ Princess',43.335057,-79.780676
+49,'49','New @ Delaware',43.335159,-79.788661
+50,'50','2331 New',43.335266,-79.78878
+52,'52','Fairview @ Brant',43.336527,-79.812271
+53,'53','Brant @ De Pauls Ln',43.336599,-79.813449
+54,'54','Fairview @ Brant',43.336217,-79.812113
+55,'55','New @ Beverly',43.336523,-79.787094
+56,'56','Drury @ Courtland',43.336657,-79.795584
+57,'57','New @ Beverly',43.336615,-79.787322
+58,'58','Guelph @ Woodland Pk',43.336653,-79.782847
+59,'59','Drury @ Courtland',43.336772,-79.795872
+60,'60','Guelph @ Woodland Pk',43.336668,-79.783143
+63,'63','Drury @ Woodward',43.337767,-79.796871
+64,'64','2065 Fairview',43.337925,-79.810861
+65,'65','Plains @ Brant',43.338227,-79.816624
+66,'66','Drury @ Woodward',43.337996,-79.797368
+67,'67','Fairview @ De Pauls Ln',43.33818,-79.810041
+68,'68','New @ Guelph',43.338003,-79.785433
+71,'71','Guelph @ New',43.338535,-79.785896
+72,'72','New @ Guelph',43.338709,-79.785087
+73,'73','Brant @ Leighland',43.339722,-79.819656
+77,'77','Guelph @ New',43.338901,-79.78588
+79,'79','736 Drury',43.340081,-79.800233
+81,'81','Drury @ Prospect',43.340451,-79.800524
+82,'82','Guelph @ Glencrest',43.34037,-79.78791
+83,'83','Guelph @ Glencrest',43.340367,-79.788367
+85,'85','Burlington Go Sta',43.340176,-79.809307
+88,'88','New @ Clairidge',43.340945,-79.782598
+89,'89','2200 Fairview',43.341222,-79.805202
+90,'90','New @ Rossmore',43.341176,-79.782058
+91,'91','Fairview @ Argon',43.341673,-79.804937
+92,'92','Prospect @ Parker',43.34189,-79.798911
+93,'93','2346 Prospect',43.342252,-79.798389
+94,'94','3131 New',43.34209,-79.781345
+95,'95','Fairview @ Drury',43.342331,-79.8037
+96,'96','Guelph @ Woodward',43.342496,-79.790794
+98,'98','Guelph @ Woodward',43.342551,-79.791267
+100,'100','Fairview @ Drury',43.342906,-79.803296
+102,'102','1220 Brant',43.343498,-79.824912
+103,'103','3180 New',43.34313,-79.779925
+104,'104','New @ Dynes',43.343202,-79.780145
+105,'105','Prospect @ Wesley',43.343451,-79.796802
+106,'106','2340 Fairview',43.343761,-79.801762
+108,'108','2321 Fairview',43.343947,-79.801898
+109,'109','1259 Brant',43.344608,-79.825919
+110,'110','Brant @ North Service',43.3448,-79.826697
+112,'112','2439 Prospect',43.34454,-79.795486
+113,'113','Guelph @ Prospect',43.344725,-79.794254
+114,'114','Guelph @ Prospect',43.344877,-79.79401
+115,'115','Prospect @ Guelph',43.344878,-79.794684
+116,'116','Brant @ Mt Forest',43.345872,-79.827808
+117,'117','Prospect @ Guelph',43.345621,-79.79408
+118,'118','New @ Cumberland',43.345882,-79.776946
+119,'119','3030 Prospect',43.345871,-79.793318
+120,'120','New @ Cumberland',43.345763,-79.777342
+123,'123','Brant @ Mt Forest',43.346665,-79.82934
+124,'124','Brant @ Bluefields',43.346721,-79.829039
+125,'125','Fairview @ Guelph',43.346435,-79.798151
+127,'127','Mt Forest @ Brant',43.347044,-79.827902
+128,'128','Fairview @ Guelph',43.346729,-79.798275
+129,'129','Mt Forest @ Mountainside',43.347141,-79.827467
+130,'130','Guelph Line @ Fairview',43.346852,-79.797082
+132,'132','Guelph Line @ Fairview',43.346905,-79.796632
+135,'135','Prospect @ Regency',43.347184,-79.791947
+137,'137','Prospect @ Regency',43.347386,-79.792012
+142,'142','Mt Forest @ Tyrrell',43.348948,-79.825694
+144,'144','New @ Guildwood',43.348693,-79.773891
+147,'147','New @ Woodview',43.348795,-79.774043
+148,'148','Prospect @ Dynes',43.34937,-79.789913
+149,'149','Brant @ Amherst Hts',43.349637,-79.833497
+150,'150','Prospect @ Dynes',43.349023,-79.789989
+151,'151','Rexway @ Cumberland',43.349338,-79.782257
+152,'152','Rexway @ Cumberland',43.349262,-79.782143
+154,'154','Brant @ Amherst Hts',43.350131,-79.83389
+155,'155','Guelph @ Harvester',43.34991,-79.801342
+156,'156','Guelph @ Harvester',43.349974,-79.800876
+159,'159','Cumberland @ Woodward',43.350015,-79.783703
+160,'160','3232 Prospect',43.350198,-79.789013
+162,'162','Harvester @ Guelph',43.350538,-79.800914
+164,'164','Cumberland @ Northgate',43.350682,-79.78436
+165,'165','Brant @ Tyandaga Pk',43.351363,-79.835624
+166,'166','Mt Forest @ Royal',43.351269,-79.822533
+167,'167','Brant @ Tyandaga Pk',43.351649,-79.836403
+168,'168','3270 Prospect',43.351089,-79.78758
+169,'169','Mt Forest @ Royal',43.351561,-79.822357
+170,'170','3027 Harvester',43.35138,-79.800168
+171,'171','New @ Elwood',43.35107,-79.771311
+172,'172','New @ Elwood',43.351184,-79.771449
+174,'174','3270 Prospect',43.351579,-79.787132
+177,'177','3050 Harvester',43.352068,-79.798965
+178,'178','Rexway @ Woodview',43.351916,-79.779047
+179,'179','Brant @ Faversham',43.352602,-79.837743
+180,'180','Rexway @ Woodview',43.352217,-79.778849
+181,'181','North Service @ Guelph',43.352823,-79.805577
+182,'182','Harvester @ South Service',43.352693,-79.798454
+183,'183','Mt Forest @ Princeton',43.352965,-79.82084
+184,'184','New @ Walkers',43.353255,-79.769286
+185,'185','New @ Walkers',43.352571,-79.769615
+186,'186','Guelph @ North Service',43.352994,-79.804988
+189,'189','Rexway @ Rexway Court',43.353195,-79.777339
+190,'190','Walkers @ New',43.353383,-79.770086
+191,'191','3155 Harvester',43.353721,-79.796821
+192,'192','3155 Harvester',43.353874,-79.796927
+193,'193','476 Walkers',43.353584,-79.77072
+194,'194','3461 Rexway',43.353879,-79.776576
+195,'195','Mt Forest @ Fisher',43.354316,-79.819338
+196,'196','New @ Longmoor',43.354711,-79.767318
+197,'197','Mt Forest @ Fisher',43.354512,-79.818819
+198,'198','New @ Longmoor',43.35481,-79.767477
+199,'199','Brant @ Dawlish',43.355076,-79.840855
+200,'200','Brant @ Havendale',43.355336,-79.841633
+201,'201','514 Walkers',43.354497,-79.771967
+203,'203','515 Walkers',43.354625,-79.771774
+204,'204','Guelph @ Mountainside',43.355061,-79.80855
+205,'205','Fairview @ Woodview',43.355055,-79.784605
+206,'206','Fairview @ Woodview',43.355382,-79.783833
+207,'207','Guelph @ Davidson',43.355752,-79.808881
+208,'208','Brant @ Upper Middle',43.356245,-79.842472
+209,'209','Rexway @ Walkers',43.355726,-79.774028
+210,'210','Fisher @ St Mary''s',43.35604,-79.820693
+211,'211','Fisher @ St Mary''s',43.35613,-79.820595
+212,'212','Rexway @ Walkers',43.355712,-79.773756
+214,'214','4052 Longmoor',43.355712,-79.768631
+215,'215','Longmoor @ Stephanie',43.356006,-79.768792
+216,'216','Drury @ Teen Tour Way',43.334786,-79.793125
+217,'217','Harvester @ Cumberland',43.356691,-79.793034
+218,'218','Brant @ Upper Middle',43.356943,-79.843939
+219,'219','3167 North Service',43.356746,-79.799177
+220,'220','Guelph @ Mainway',43.357041,-79.811264
+221,'221','2211 Brant',43.357526,-79.844301
+222,'222','Fairview @ Commerce',43.356825,-79.782338
+223,'223','Mainway @ Guelph',43.357292,-79.810217
+224,'224','4100 Longmoor',43.356905,-79.770025
+225,'225','New @ Belvenia',43.35689,-79.764912
+226,'226','Harvester @ Cumberland',43.357234,-79.792653
+227,'227','New @ Belvenia',43.356726,-79.765448
+228,'228','Guelph @ Mainway',43.357588,-79.811468
+229,'229','Fisher @ Pkwy',43.357707,-79.822967
+230,'230','Mainway @ Guelph',43.35798,-79.809788
+231,'231','Fisher Ave @ Fisher Pl',43.358135,-79.825484
+232,'232','3455 Fairview',43.357688,-79.782001
+233,'233','3332 Harvester',43.358555,-79.790965
+234,'234','3332 Harvester',43.358574,-79.790632
+235,'235','3500 Fairview',43.35846,-79.780868
+236,'236','Brant @ Cottontree',43.359321,-79.847199
+237,'237','3100 Mainway',43.358896,-79.808575
+238,'238','Upper Middle @ Cavendish',43.359096,-79.834457
+239,'239','Upper Middle @ Mtn Grv',43.359151,-79.828597
+240,'240','422 Guelph Line',43.33787,-79.784856
+241,'241','Brant @ Barlow',43.359661,-79.847325
+242,'242','3097 Mainway',43.359054,-79.808674
+243,'243','4203 Longmoor',43.358665,-79.771512
+244,'244','Guelph @ Centennial',43.359144,-79.813562
+245,'245','Guelph @ Centennial',43.359219,-79.814117
+246,'246','4200 Longmoor',43.358777,-79.771371
+247,'247','Upper Middle @ Cavendish',43.359596,-79.836349
+248,'248','Upper Middle @ Mtn Grv',43.359554,-79.828173
+249,'249','3255 North Service',43.359407,-79.796218
+250,'250','Cavendish @ Upper Middle',43.359995,-79.836499
+251,'251','Fisher @ Augustine',43.359842,-79.825493
+252,'252','New @ Shoreacres',43.359599,-79.761878
+253,'253','Harvester @ Harrington',43.359581,-79.788917
+254,'254','Harvester @ Harrington',43.359723,-79.78901
+255,'255','Guelph @ Mt Forest',43.359923,-79.814711
+256,'256','Fairview @ Walkers',43.359562,-79.779605
+257,'257','Augustine @ Fisher',43.360078,-79.825663
+258,'258','Cavendish @ Pauline',43.360347,-79.836147
+259,'259','New @ Shoreacres',43.359689,-79.762138
+260,'260','Upper Middle @ Augustine',43.360453,-79.826651
+261,'261','Augustine @ Upper Middle',43.360595,-79.82627
+262,'262','Longmoor @ Belvenia',43.360047,-79.771414
+263,'263','Upper Middle @ Augustine',43.360819,-79.826594
+264,'264','3450 Harvester',43.360441,-79.787318
+265,'265','Brant @ Greenbank',43.361472,-79.849754
+266,'266','Fairview @ Walkers',43.36059,-79.778997
+267,'267','4015 Fairview',43.360614,-79.778492
+268,'268','Harvester @ South Service',43.360753,-79.78714
+269,'269','Brant @ Hazelton',43.361649,-79.850377
+270,'270','Longmoor @ Flemish',43.360822,-79.771612
+271,'271','Cavendish @ Longshire',43.361504,-79.8351
+272,'272','Guelph @ Palmer',43.361365,-79.817052
+274,'274','Mainway @ Northside',43.361038,-79.806411
+275,'275','Cavendish @ Longshire',43.36176,-79.835023
+276,'276','Guelph @ Palmer',43.361588,-79.816955
+278,'278','Mainway @ Northside',43.361693,-79.805944
+279,'279','3486 Harvester',43.361805,-79.784796
+281,'281','3485 Harvester',43.361959,-79.784859
+282,'282','New @ Wilson',43.362351,-79.759232
+283,'283','Longmoor @ Auburn',43.362195,-79.771657
+284,'284','New @ Wilson',43.362231,-79.75903
+285,'285','Guelph @ St Francis',43.362971,-79.818861
+286,'286','Cavendish @ Brant',43.36351,-79.852339
+287,'287','Guelph @ St Francis',43.363014,-79.819321
+288,'288','3375 North Service',43.362795,-79.792502
+289,'289','Harvester @ Walkers',43.3627,-79.783445
+290,'290','Walkers @ Harvester',43.362772,-79.782765
+291,'291','3375 North Service',43.362909,-79.792545
+292,'292','Cavendish @ Greenbank',43.363661,-79.85196
+293,'293','4262 Longmoor',43.362704,-79.77136
+295,'295','4104 Fairveiw',43.362832,-79.776229
+296,'296','Walkers @ Harvester',43.362636,-79.78313
+297,'297','4127 Fairview',43.363088,-79.776264
+298,'298','M M Robinson Secondary School',43.363619,-79.823158
+299,'299','Guelph @ Upper Middle',43.363651,-79.820529
+300,'300','Cavendish @ Greenbank',43.364406,-79.851632
+301,'301','Harvester @ Walkers',43.363559,-79.782733
+302,'302','Guelph @ Upper Middle',43.363697,-79.82001
+304,'304','Cavendish @ Millway',43.364287,-79.833728
+305,'305','915 Walkers',43.363841,-79.784223
+306,'306','Upper Middle @ Guelph',43.364243,-79.822885
+307,'307','Mainway @ Pioneer',43.364105,-79.803286
+309,'309','Cavendish @ Millway',43.364452,-79.833901
+310,'310','Mainway @ Pioneer',43.364265,-79.803373
+312,'312','4145 Fairview',43.364039,-79.775033
+313,'313','Walkers @ Bilings',43.364138,-79.785148
+314,'314','Longmoor @ Catalina',43.364394,-79.770529
+315,'315','New @ Shannon',43.364321,-79.757046
+317,'317','New @ Shannon',43.364346,-79.756708
+318,'318','2627 Cavendish',43.365936,-79.850014
+319,'319','4200 Fairview',43.364903,-79.773543
+321,'321','Harvester @ Fraser',43.364953,-79.780797
+323,'323','Harvester @ Fraser',43.365304,-79.780658
+324,'324','4205 Fairview',43.365277,-79.773366
+325,'325','Appleby @ Cottonwood',43.36504,-79.750869
+326,'326','Burlington Hts Ctr',43.365882,-79.820262
+327,'327','Longmoor @ Laural',43.365459,-79.768887
+328,'328','Longmoor @ Laural',43.365697,-79.768799
+329,'329','4394 Longmoor',43.365621,-79.761326
+332,'332','Cavendish @ Devlin',43.366519,-79.835441
+333,'333','Appleby @ Fern',43.365717,-79.751495
+334,'334','Cavendish @ Devlin',43.366651,-79.835705
+335,'335','Cavendish @ Plymouth',43.36696,-79.848258
+338,'338','Longmoor @ Bennett',43.366076,-79.763502
+339,'339','Longmoor @ Bennett',43.366129,-79.763978
+340,'340','Longmoor @ Galway',43.366216,-79.759498
+343,'343','Cavendish @ Duncaster',43.367754,-79.846385
+344,'344','Longmoor @ Inverary',43.366649,-79.766709
+345,'345','Mainway @ Blair',43.367029,-79.800305
+347,'347','Harvester @ Morris',43.366583,-79.778972
+348,'348','Fairview @ Darlene',43.366827,-79.770912
+350,'350','Longmoor @ Inverary',43.366724,-79.766881
+351,'351','Fairview @ Griffith',43.366924,-79.771142
+354,'354','Harvester @ Morris',43.36715,-79.778663
+355,'355','Appleby @ New',43.366959,-79.753099
+356,'356','Headon @ Lansdown',43.367792,-79.804686
+357,'357','Longmoor @ Chamerlain',43.367375,-79.758209
+358,'358','Cavendish @ Amblecotte',43.36844,-79.845782
+359,'359','Headon @ Lansdown',43.367978,-79.804728
+360,'360','Appleby @ New',43.367396,-79.754026
+361,'361','North Service @ Walkers',43.367862,-79.790639
+362,'362','New @ Appleby',43.367519,-79.753536
+363,'363','Dillon @ Mainway',43.368033,-79.79976
+365,'365','Walkers @ North Service',43.368574,-79.790835
+367,'367','Cavendish @ Ingersoll',43.36864,-79.834621
+368,'368','Walkers @ North Service',43.36831,-79.790897
+372,'372','Dillon @ Mainway',43.368514,-79.800208
+373,'373','North Service @ Walkers',43.368349,-79.790352
+374,'374','Lansdown @ Quebec',43.368537,-79.803588
+375,'375','Headon @ Vancouver',43.368651,-79.805602
+376,'376','491 Appleby',43.368237,-79.754728
+378,'378','Longmoor @ Turner',43.368383,-79.757103
+379,'379','Lakeshore @ Hampton Heath',43.368506,-79.729232
+380,'380','Upper Middle @ Headon Forest',43.369745,-79.816103
+381,'381','Fairview @ Inverary',43.368872,-79.768154
+382,'382','Sir Ernest Macmillan',43.369324,-79.806578
+383,'383','Dillon @ Hannibal',43.369346,-79.801543
+385,'385','Longmoor @ Appleby',43.368942,-79.7563
+387,'387','Cavendish @ Malcolm',43.36993,-79.843379
+388,'388','Fairview @ Inverary',43.369248,-79.768004
+389,'389','Upper Middle @ Headon Forest',43.369762,-79.816444
+391,'391','New @ Timber',43.369194,-79.75136
+392,'392','Appleby @ Longmoor',43.369234,-79.756429
+394,'394','Dillon @ Lansdown',43.369861,-79.801996
+395,'395','Appleby @ Pinedale',43.369431,-79.756323
+396,'396','New @ Timber',43.369556,-79.751297
+398,'398','Cavendish @ Melissa',43.370533,-79.840597
+399,'399','4281 Harvester',43.369913,-79.775842
+400,'400','Cavendish @ Melissa',43.370746,-79.840498
+401,'401','4280 Harvester',43.370023,-79.775442
+402,'402','North Service @ Champlain',43.370143,-79.784401
+403,'403','Pinedale @ Timber',43.370902,-79.754085
+404,'404','North Service @ Champlain',43.370338,-79.784417
+405,'405','4370 Fairview',43.370191,-79.766319
+407,'407','Headon @ Palmer',43.370642,-79.807778
+408,'408','5451 Lakeshore',43.369872,-79.727249
+412,'412','Headon @ Palmer',43.370815,-79.80807
+413,'413','5475 Lakeshore',43.369971,-79.727389
+416,'416','Headon Forest @ Pinemeadow',43.371427,-79.822415
+417,'417','4445 Fairview',43.370916,-79.76576
+418,'418','Cavendish @ Cotswold',43.371653,-79.83496
+419,'419','Cavendish @ Cotswold',43.371722,-79.834776
+421,'421','Pinedale @ Appleby Mall',43.369989,-79.755103
+422,'422','Cavendish @ Coventry',43.372096,-79.837662
+423,'423','Walkers @ Mainway',43.371486,-79.794958
+424,'424','New @ Adams',43.370958,-79.749408
+425,'425','Headon Forest @ Berryman',43.371825,-79.824367
+426,'426','Headon Forest @ Berryman',43.371795,-79.824631
+429,'429','Cavendish @ Coventry',43.372251,-79.837398
+431,'431','New @ Adams',43.371424,-79.749231
+432,'432','Walkers @ Mainway',43.371968,-79.796197
+433,'433','Lakeshore @ Burloak',43.371301,-79.725488
+434,'434','Upper Middle @ Deer Run',43.372302,-79.813338
+435,'435','Appleby @ Sheraton',43.371738,-79.759506
+436,'436','100 Lakeshore',43.37142,-79.725559
+437,'437','Fairview @ Taylor',43.371824,-79.764256
+438,'438','Appleby @ Bennett',43.371856,-79.760023
+439,'439','Fairview @ Taylor',43.371976,-79.764442
+440,'440','Upper Middle @ Deer Run',43.372662,-79.81332
+441,'441','Headon Forest @ Maderna',43.37288,-79.825964
+442,'442','Headon Forest @ Maderna',43.372863,-79.826163
+444,'444','Coventry @ Malcolm',43.373237,-79.838039
+446,'446','Coventry @ Malcolm',43.373142,-79.8379
+447,'447','Burloak @ Lakeshore',43.372479,-79.725596
+449,'449','Walkers @ Blanchard',43.372973,-79.797158
+450,'450','Walkers @ Ketelby',43.373057,-79.797657
+451,'451','666 Appleby',43.372714,-79.761198
+452,'452','Burloak @ Lakeshore',43.372347,-79.725184
+453,'453','Appleby @ Fairview',43.37285,-79.761028
+454,'454','Harvester @ South Service',43.372963,-79.772505
+455,'455','Harvester @ Appleby Go',43.381693,-79.762954
+456,'456','Lester B Pearson Secondary School',43.373505,-79.808986
+457,'457','Fairview @ Appleby',43.372966,-79.762815
+459,'459','Harvester @ South Service',43.373352,-79.772363
+461,'461','Headon Forset @ Deer Run',43.373945,-79.827368
+464,'464','Headon Forest @ Deer Run',43.374077,-79.827798
+465,'465','Coventry @ Alder',43.374437,-79.837231
+466,'466','New @ Wedgewood',43.373524,-79.746889
+467,'467','Coventry @ Guelph',43.374496,-79.836962
+468,'468','1448 Headon',43.373201,-79.808897
+469,'469','Heritage @ North Service',43.373948,-79.780667
+470,'470','New @ Meadowhill',43.373652,-79.746446
+471,'471','Upper Middle @ Headon',43.374227,-79.811205
+472,'472','Headon @ Upper Middle',43.374588,-79.810502
+473,'473','Fairview @ Appleby',43.373979,-79.761966
+474,'474','5031 Fairview',43.373905,-79.761631
+475,'475','1051 Heritage',43.374557,-79.781454
+476,'476','Frontenac Public School',43.374302,-79.753689
+477,'477','Upper Middle @ Headon',43.374938,-79.810849
+478,'478','Burloak @ Stevenson',43.374267,-79.727774
+479,'479','Headon Forest @ Winding Way',43.375357,-79.829301
+480,'480','Walkers @ Forest Run',43.375127,-79.800103
+481,'481','Headon Forest @ Winding Way',43.375465,-79.829662
+482,'482','Burloak @ Winston',43.374392,-79.728172
+484,'484','Walkers @ Palmer',43.375291,-79.800712
+485,'485','1121 Heritage',43.375529,-79.784447
+486,'486','Harvester @ Zelco',43.375405,-79.769919
+487,'487','Appleby @ Dundas',43.405712,-79.807136
+490,'490','Harvester @ Zelco',43.375778,-79.769775
+491,'491','Walkers @ Wedgewood',43.376328,-79.802121
+492,'492','Upper Middle @ Cleaver',43.376923,-79.808332
+493,'493','1401 Walkers',43.376606,-79.802144
+495,'495','New @ Hampton Heath',43.376331,-79.743469
+496,'496','Burloak @ Randolph',43.376151,-79.730556
+497,'497','Upper Middle @ Cleaver',43.376709,-79.808951
+498,'498','Harvester @ Appleby',43.376782,-79.768561
+499,'499','Appleby @ Harvester',43.376588,-79.766133
+500,'500','Pinedale @ Wedgewood',43.376949,-79.751623
+501,'501','New @ Hampton Heath',43.376455,-79.743643
+502,'502','Walkers @ Kilmer',43.377588,-79.803436
+503,'503','Harvester @ Appleby',43.377223,-79.767618
+505,'505','5111 Fairview',43.37714,-79.758719
+506,'506','Walkers @ Toffee',43.377699,-79.804022
+507,'507','5090 Fairview',43.377221,-79.758335
+508,'508','Notre Dame Secondary School',43.378004,-79.832006
+510,'510','Appleby @ Harvester',43.378327,-79.768689
+512,'512','Harvester @ Appleby',43.377944,-79.766808
+514,'514','5250 Pinedale',43.37777,-79.750756
+515,'515','3505 Upper Middle',43.378491,-79.807005
+517,'517','875 Appleby',43.378203,-79.76816
+519,'519','Upper Middle @ Walkers',43.378772,-79.806343
+520,'520','1200 Heritage',43.378703,-79.786189
+521,'521','Walkers @ Upper Middle',43.378856,-79.805262
+522,'522','Burloak @ Spruce',43.378208,-79.733094
+524,'524','Heritage @ Mainway',43.37881,-79.786578
+525,'525','Burloak @ Spruce',43.378357,-79.733556
+526,'526','Pinedale @ Riverside',43.378591,-79.749686
+528,'528','5051 Harvester',43.378926,-79.765812
+531,'531','1200 Heritage',43.379389,-79.78768
+534,'534','Walker @ Upper Middle',43.379661,-79.807063
+535,'535','Appleby Go Sta',43.379496,-79.760622
+536,'536','Harvester @ Appleby',43.379233,-79.765786
+537,'537','Headon Forest @ Folkway',43.379981,-79.832027
+538,'538','Upper Middle @ Walkers',43.379722,-79.805699
+539,'539','Heritage @ Mainway',43.379722,-79.788235
+540,'540','New @ Melores',43.379141,-79.740299
+541,'541','Headon Forest @ Folkway',43.380309,-79.832196
+543,'543','New @ Amanda',43.37961,-79.740219
+544,'544','Mainway @ Heritage',43.380431,-79.788232
+545,'545','2055 Walkers',43.380652,-79.808071
+546,'546','2075 Walkers',43.380788,-79.808646
+548,'548','Burloak @ Eaton',43.380191,-79.735989
+550,'550','Burloak @ Eaton',43.380599,-79.73632
+553,'553','New @ Burloak',43.381195,-79.737992
+555,'555','Walkers @ Milcroft',43.381741,-79.809559
+556,'556','4331 Mainway',43.381595,-79.787164
+557,'557','New @ Burloak',43.381037,-79.738574
+558,'558','Walkers @ Jordan',43.381859,-79.810089
+560,'560','Headon Forest @ Edenwood',43.382297,-79.831532
+562,'562','Mainway @ Corporate',43.382551,-79.785908
+565,'565','Mainway @ Corporate',43.382978,-79.785785
+566,'566','Upper Middle @ Itabashi',43.383222,-79.801577
+570,'570','Upper Middle @ Itabashi',43.383342,-79.801783
+571,'571','Walkers @ Medland',43.384235,-79.812937
+572,'572','Walkers @ Medland',43.38443,-79.813567
+573,'573','Headon Forest @ Woodcroft',43.384852,-79.829696
+574,'574','Appleby @ North Service',43.383678,-79.775998
+575,'575','Appleby @ North Service',43.38352,-79.776176
+576,'576','5230 Harvester',43.384142,-79.760352
+578,'578','Headon Forest @ Butternut',43.385015,-79.829322
+581,'581','Harvester @ Century',43.384492,-79.760247
+583,'583','Mainway @ Artisans',43.385376,-79.783021
+584,'584','Walkers @ Country Club',43.385618,-79.81482
+586,'586','Mainway @ Artisans',43.385421,-79.783228
+587,'587','2300 Walkers',43.385726,-79.815338
+588,'588','1207 Appleby',43.385626,-79.778679
+589,'589','2522 Headon',43.386212,-79.82817
+591,'591','Upper Middle @ Atkinson',43.386279,-79.798276
+592,'592','Headon Forest @ Headon',43.386691,-79.827434
+593,'593','5300 Harvester',43.385851,-79.758253
+594,'594','Headon Forest @ Headon',43.386975,-79.827323
+595,'595','Upper Middle @ Atkinson',43.386664,-79.798211
+596,'596','Harvester @ Sheldon',43.386282,-79.758281
+597,'597','Mainway @ Appleby',43.387582,-79.780595
+599,'599','Appleby @ Mainway',43.387602,-79.781438
+600,'600','Constable Henshaw @ Headon Forest',43.387655,-79.820993
+601,'601','Appleby @ Mainway',43.386939,-79.780929
+602,'602','Headon Forest @ Northampton',43.388047,-79.825738
+604,'604','Headon Forest @ Northampton',43.388237,-79.825872
+605,'605','5400 Harvester',43.38777,-79.756469
+606,'606','Sutton @ North Service',43.387957,-79.765552
+607,'607','Upper Middle @ Country Club',43.388348,-79.796417
+608,'608','Walkers @ Darien',43.388757,-79.819045
+609,'609','Northampton @ Dundas',43.388882,-79.826521
+610,'610','Harvester @ Gateway',43.388212,-79.756308
+611,'611','Walkers @ Constable Hensaw',43.388848,-79.819564
+613,'613','2915 Headon Forest',43.389078,-79.823458
+615,'615','Go 407 Carpool',43.388859,-79.82867
+616,'616','Appleby @ Corporate',43.390102,-79.785314
+618,'618','Appleby @ Corporate',43.390772,-79.78578
+619,'619','Berton @ Walkers',43.39089,-79.821934
+621,'621','Harvester @ Syscon',43.390204,-79.753896
+622,'622','Walkers @ Berton',43.39098,-79.822465
+623,'623','Harvester @ Syscon',43.390767,-79.753677
+625,'625','North Service @ International',43.391111,-79.761724
+627,'627','North Service @ International',43.391688,-79.760825
+628,'628','Upper Middle @ Heron Way',43.392168,-79.791939
+634,'634','2010 Heron Way',43.39399,-79.792906
+636,'636','Upper Middle @ Imperial',43.39549,-79.788814
+642,'642','5435 North Service',43.39472,-79.760103
+644,'644','5420 North Service',43.394745,-79.759892
+646,'646','2101 Appleby',43.395838,-79.793057
+647,'647','2080 Appleby',43.396737,-79.794732
+648,'648','Appleby @ Dryden',43.397045,-79.794685
+649,'649','North Service @ John Lucas',43.396724,-79.762945
+650,'650','North Service @ John Lucas',43.39681,-79.763155
+651,'651','Corpus Christi Secondary School',43.398035,-79.786036
+656,'656','1120 Burloak',43.397974,-79.760407
+657,'657','North Service @ Burloak',43.398134,-79.762218
+658,'658','Corpus Christi Secondary School',43.398973,-79.784685
+659,'659','North Service @ Burloak',43.398324,-79.762236
+662,'662','Upper Middle @ Quinte',43.400373,-79.783216
+664,'664','Upper Middle @ Quinte',43.399848,-79.784169
+666,'666','5327 Sutton',43.403303,-79.782624
+668,'668','Appleby @ Taywood',43.403186,-79.803039
+669,'669','Appleby @ Taywood',43.402973,-79.803315
+670,'670','Appleby @ Appleby Xing',43.405038,-79.805563
+671,'671','Sutton @ Blue Spruce',43.404919,-79.784808
+672,'672','Sutton @ Blue Spruce',43.404966,-79.7852
+673,'673','2500 Appleby',43.404841,-79.80588
+675,'675','Sutton @ Empire',43.407025,-79.789101
+676,'676','Sutton @ Dryden',43.407797,-79.790414
+679,'679','King @ James',43.256679,-79.868895
+682,'682','Bay @ Vine',43.260591,-79.872694
+684,'684','York @ Queen',43.262986,-79.877089
+686,'686','York @ Dundurn',43.268307,-79.885561
+687,'687','York @ Locke',43.26538,-79.881622
+688,'688','York @ Dundurn Castle',43.269331,-79.885776
+694,'694','York @ Old Guelph',43.284915,-79.892603
+695,'695','York @ Old Guelph',43.2851,-79.892434
+696,'696','York @ Vly Inn',43.288505,-79.891342
+697,'697','York @ Rbg Rock Gdns',43.289534,-79.89049
+698,'698','Plains @ Rbg',43.290757,-79.87462
+699,'699','Plains @ Rbg',43.290867,-79.875463
+700,'700','Plains @ Botanical',43.29127,-79.879035
+701,'701','Plains @ Botanical',43.291031,-79.878798
+703,'703','Plains @ Holy Sepulcher Cemetery',43.292504,-79.870304
+704,'704','549 Plains',43.292849,-79.870105
+706,'706','Plains @ York',43.293348,-79.889325
+708,'708','Plains @ York',43.293637,-79.889159
+711,'711','Plains @ Gorton',43.296931,-79.865039
+712,'712','Plains @ Gorton',43.297354,-79.86493
+713,'713','Plains @ Unsworth',43.298135,-79.864071
+714,'714','300 Plains',43.298923,-79.862776
+715,'715','283 Plains',43.299861,-79.86191
+716,'716','Plains @ Boothman',43.301104,-79.86034
+717,'717','Plains @ Daryl',43.301583,-79.859284
+718,'718','Plains @ Howard',43.303428,-79.856825
+719,'719','Plains @ Emery',43.305334,-79.854369
+721,'721','Plains @ Waterdown',43.30642,-79.853292
+722,'722','Plains @ Waterdown',43.306959,-79.85218
+723,'723','Plains @ Birchwood',43.308466,-79.850252
+724,'724','Waterdown @ Masonary',43.308763,-79.855153
+726,'726','175 Plains',43.311004,-79.847351
+727,'727','Plains @ Shadeland',43.312783,-79.844938
+728,'728','Plains @ Shadeland',43.312695,-79.844699
+729,'729','Aldershot Go Sta',43.31312,-79.856398
+730,'730','North Shr @ Indian',43.314443,-79.811529
+731,'731','Francis @ North Shr',43.314441,-79.813828
+732,'732','North Shr @ Oneida',43.314533,-79.812167
+733,'733','Plains @ Downsview',43.314871,-79.841848
+734,'734','Francis @ North Shr',43.31469,-79.813881
+735,'735','645 Francis',43.315733,-79.815335
+736,'736','670 Francis',43.315925,-79.815899
+737,'737','1169 North Shr',43.316584,-79.805308
+738,'738','Plains @ Falcon',43.317018,-79.838941
+739,'739','Plains @ Willowbrook',43.317136,-79.839227
+740,'740','Joseph Brant Hosp',43.317662,-79.803984
+741,'741','Francis @ Greenwood',43.318,-79.818834
+742,'742','Joseph Brant Hosp',43.317805,-79.803408
+743,'743','Francis @ Greenwood',43.318117,-79.819246
+744,'744','484 Plains',43.318403,-79.837046
+745,'745','Maplehurst Public School',43.318794,-79.8369
+746,'746','1249 North Shr',43.318529,-79.802845
+747,'747','King @ Surrey',43.319523,-79.828983
+748,'748','Maple @ North Shr',43.319628,-79.802833
+749,'749','Maple @ Lakeshore',43.319615,-79.802295
+750,'750','Francis @ Cedar',43.320082,-79.822029
+751,'751','Lakeshore @ Brock',43.319956,-79.801225
+752,'752','Francis @ Cedar',43.320387,-79.822241
+753,'753','Maple @ Elgin',43.320297,-79.803884
+754,'754','Maple @ Elgin',43.320317,-79.804444
+755,'755','1340 Lakeshore',43.3203,-79.800551
+756,'756','Plains @ Cedarwood',43.320715,-79.834332
+757,'757','Francis @ Marley',43.320976,-79.823091
+758,'758','Francis @ Marley',43.321126,-79.823533
+759,'759','Plains @ Long Dr',43.32122,-79.83319
+760,'760','Maple @ Ontario',43.320714,-79.805399
+761,'761','695 Surrey',43.321349,-79.82803
+762,'762','Lakeshore @ Nelson',43.321092,-79.800211
+763,'763','Maple @ Ontario',43.321312,-79.806276
+767,'767','Plains @ King',43.32215,-79.832355
+769,'769','Maple @ Maple Xing',43.321766,-79.80785
+770,'770','Maple @ Maple Xing',43.322036,-79.80803
+771,'771','Francit @ Gln Vw',43.322572,-79.825662
+772,'772','Lakeshore @ Burlington',43.322424,-79.798485
+773,'773','Warwick @ Warwick Court',43.322726,-79.827893
+776,'776','Lakeshore @ Burlington',43.322759,-79.798369
+777,'777','Maple @ Augustus',43.322977,-79.810923
+779,'779','Maple @ Augustus',43.323053,-79.811792
+780,'780','Maple @ Richmond',43.323624,-79.813524
+781,'781','Plains @ Francis',43.323808,-79.829775
+782,'782','Maple @ Richmond',43.323796,-79.813441
+783,'783','Lakeshore @ Brant',43.324332,-79.796126
+785,'785','Plains @ Francis',43.324759,-79.829006
+787,'787','Mapleview Mall South Entrance',43.325002,-79.817595
+789,'789','Mapleview Mall South Entrance',43.325643,-79.818033
+792,'792','Lakeshore @ Elizabeth',43.325203,-79.794517
+795,'795','John St Terminal',43.325782,-79.796914
+796,'796','John St Terminal',43.325696,-79.796457
+797,'797','James @ Brant',43.326181,-79.79818
+798,'798','Brant @ James',43.326178,-79.798708
+800,'800','Lakeshore @ Martha',43.326703,-79.792376
+801,'801','Maple @ Thorpe',43.326513,-79.818955
+804,'804','Mt Forest @ Tyrrell',43.348956,-79.825875
+806,'806','3167 North Service',43.356831,-79.799216
+807,'807','4100 Longmoor',43.356816,-79.770122
+808,'808','Fisher @ Pkwy',43.357575,-79.822978
+809,'809','3269 North Service',43.359465,-79.796331
+810,'810','New @ Smith',43.3315,-79.792665
+811,'811','4288 Longmoor',43.364359,-79.770362
+812,'812','4466 Longmoor',43.367322,-79.758077
+813,'813','Cavendish @ Ingersoll',43.368509,-79.83457
+815,'815','Central Library',43.335007,-79.790593
+816,'816','Burloak @ Randolph',43.376285,-79.730507
+817,'817','2429 Headon Forest',43.382408,-79.831619
+818,'818','Francis @ Glenview',43.322683,-79.825621
+821,'821','Brant @ Victoria',43.329786,-79.803586
+822,'822','Brant @ Blairholm',43.331198,-79.805642
+823,'823','Brant @ Blairholm',43.33124,-79.806064
+824,'824','Brant @ Faversham',43.352814,-79.837704
+825,'825','2632 Cavendish',43.365716,-79.85007
+827,'827','King @ Bay',43.257985,-79.873658
+828,'828','York @ Locke',43.265595,-79.881376
+829,'829','5155 Harvester',43.381992,-79.762908
+830,'830','Plains @ St Matthew''s',43.30971,-79.848638
+831,'831','172 Plains',43.310988,-79.846913
+832,'832','Plains And Downsview',43.315434,-79.841461
+833,'833','Plains @ Howard',43.303472,-79.857241
+834,'834','York @ James',43.259007,-79.868931
+835,'835','1400 Lakeshore',43.321401,-79.799568
+836,'836','Longmoor @ Tipperary',43.365769,-79.761119
+838,'838','Sutton @ Dryden',43.407821,-79.790822
+843,'843','Brant @ Caroline',43.327602,-79.800491
+846,'846','Harvester @ Burloak',43.39155,-79.752905
+847,'847','Brant @ North Service',43.343438,-79.824305
+854,'854','Brant @ Leighland',43.33912,-79.81831
+856,'856','Sutton @ North Service',43.388196,-79.765596
+857,'857','Mainway @ Appleby',43.386759,-79.781825
+858,'858','Sutton @ Dundas',43.411717,-79.801342
+860,'860','Sutton @ Pathfinder',43.410578,-79.798646
+866,'866','Notre Dame Secondary School',43.377882,-79.831823
+872,'872','Sutton @ Dundas',43.41101,-79.800492
+873,'873','Thomas Alton @ Tim Dobbie',43.400352,-79.822865
+874,'874','Thomas Alton @ Tim Dobbie',43.400293,-79.82271
+875,'875','Walkers @ Thomas Alton',43.394734,-79.827137
+876,'876','Thomas Alton @ Rotary Way',43.396208,-79.82473
+877,'877','Thomas Alton @ Rossini',43.398726,-79.823316
+879,'879','Thomas Alton @ Ashlar',43.403214,-79.821542
+880,'880','Thomas Alton @ Hopkins',43.404998,-79.82109
+881,'881','Thomas Alton @ Ferguson',43.407217,-79.820379
+882,'882','Thomas Alton @ Columbus',43.409204,-79.816538
+883,'883','Thomas Alton @ Appleby',43.41001,-79.813428
+884,'884','Thomas Alton @ Ferguson',43.407466,-79.820398
+885,'885','Thomas Alton @ Columbus',43.409381,-79.816308
+886,'886','Thomas Alton @ Hopkins',43.40523,-79.821211
+887,'887','Thomas Alton @ Nixon',43.398355,-79.823648
+888,'888','Thomas Alton @ Settlement',43.396441,-79.824679
+889,'889','Thomas Alton @ Munson',43.395406,-79.826672
+891,'891','Plains @ Kingsway',43.32026,-79.834527
+893,'893','Appleby @ Upper Middle',43.393239,-79.789757
+896,'896','Pinedale @ New',43.375629,-79.744762
+897,'897','Lakeshore @ Appleby',43.360597,-79.744657
+898,'898','Lakeshore @ Appleby',43.360457,-79.744165
+899,'899','Appleby @ Harrison',43.408314,-79.810676
+900,'900','Appleby @ Harrison',43.408608,-79.810397
+906,'906','Pinedale @ Forestwood',43.377818,-79.747688
+911,'911','York @ Bay',43.26005,-79.873117
+912,'912','York @ Pk',43.259499,-79.871447
+913,'913','York @ Queen',43.262799,-79.877438
+914,'914','Haber Recreation Ctr',43.398705,-79.818889
+915,'915','Mainway @ Lampman',43.390114,-79.778196
+916,'916','Mainway @ Norjohn',43.390348,-79.777644
+922,'922','Upper Middle @ Country Club',43.387817,-79.796611
+923,'923','Appleby @ Upper Middle',43.393026,-79.788921
+924,'924','Millcroft @ Country Club',43.39084,-79.800143
+925,'925','Millcroft @ Parklane',43.393297,-79.799781
+926,'926','Millcroft @ Turnberry',43.395959,-79.801324
+927,'927','Millcroft @ Clubview',43.398359,-79.804761
+928,'928','Millcroft @ Taywood',43.399359,-79.809626
+929,'929','Sarazen @ Millcroft',43.399518,-79.811477
+930,'930','Sarazen @ Snead',43.395176,-79.812788
+931,'931','Berwick @ Sarazen',43.391833,-79.814656
+932,'932','Berton @ Darien',43.393019,-79.819458
+933,'933','Berton @ Addison',43.391908,-79.82079
+934,'934','Sarazen @ Berwick',43.391762,-79.81442
+935,'935','Sarazen @ Snead',43.394617,-79.813278
+936,'936','Millcroft @ Sarazen',43.399545,-79.811281
+937,'937','Millcroft @ Taywood',43.398826,-79.808468
+938,'938','Millcroft @ Clubview',43.397936,-79.804231
+939,'939','Millcroft @ Turnberry',43.396162,-79.801823
+940,'940','Millcroft @ Parklane',43.392642,-79.800016
+941,'941','Millcroft @ Country Club',43.389852,-79.800325
+943,'943','Tyandaga Pk @ Brant',43.351025,-79.836205
+946,'946','Waterdown @ Plains',43.3071,-79.853003
+947,'947','Upper Middle @ Imperial Way',43.395373,-79.78851
+949,'949','Thomas Alton @ Appleby',43.40999,-79.813931
+951,'951','1250 Appleby',43.384878,-79.778067
+952,'952','Appleby @ Ironstone',43.392071,-79.788021
+959,'959','Plains @ Brant',43.337941,-79.816823
+963,'963','Sutton @ Mainway',43.395114,-79.77131
+964,'964','Sutton @ Mainway',43.394971,-79.771371
+965,'965','Burlington North Smartcentre',43.407097,-79.81004
+967,'967','North Service @ Skyview',43.333859,-79.838059
+971,'971','Kerns @ Tyandaga Pk',43.345603,-79.847415
+973,'973','Headon Forest @ Pinemeadow',43.371519,-79.82209
+978,'978','South Service @ Wyecroft',43.394851,-79.749603
+979,'979','Wyecroft @ Burloak',43.392092,-79.751736
+980,'980','Dundas @ Walkers',43.392781,-79.823333
+981,'981','Dundas @ Walkers',43.391375,-79.824492
+983,'983','Sutton @ Downey',43.391413,-79.766399
+984,'984','Sutton @ John Lucas',43.393342,-79.768798
+985,'985','Sutton @ Sundial',43.409463,-79.795142
+986,'986','Sutton @ Whitehorn',43.410566,-79.798259
+988,'988','Sutton @ Easton',43.409462,-79.79556
+989,'989','546 Brant',43.328898,-79.802662
+991,'991','Fairview @ Maple',43.32871,-79.821461
+992,'992','Waterdown @ Masonary',43.308733,-79.855426
+993,'993','Cavendish @ Malcolm',43.370112,-79.843144
+996,'996','New @ Appleby',43.367626,-79.753045
+997,'997','Haber Recreation Ctr',43.398942,-79.818931
+998,'998','Appleby @ Spruce',43.363297,-79.748265
+999,'999','Lakeshore @ Hampton Heath',43.367371,-79.731476
+1000,'1000','5255 Lakeshore',43.365632,-79.735785
+1001,'1001','Lakeshore @ White Pines',43.364056,-79.739129
+1002,'1002','Lakeshore @ Pineland',43.362539,-79.741458
+1003,'1003','Lakeshore @ Kenwood',43.366894,-79.732332
+1004,'1004','5255 Lakeshore',43.365333,-79.736101
+1005,'1005','Lakeshore @ White Pines',43.364062,-79.738805
+1006,'1006','Lakeshore @ Colonial',43.362493,-79.741174
+1007,'1007','Lakeshore @ Hampton Heath',43.367821,-79.72996
+1008,'1008','Appleby @ Spruce',43.363128,-79.748318
+1010,'1010','Berton @ Darien',43.392956,-79.819301
+1011,'1011','Cumberland @ Prospect',43.35216,-79.786505
+1012,'1012','Fairview @ Burlington Go',43.339485,-79.808725
+1013,'1013','Fairview @ Burlington Go',43.339394,-79.808465
+1014,'1014','Cumberland @ Fairview',43.352862,-79.787115
+1015,'1015','Mainway @ Heritage',43.381495,-79.786987
+1016,'1016','Sutton @ John Lucas',43.393232,-79.768881
+1017,'1017','Sutton @ Clay',43.389611,-79.766727
+1018,'1018','Mainway @ John Lucas',43.393582,-79.774189
+1019,'1019','5500 North Service',43.395826,-79.761681
+1020,'1020','5515 North Service',43.395474,-79.761436
+1021,'1021','Mainway @ John Lucas',43.39417,-79.773815
+1022,'1022','1375 Kerns',43.339983,-79.836225
+1023,'1023','1801 Kerns',43.343814,-79.84176
+1024,'1024','Tyandaga Pk @ Fairway',43.34729,-79.83887
+1030,'1030','2025 Upper Middle',43.365951,-79.820585
+1035,'1035','Lakeshore @ Pearl',43.326067,-79.793033
+1037,'1037','Sutton @ Upper Middle',43.403128,-79.782674
+1041,'1041','649 North Service West',43.330913,-79.841241
+1042,'1042','North Service @ King',43.329503,-79.842527
+1043,'1043','North Service @ Yorkton',43.324362,-79.848058
+1044,'1044','201 North Service',43.316874,-79.855838
+1045,'1045','North Service @ Kerns',43.338433,-79.832705
+1046,'1046','North Service @ Huntly',43.33641,-79.834715
+1047,'1047','201 North Service',43.316963,-79.855589
+1048,'1048','North Service @ Yorkton',43.324317,-79.847934
+1049,'1049','North Service @ Skyview',43.33432,-79.83719
+1050,'1050','North Service @ Huntly',43.336282,-79.834554
+1052,'1052','La Salle Towers',43.303456,-79.848567
+1057,'1057','Lakeshore Pl',43.366936,-79.732728
+1059,'1059','Guelph @ Dundas',43.377347,-79.839048
+1060,'1060','Guelph @ Dundas',43.377097,-79.839106
+1061,'1061','North Service @ Power Ctr',43.342186,-79.827625
+1063,'1063','Dundas @ Appleby',43.407284,-79.807729
+1064,'1064','Dundas @ Appleby',43.407253,-79.807076
+1065,'1065','Guelph @ 3rd',43.335895,-79.782131
+1068,'1068','Wilson @ John',43.258707,-79.865748
+1069,'1069','Catherine @ King William',43.256776,-79.864701
+1073,'1073','Plains @ Cooke',43.307877,-79.851296
+1082,'1082','Walkers @ Fairview',43.359417,-79.778721
+1083,'1083','Walkers @ Fairview',43.359781,-79.778778
+1086,'1086','Fairview @ Burlington Ctr',43.350213,-79.793574
+1087,'1087','Fairview @ Canadian Tire',43.35178,-79.790911
+1088,'1088','Fairview @ Cumberland',43.352706,-79.787842
+1089,'1089','Fairview @ Cumberland',43.353259,-79.787393
+1090,'1090','Fairview @ Canadian Tire',43.351923,-79.791176
+1091,'1091','Fairview @ Burlington Ctr',43.350353,-79.793827
+1092,'1092','Surrey @ King',43.31952,-79.828791
+1093,'1093','Surrey @ Warwick',43.32137,-79.827768
+1094,'1094','Townsend @ Shadeland',43.310842,-79.842141
+1095,'1095','Townsend @ Glenview Public School',43.308685,-79.845113
+1096,'1096','Townsend @ Lasalle Pk Rd',43.305023,-79.849716
+1097,'1097','Lasalle Pk @ Townsend',43.304604,-79.849838
+1098,'1098','Townsend @ Glenview Public School',43.308611,-79.844909
+1099,'1099','Townsend @ Shadeland',43.31084,-79.841986
+1101,'1101','Fairwood @ Aldershot School',43.304767,-79.853461
+1102,'1102','Fairwood @ Aldershot School',43.304527,-79.853571
+1103,'1103','80 Fairwood',43.30331,-79.854698
+1104,'1104','80 Fairwood',43.303303,-79.854833
+1105,'1105','Fairwood @ North Shr',43.300239,-79.853177
+1106,'1106','North Shr @ Fairwood',43.300208,-79.852829
+1107,'1107','Lasalle Pk Towers',43.303602,-79.848461
+1108,'1108','Guelph @ Carncastle',43.375855,-79.83702
+1109,'1109','Guelph @ Coventry Way',43.375233,-79.836561
+1110,'1110','Maple @ Fairview',43.328962,-79.819995
+1111,'1111','Waterdown @ Plains',43.306925,-79.853167
+1112,'1112','Dundas @ Rotary',43.395329,-79.820613
+1113,'1113','Dundas @ Berwick',43.394787,-79.820551
+1114,'1114','Walkers @ Flemish',43.357792,-79.77607
+1115,'1115','Walkers @ Henshaw',43.35747,-79.776029
+1118,'1118','Warwick @ Warwick',43.322696,-79.827754
+1119,'1119','Fairview @ Maple',43.330255,-79.818448
+1120,'1120','Prospect @ Cumberland',43.351869,-79.786345
