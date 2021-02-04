@@ -237,7 +237,7 @@
 295,'295','4104 Fairveiw',43.362832,-79.776229
 296,'296','Walkers @ Harvester',43.362636,-79.78313
 297,'297','4127 Fairview',43.363088,-79.776264
-298,'298','M M Robinson Secondary School',43.363619,-79.823158
+298,'298','M M Robinson SS',43.363619,-79.823158
 299,'299','Guelph @ Upper Middle',43.363651,-79.820529
 300,'300','Cavendish @ Greenbank',43.364406,-79.851632
 301,'301','Harvester @ Walkers',43.363559,-79.782733
@@ -355,7 +355,7 @@
 453,'453','Appleby @ Fairview',43.37285,-79.761028
 454,'454','Harvester @ South Service',43.372963,-79.772505
 455,'455','Harvester @ Appleby GO',43.381693,-79.762954
-456,'456','Lester B Pearson Secondary School',43.373505,-79.808986
+456,'456','Lester B Pearson SS',43.373505,-79.808986
 457,'457','Fairview @ Appleby',43.372966,-79.762815
 459,'459','Harvester @ South Service',43.373352,-79.772363
 461,'461','Headon Forset @ Deer Run',43.373945,-79.827368
@@ -371,7 +371,7 @@
 473,'473','Fairview @ Appleby',43.373979,-79.761966
 474,'474','5031 Fairview',43.373905,-79.761631
 475,'475','1051 Heritage',43.374557,-79.781454
-476,'476','Frontenac Public School',43.374302,-79.753689
+476,'476','Frontenac Public S',43.374302,-79.753689
 477,'477','Upper Middle @ Headon',43.374938,-79.810849
 478,'478','Burloak @ Stevenson',43.374267,-79.727774
 479,'479','Headon Forest @ Winding Way',43.375357,-79.829301
@@ -398,7 +398,7 @@
 505,'505','5111 Fairview',43.37714,-79.758719
 506,'506','Walkers @ Toffee',43.377699,-79.804022
 507,'507','5090 Fairview',43.377221,-79.758335
-508,'508','Notre Dame Secondary School',43.378004,-79.832006
+508,'508','Notre Dame SS',43.378004,-79.832006
 510,'510','Appleby @ Harvester',43.378327,-79.768689
 512,'512','Harvester @ Appleby',43.377944,-79.766808
 514,'514','5250 Pinedale',43.37777,-79.750756
@@ -490,10 +490,10 @@
 648,'648','Appleby @ Dryden',43.397045,-79.794685
 649,'649','North Service @ John Lucas',43.396724,-79.762945
 650,'650','North Service @ John Lucas',43.39681,-79.763155
-651,'651','Corpus Christi Secondary School',43.398035,-79.786036
+651,'651','Corpus Christi SS',43.398035,-79.786036
 656,'656','1120 Burloak',43.397974,-79.760407
 657,'657','North Service @ Burloak',43.398134,-79.762218
-658,'658','Corpus Christi Secondary School',43.398973,-79.784685
+658,'658','Corpus Christi SS',43.398973,-79.784685
 659,'659','North Service @ Burloak',43.398324,-79.762236
 662,'662','Upper Middle @ Quinte',43.400373,-79.783216
 664,'664','Upper Middle @ Quinte',43.399848,-79.784169
@@ -556,7 +556,7 @@
 742,'742','Joseph Brant Hosp',43.317805,-79.803408
 743,'743','Francis @ Greenwood',43.318117,-79.819246
 744,'744','484 Plains',43.318403,-79.837046
-745,'745','Maplehurst Public School',43.318794,-79.8369
+745,'745','Maplehurst Public S',43.318794,-79.8369
 746,'746','1249 North Shr',43.318529,-79.802845
 747,'747','King @ Surrey',43.319523,-79.828983
 748,'748','Maple @ North Shr',43.319628,-79.802833
@@ -635,7 +635,7 @@
 857,'857','Mainway @ Appleby',43.386759,-79.781825
 858,'858','Sutton @ Dundas',43.411717,-79.801342
 860,'860','Sutton @ Pathfinder',43.410578,-79.798646
-866,'866','Notre Dame Secondary School',43.377882,-79.831823
+866,'866','Notre Dame SS',43.377882,-79.831823
 872,'872','Sutton @ Dundas',43.41101,-79.800492
 873,'873','Thomas Alton @ Tim Dobbie',43.400352,-79.822865
 874,'874','Thomas Alton @ Tim Dobbie',43.400293,-79.82271
@@ -776,13 +776,13 @@
 1092,'1092','Surrey @ King',43.31952,-79.828791
 1093,'1093','Surrey @ Warwick',43.32137,-79.827768
 1094,'1094','Townsend @ Shadeland',43.310842,-79.842141
-1095,'1095','Townsend @ Glenview Public School',43.308685,-79.845113
+1095,'1095','Townsend @ Glenview Public S',43.308685,-79.845113
 1096,'1096','Townsend @ Lasalle Pk Rd',43.305023,-79.849716
 1097,'1097','Lasalle Pk @ Townsend',43.304604,-79.849838
-1098,'1098','Townsend @ Glenview Public School',43.308611,-79.844909
+1098,'1098','Townsend @ Glenview Public S',43.308611,-79.844909
 1099,'1099','Townsend @ Shadeland',43.31084,-79.841986
-1101,'1101','Fairwood @ Aldershot School',43.304767,-79.853461
-1102,'1102','Fairwood @ Aldershot School',43.304527,-79.853571
+1101,'1101','Fairwood @ Aldershot S',43.304767,-79.853461
+1102,'1102','Fairwood @ Aldershot S',43.304527,-79.853571
 1103,'1103','80 Fairwood',43.30331,-79.854698
 1104,'1104','80 Fairwood',43.303303,-79.854833
 1105,'1105','Fairwood @ North Shr',43.300239,-79.853177
