@@ -631,6 +631,9 @@
 872,'872','Sutton @ Dundas',43.41101,-79.800492,1
 873,'873','Thomas Alton @ Tim Dobbie',43.400352,-79.822865,1
 874,'874','Thomas Alton @ Tim Dobbie',43.400293,-79.82271,1
+875,'875','Walkers @ Thomas Alton',43.394734,-79.827137,1
+876,'876','Thomas Alton @ Rotary Way',43.396208,-79.82473,1
+877,'877','Thomas Alton @ Rossini',43.398726,-79.823316,1
 879,'879','Thomas Alton @ Ashlar',43.403214,-79.821542,1
 880,'880','Thomas Alton @ Hopkins',43.404998,-79.82109,1
 881,'881','Thomas Alton @ Ferguson',43.407217,-79.820379,1
@@ -658,6 +661,24 @@
 916,'916','Mainway @ Norjohn',43.390348,-79.777644,1
 922,'922','Upper Middle @ Country Club',43.387817,-79.796611,1
 923,'923','Appleby @ Upper Middle',43.393026,-79.788921,1
+924,'924','Millcroft @ Country Club',43.39084,-79.800143,1
+925,'925','Millcroft @ Parklane',43.393297,-79.799781,1
+926,'926','Millcroft @ Turnberry',43.395959,-79.801324,1
+927,'927','Millcroft @ Clubview',43.398359,-79.804761,1
+928,'928','Millcroft @ Taywood',43.399359,-79.809626,1
+929,'929','Sarazen @ Millcroft',43.399518,-79.811477,1
+930,'930','Sarazen @ Snead',43.394702,-79.813363,1
+931,'931','Berwick @ Sarazen',43.391833,-79.814656,1
+932,'932','Berton @ Darien',43.393019,-79.819458,1
+933,'933','Berton @ Addison',43.391908,-79.82079,1
+934,'934','Sarazen @ Berwick',43.391762,-79.81442,1
+935,'935','Sarazen @ Snead',43.394617,-79.813278,1
+936,'936','Millcroft @ Sarazen',43.399545,-79.811281,1
+937,'937','Millcroft @ Taywood',43.398826,-79.808468,1
+938,'938','Millcroft @ Clubview',43.397936,-79.804231,1
+939,'939','Millcroft @ Turnberry',43.396162,-79.801823,1
+940,'940','Millcroft @ Parklane',43.392642,-79.800016,1
+941,'941','Millcroft @ Country Club',43.389852,-79.800325,1
 943,'943','Tyandaga Pk @ Brant',43.351025,-79.836205,1
 946,'946','Waterdown @ Plains',43.3071,-79.853003,1
 947,'947','Upper Middle @ Imperial Way',43.395373,-79.78851,1
@@ -697,6 +718,7 @@
 1006,'1006','Lakeshore @ Colonial',43.362493,-79.741174,1
 1007,'1007','Lakeshore @ Hampton Heath',43.367821,-79.72996,1
 1008,'1008','Appleby @ Spruce',43.363128,-79.748318,1
+1010,'1010','Berton @ Darien',43.392956,-79.819301,1
 1011,'1011','Cumberland @ Prospect',43.35216,-79.786505,1
 1012,'1012','Fairview @ Burlington GO',43.339287,-79.809072,1
 1013,'1013','Fairview @ Burlington GO',43.339112,-79.808825,1
