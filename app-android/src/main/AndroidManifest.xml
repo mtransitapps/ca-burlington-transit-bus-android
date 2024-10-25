@@ -69,6 +69,7 @@
                 android:value="@string/twitter_target_for_poi_authority" />
         </provider>
         <!-- RSS NEWS PROVIDER -->
+        <!--
         <provider
             android:name="org.mtransit.android.commons.provider.RSSNewsProvider"
             android:authorities="@string/rss_authority"
@@ -82,5 +83,6 @@
                 android:name="@string/news_provider_target"
                 android:value="@string/rss_target_for_poi_authority" />
         </provider>
+        -->
     </application>
 </manifest>

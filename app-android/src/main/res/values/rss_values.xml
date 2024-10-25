@@ -7,7 +7,7 @@
     <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
     <string name="rss_encoding">iso-8859-1</string>
     <string-array name="rss_feeds">
-        <item>https://www.burlingtontransit.ca/en/Modules/News/rss.aspx</item>
+        <!-- <item>https://www.burlingtontransit.ca/en/Modules/News/rss.aspx</item> -->
     </string-array>
     <string-array name="rss_feeds_author_icon">
         <item>https://www.burlingtontransit.ca/android-chrome-192x192.png</item>
@@ -16,7 +16,7 @@
         <item>@string/gtfs_rts_short_name</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>https://www.burlingtontransit.ca/en/Modules/News/search.aspx</item>
+        <item>https://www.burlington.ca/Modules/News/en/Transit</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>www.burlingtontransit.ca</item>
