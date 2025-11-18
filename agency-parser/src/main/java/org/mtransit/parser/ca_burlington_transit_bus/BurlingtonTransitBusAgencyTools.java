@@ -1,6 +1,7 @@
 package org.mtransit.parser.ca_burlington_transit_bus;
 
 import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.gtfs.data.GStop;
@@ -14,11 +15,6 @@ public class BurlingtonTransitBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
 		new BurlingtonTransitBusAgencyTools().start(args);
-	}
-
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
 	}
 
 	@NotNull
@@ -39,6 +35,16 @@ public class BurlingtonTransitBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public @Nullable String getRouteIdCleanupRegex() {
+		return "^[\\d]{2}"; // starts with 2 digits
+	}
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "BUR-\\w{3}\\d{2}-RMKBLK-";
+	}
+
+	@Override
 	public boolean useRouteShortNameForRouteId() {
 		return true;
 	}
@@ -47,7 +53,7 @@ public class BurlingtonTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public String cleanRouteLongName(@NotNull String routeLongName) {
 		routeLongName = CleanUtils.toLowerCaseUpperCaseWords(Locale.ENGLISH, routeLongName, getIgnoredWords());
-		return CleanUtils.cleanLabel(routeLongName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), routeLongName);
 	}
 
 	@Override
@@ -78,7 +84,7 @@ public class BurlingtonTransitBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.CLEAN_AT.matcher(tripHeadsign).replaceAll(CleanUtils.CLEAN_AT_REPLACEMENT);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	private String[] getIgnoredWords() {
@@ -94,7 +100,7 @@ public class BurlingtonTransitBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanNumbers(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@Override
