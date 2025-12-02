@@ -40,6 +40,11 @@ public class BurlingtonTransitBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public boolean verifyRouteIdsUniqueness() {
+		return false; // merge routes
+	}
+
+	@Override
 	public @Nullable String getServiceIdCleanupRegex() {
 		return "BUR-\\w{3}\\d{2}-RMKBLK-";
 	}
