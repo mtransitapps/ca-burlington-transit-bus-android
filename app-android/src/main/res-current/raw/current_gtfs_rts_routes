@@ -3,8 +3,8 @@
 3,'3','Guelph','FF0080',51,3
 4,'4','Central','CD9A31',52,3
 6,'6','Headon','6E6C2F',54,3
-10,'10','New Maple','6D2D24',1567,3
-11,'11','Sutton Alton','C43242',1568,3
+10,'10','New-Maple','6D2D24',1567,3
+11,'11','Sutton-Alton','C43242',1568,3
 12,'12','Upper Middle','62B8D2',1569,3
 25,'25','Walkers','61658D',1603,3
 48,'48','Millcroft','93612D',1668,3
@@ -13,4 +13,4 @@
 52,'52','Burlington Northwest','006400',1693,3
 80,'80','Harvester','3D9B8C',1784,3
 81,'81','North Service','662C6B',1785,3
-87,'87','North Service Aldershot','C12F28',1791,3
+87,'87','North Service-Aldershot','C12F28',1791,3
