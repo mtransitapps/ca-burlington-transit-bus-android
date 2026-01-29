@@ -46,7 +46,7 @@ public class BurlingtonTransitBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public @Nullable String getServiceIdCleanupRegex() {
-		return "BUR-\\w{3}\\d{2}-RMKBLK-";
+		return "BUR-\\w{3}\\d{2}-RMKBLK-|-\\d{2}(-|$)";
 	}
 
 	@Override
